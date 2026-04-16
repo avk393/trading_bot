@@ -1,0 +1,1 @@
+# WTI Majority Scanning Strategy
