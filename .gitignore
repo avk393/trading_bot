@@ -1,1 +1,3 @@
-TradingBot/kalshi-trader/trading/.env
+TradingBot/kalshi-trader/.env
+TradingBot/kalshi-trader/kalshi-key.pem
+TradingBot/kalshi-trader/demo-kalshi-key.pem

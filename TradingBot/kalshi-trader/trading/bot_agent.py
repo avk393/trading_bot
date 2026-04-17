@@ -1,5 +1,7 @@
 import sys
 import os
+import json
+from datetime import datetime, timezone, timedelta
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from kalshi_api.get_trade_info import (
     get_event_by_series,
@@ -105,6 +107,114 @@ def collect_wti_trade_signals() -> list[dict]:
 
     return signals
 
+def eval_btc_time_trade_signals(m_ticker, 
+                                yes_ask, 
+                                no_ask, 
+                                price_min, 
+                                price_max, 
+                                exp_ts,
+                                time_til_exp_ts,
+                                current_ts) -> list[dict]:
+    if no_ask is None or yes_ask is None:
+        print(f"  [{m_ticker}] Missing ask prices, skipping.")
+        return []
+
+    # Skip markets with currently active orders
+    # May want to revisit to hedge
+    orders_data = get_orders(m_ticker)
+    if len(orders_data["orders"]) > 0:
+        print(f"  [{m_ticker}] Active orders found, skipping.")
+        return []
+
+    # Set signal direction
+    if no_ask > yes_ask:
+        direction = "no"
+        signal_price = no_ask
+    elif yes_ask > no_ask:
+        direction = "yes"
+        signal_price = yes_ask
+    else:
+        # Equal prices — no clear edge, skip
+        print(f"  [{m_ticker}] Equal ask prices (${no_ask}), skipping.")
+        return []
+
+    # Conditions for acceptable signal price
+    fsignal_price = float(signal_price)
+    if fsignal_price < price_min or fsignal_price > price_max:
+        print(f"  [{m_ticker}] Signal price ${fsignal_price:.2f} is not in threshold range, skipping.")
+        return []
+
+    # Only trade markets expiring within the allowable time frame
+    if not exp_ts:
+        print(f"  [{m_ticker}] Missing expected_expiration_time, skipping.")
+        return []
+
+    exp_unix = exp_ts if isinstance(exp_ts, (int, float)) else datetime.fromisoformat(exp_ts.replace("Z", "+00:00")).timestamp()
+    seconds_to_expiry = exp_unix - current_ts
+    if seconds_to_expiry <= 0:
+        print(f"  [{m_ticker}] Market already expired, skipping.")
+        return []
+    if seconds_to_expiry > time_til_exp_ts:
+        print(f"  [{m_ticker}] {seconds_to_expiry:.0f}s to expiry (outside {time_til_exp_ts}s window), skipping.")
+        return []
+
+    print(f"  [{m_ticker}] signal={direction}  signal_price=${fsignal_price:.2f}")
+    return [{
+        "market_ticker": m_ticker,
+        "signal": direction,
+        "signal_price": fsignal_price,
+    }]
+
+def collect_btc_time_trade_signals(seconds_to_expiry: int = 300, status: str = "open") -> list[dict]:
+    """
+    Scans all open KXBTC15M events, fetches every market under each event,
+    prices each market, and returns a list of signal dicts:
+        [{"market_ticker": str, "signal": "yes"|"no", "signal_price": float}, ...]
+    """
+    # Step 1 — fetch all open KXWTI events
+    events_response = get_event_by_series(series_ticker="KXBTC15M", status=status)
+
+    # Step 2 — extract every unique event_ticker
+    event_tickers = []
+    seen_events = set()
+    for event in events_response.get("events", []):
+        et = event.get("event_ticker")
+        if et and et not in seen_events:
+            seen_events.add(et)
+            event_tickers.append(et)
+
+    print(f"Found {len(event_tickers)} open event(s): {event_tickers}")
+
+    # Step 3 & 4 — for each event, fetch markets and collect unique market tickers
+    market_tickers = []
+    seen_markets = set()
+    for e_ticker in event_tickers:
+        event_data = get_markets_by_event(e_ticker)
+        markets = event_data.get("event", {}).get("markets", [])
+        for market in markets:
+            mt = market.get("ticker")
+            if mt and mt not in seen_markets:
+                seen_markets.add(mt)
+                market_tickers.append(mt)
+
+    print(f"Found {len(market_tickers)} unique market(s).")
+
+    # Step 5 & 6 — for each market ticker, fetch pricing and derive signal
+    signals = []
+    for m_ticker in market_tickers:
+        market_data = get_market_data(m_ticker)
+        market = market_data.get("market", {})
+        print(json.dumps(market, indent=2))
+        no_ask = market.get("no_ask_dollars")
+        yes_ask = market.get("yes_ask_dollars")
+        exp_ts = market.get("close_time")
+        current_ts = datetime.now(timezone.utc).timestamp()
+
+        signal = evaluate_btc_time_trade_signals(m_ticker, yes_ask, no_ask, 0.7, 0.95, exp_ts, seconds_to_expiry, current_ts)
+        if signal is not None:
+            signals.append(signal)
+
+    return signals
 
 def run_trades(count: int = 1, action: str = "buy", signals: list[dict] | None = None) -> list[dict]:
     """
@@ -138,11 +248,12 @@ def run_trades(count: int = 1, action: str = "buy", signals: list[dict] | None =
 
 
 if __name__ == "__main__":
-    results = collect_trade_signals()
+    results = collect_btc_time_trade_signals()
     print(f"\n=== {len(results)} signal(s) collected ===")
     for s in results:
         print(s)
 
+    """
     print(f"\n=== Executing trades based on signals ===")
     contracts_per_trade = 10
     action = "buy"
@@ -171,4 +282,4 @@ if __name__ == "__main__":
         message = "\n".join(message_lines)
         print("\nSending Telegram notification...")
         send_telegram_message(message)
-
+    """

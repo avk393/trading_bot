@@ -1,4 +1,4 @@
-""" import requests
+import requests
 from datetime import datetime, timezone
 
 ts = 1776229497  # your unix timestamp
@@ -24,3 +24,4 @@ import requests
 resp = requests.get("https://api.coinbase.com/v2/prices/BTC-USD/spot")
 price = resp.json()["data"]["amount"]
 print(f"BTC: ${price}")
+"""

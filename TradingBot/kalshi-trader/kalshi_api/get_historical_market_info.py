@@ -115,6 +115,7 @@ if __name__ == "__main__":
 
         if is_historical:
             market_data = get_historical_markets_for_event(event_ticker)
+            print("calling historical")
         else:
             market_data = get_recent_markets_for_event(event_ticker)
 
@@ -136,8 +137,8 @@ if __name__ == "__main__":
                 print(f"  Error: {candles_data['error']}")
                 continue
 
-
-            print(json.dumps(candles_data, indent=2))
+            print(len(candles_data))
+            #print(json.dumps(candles_data, indent=2))
             """
             output_file = f"{series}_candles.json"
             try:
