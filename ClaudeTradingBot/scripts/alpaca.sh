@@ -19,7 +19,7 @@ fi
 
 #API="${ALPACA_ENDPOINT:-https://api.alpaca.markets/v2}"
 API="${ALPACA_ENDPOINT:-https://paper-api.alpaca.markets/v2}"
-DATA="${ALPACA_DATA_ENDPOINT:-https://data.alpaca.markets/v2}"
+DATA="${ALPACA_DATA_ENDPOINT:-https://paper-data.alpaca.markets/v2}"
 
 H_KEY="APCA-API-KEY-ID: $ALPACA_API_KEY"
 H_SEC="APCA-API-SECRET-KEY: $ALPACA_SECRET_KEY"

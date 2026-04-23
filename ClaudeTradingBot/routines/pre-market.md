@@ -25,9 +25,9 @@ IMPORTANT — PERSISTENCE:
   MUST commit and push at STEP 6.
 
 STEP 1 — Read memory for context:
-- memory/TRADING-STRATEGY.md
-- tail of memory/TRADE-LOG.md
-- tail of memory/RESEARCH-LOG.md
+- ClaudeTradingBot/memory/TRADING-STRATEGY.md
+- tail of ClaudeTradingBot/memory/TRADE-LOG.md
+- tail of ClaudeTradingBot/memory/RESEARCH-LOG.md
 
 STEP 2 — Pull live account state:
   bash scripts/alpaca.sh account
@@ -59,7 +59,7 @@ STEP 5 — Notification: silent unless urgent.
   bash scripts/clickup.sh "<one line>"
 
 STEP 6 — COMMIT AND PUSH (mandatory):
-  git add memory/RESEARCH-LOG.md
+  git add ClaudeTradingBot/memory/RESEARCH-LOG.md
   git commit -m "pre-market research $DATE"
   git push origin main
 On push failure: git fetch && git pull --rebase origin main, then push again.
