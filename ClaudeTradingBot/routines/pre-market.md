@@ -30,12 +30,12 @@ STEP 1 — Read memory for context:
 - tail of ClaudeTradingBot/memory/RESEARCH-LOG.md
 
 STEP 2 — Pull live account state:
-  bash scripts/alpaca.sh account
-  bash scripts/alpaca.sh positions
-  bash scripts/alpaca.sh orders
+  bash ClaudeTradingBot/scripts/alpaca.sh account
+  bash ClaudeTradingBot/scripts/alpaca.sh positions
+  bash ClaudeTradingBot/scripts/alpaca.sh orders
 
 STEP 3 — Research market context via Perplexity. Run
-bash scripts/perplexity.sh "<query>" for each:
+bash ClaudeTradingBot/scripts/perplexity.sh "<query>" for each:
 - "WTI and Brent oil price right now"
 - "S&P 500 futures premarket today"
 - "VIX level today"
