@@ -14,14 +14,14 @@ if [[ -f "$ENV_FILE" ]]; then
   set +a
 fi
 
-: "${ALPACA_API_KEY:?ALPACA_API_KEY not set in environment}"
+: "${ALPACA_PAPER_KEY:?ALPACA_PAPER_KEY not set in environment}"
 : "${ALPACA_SECRET_KEY:?ALPACA_SECRET_KEY not set in environment}"
 
 #API="${ALPACA_ENDPOINT:-https://api.alpaca.markets/v2}"
 API="${ALPACA_ENDPOINT:-https://paper-api.alpaca.markets/v2}"
 DATA="${ALPACA_DATA_ENDPOINT:-https://paper-data.alpaca.markets/v2}"
 
-H_KEY="APCA-API-KEY-ID: $ALPACA_API_KEY"
+H_KEY="APCA-API-KEY-ID: $ALPACA_PAPER_KEY"
 H_SEC="APCA-API-SECRET-KEY: $ALPACA_SECRET_KEY"
 
 cmd="${1:-}"

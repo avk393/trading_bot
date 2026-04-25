@@ -6,16 +6,14 @@ You are running the pre-market research workflow. Resolve today's date via:
 DATE=$(date +%Y-%m-%d).
 
 IMPORTANT — ENVIRONMENT VARIABLES:
-- Every API key is ALREADY exported as a process env var: ALPACA_API_KEY,
-  ALPACA_SECRET_KEY, ALPACA_ENDPOINT, ALPACA_DATA_ENDPOINT,
-  PERPLEXITY_API_KEY, PERPLEXITY_MODEL, CLICKUP_API_KEY,
-  CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID.
+- Every API key is ALREADY exported as a process env var: ALPACA_PAPER_KEY,
+  ALPACA_SECRET_KEY, ALPACA_ENDPOINT, PERPLEXITY_API_KEY, PERPLEXITY_MODEL
 - There is NO .env file in this repo and you MUST NOT create, write, or
   source one. The wrapper scripts read directly from the process env.
 - If a wrapper prints "KEY not set in environment" -> STOP, send one
   ClickUp alert naming the missing var, and exit.
 - Verify env vars BEFORE any wrapper call:
-  for v in ALPACA_API_KEY ALPACA_SECRET_KEY PERPLEXITY_API_KEY \
+  for v in ALPACA_PAPER_KEY ALPACA_SECRET_KEY PERPLEXITY_API_KEY \
     CLICKUP_API_KEY CLICKUP_WORKSPACE_ID CLICKUP_CHANNEL_ID; do
     [[ -n "${!v:-}" ]] && echo "$v: set" || echo "$v: MISSING"
   done
@@ -56,11 +54,24 @@ STEP 4 — Write a dated entry to ClaudeTradingBot/memory/RESEARCH-LOG.md:
 - Decision: trade or HOLD (default HOLD — patience > activity)
 
 STEP 5 — Notification: silent unless urgent.
-  bash scripts/clickup.sh "<one line>"
+  bash scripts/telegram.sh "<one line>"
 
-STEP 6 — COMMIT AND PUSH (mandatory):
-  git add ClaudeTradingBot/memory/RESEARCH-LOG.md
-  git commit -m "pre-market research $DATE"
-  git push origin main
+STEP 6 — COMMIT AND PUSH directly to main (mandatory):
+- DO NOT create a new branch. DO NOT open a pull request.
+  DO NOT run `git checkout -b`, `gh pr create`, or any branch-creating command.
+  Work directly on the main branch.
+- Verify current branch is main before committing:
+    current=$(git branch --show-current)
+    if [[ "$current" != "main" ]]; then
+      git checkout main
+    fi
+- Stage, commit, push to main:
+    git add ClaudeTradingBot/memory/RESEARCH-LOG.md
+    git commit -m "pre-market research $DATE"
+    git push origin main
+- On push failure (non-fast-forward):
+    git fetch origin && git pull --rebase origin main
+    git push origin main
+- Never force-push. Never create a branch.
 On push failure: git fetch && git pull --rebase origin main, then push again.
 Never force-push.
