@@ -4,17 +4,15 @@ You are running the market-open execution workflow. Resolve today's date via:
 DATE=$(date +%Y-%m-%d).
 
 IMPORTANT — ENVIRONMENT VARIABLES:
-- Every API key is ALREADY exported as a process env var: ALPACA_API_KEY,
-  ALPACA_SECRET_KEY, ALPACA_ENDPOINT, ALPACA_DATA_ENDPOINT,
-  PERPLEXITY_API_KEY, PERPLEXITY_MODEL, CLICKUP_API_KEY,
-  CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID.
+- Every API key is ALREADY exported as a process env var: ALPACA_PAPER_KEY,
+  ALPACA_SECRET_KEY, ALPACA_ENDPOINT, PERPLEXITY_API_KEY, PERPLEXITY_MODEL
 - There is NO .env file in this repo and you MUST NOT create, write, or
   source one. The wrapper scripts read directly from the process env.
 - If a wrapper prints "KEY not set in environment" -> STOP, send one
-  ClickUp alert naming the missing var, and exit.
+  telegram alert naming the missing var, and exit.
 - Verify env vars BEFORE any wrapper call:
-  for v in ALPACA_API_KEY ALPACA_SECRET_KEY CLICKUP_API_KEY \
-    CLICKUP_WORKSPACE_ID CLICKUP_CHANNEL_ID; do
+  for v in ALPACA_PAPER_KEY ALPACA_SECRET_KEY PERPLEXITY_API_KEY \
+    TELEGRAM_TOKEN CHAT_ID; do
     [[ -n "${!v:-}" ]] && echo "$v: set" || echo "$v: MISSING"
   done
 
@@ -54,11 +52,26 @@ If also blocked, queue the stop in TRADE-LOG as "PDT-blocked, set tomorrow AM".
 STEP 6 — Append each trade to ClaudeTradingBot/memory/TRADE-LOG.md (matching existing format):
 Date, ticker, side, shares, entry price, stop level, thesis, target, R:R.
 
-STEP 7 — Notification: only if a trade was placed.
-  bash scripts/clickup.sh "<tickers, shares, fill prices, one-line why>"
+STEP 7 — Notification and tracking: only if a trade was placed. Execute the following for each successful trade placed:
+  bash scripts/telegram.sh "<ticker, shares, fill price, one-line why>"
+  bash scripts/neon_db.sh "<ticker, shares, fill price>"
 
-STEP 8 — COMMIT AND PUSH (mandatory if any trades executed):
-  git add ClaudeTradingBot/memory/TRADE-LOG.md
-  git commit -m "market-open trades $DATE"
-  git push origin main
-Skip commit if no trades fired. On push failure: rebase and retry.
+STEP 8 — COMMIT AND PUSH directly to main (mandatory):
+- DO NOT create a new branch. DO NOT open a pull request.
+  DO NOT run `git checkout -b`, `gh pr create`, or any branch-creating command.
+  Work directly on the main branch.
+- Verify current branch is main before committing:
+    current=$(git branch --show-current)
+    if [[ "$current" != "main" ]]; then
+      git checkout main
+    fi
+- Stage, commit, push to main:
+    git add ClaudeTradingBot/memory/RESEARCH-LOG.md
+    git commit -m "pre-market research $DATE"
+    git push origin main
+- On push failure (non-fast-forward):
+    git fetch origin && git pull --rebase origin main
+    git push origin main
+- Never force-push. Never create a branch.
+On push failure: git fetch && git pull --rebase origin main, then push again.
+Never force-push.

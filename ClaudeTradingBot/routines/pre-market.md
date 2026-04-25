@@ -11,10 +11,10 @@ IMPORTANT — ENVIRONMENT VARIABLES:
 - There is NO .env file in this repo and you MUST NOT create, write, or
   source one. The wrapper scripts read directly from the process env.
 - If a wrapper prints "KEY not set in environment" -> STOP, send one
-  ClickUp alert naming the missing var, and exit.
+  telegram alert naming the missing var, and exit.
 - Verify env vars BEFORE any wrapper call:
   for v in ALPACA_PAPER_KEY ALPACA_SECRET_KEY PERPLEXITY_API_KEY \
-    CLICKUP_API_KEY CLICKUP_WORKSPACE_ID CLICKUP_CHANNEL_ID; do
+    TELEGRAM_TOKEN CHAT_ID; do
     [[ -n "${!v:-}" ]] && echo "$v: set" || echo "$v: MISSING"
   done
 
