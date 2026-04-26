@@ -121,3 +121,52 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD.** Two independent reasons: (1) Alpaca IP allowlist blocks all order routing — infrastructure must be fixed first; (2) even if unblocked, FOMC + 5 mega-cap earnings + ATH after a +23% Intel day = poor entry environment. No trades. Cash 100%. Watchlist: NUE (post-print), XOM (on pullback), small-cap value (post-FOMC). Patience > activity.
+
+---
+
+## 2026-04-26 — Pre-market Research (refresh — Sunday PM, for Mon Apr 27 open)
+
+### Infrastructure Warnings
+- **PERPLEXITY_API_KEY: MISSING** — fell back to native WebSearch (per protocol)
+- **Alpaca API: 403** — account / positions / orders all blocked again. Live state still unavailable. Trading remains BLOCKED.
+- **Telegram delivery untested this run** — env vars present but prior session 403'd; will attempt one alert at end.
+- Sunday session — cash markets closed; targets Mon 2026-04-27 open.
+
+### Account
+- Equity: $10,000.00 (assumed unchanged — live pull blocked; no fills since launch)
+- Cash: ~$10,000 (100%)
+- Buying power: ~$10,000
+- Daytrade count: 0
+- Positions: None
+
+### Market Context
+- WTI: $94.40 (Fri close, -1.51%); week +13% — biggest weekly gain since early March, driven by Strait of Hormuz / Iran supply-risk premium
+- Brent: $105.33 (Fri close, +0.3%); week ~+16%
+- S&P 500: Friday close fresh ATH (+0.8%); Nasdaq 100 +1.95% ATH; Intel +22% led semis. Sun-night ES futures not yet quotable
+- VIX: 18.71 Fri close (-3.11% on day) — sub-19, two-week low
+- This week's catalysts (Apr 27 – May 1):
+  - **Wed FOMC** 2:00 ET decision + 2:30 ET Powell presser — stagflation framing in focus (weakening growth + energy-driven inflation)
+  - **Wed AMC:** MSFT, GOOGL, META all report; **Thu AMC:** AMZN, AAPL — ~25%+ of index cap reports in 48 hours
+  - **Tue:** Apr Consumer Confidence
+  - **Wed:** Mar Durable Goods (8:30 ET), housing starts/permits, new home sales
+  - **Thu:** Q1 GDP advance, Mar Core PCE, jobless claims (all 8:30 ET)
+  - **Fri:** Apr nonfarm payrolls (>200k = sentiment swing)
+- Earnings Mon BMO: Verizon (VZ, 7:00 ET release / 8:30 ET call); Mon AMC: Nucor (NUE, est $2.80 EPS / $8.89B rev), Cadence (CDNS)
+- Sector momentum YTD 2026: Energy +22% leader (data-center-power thesis); Consumer Staples + Energy at ATHs; Tech mega-cap leadership rotating into "Quality Value"; small/mid-cap leadership expected to expand; Real Estate weak (CRE drag)
+
+### Trade Ideas (watchlist — no entries this session; FOMC week)
+1. **NUE (Nucor)** — Mon AMC print; steel/cyclical with sector momentum. Trade only post-print Tue on confirmed beat + green hold above pre-print high. Stop -7% / target +15% (2:1).
+2. **XOM** — Energy YTD #1 (+22%); WTI $94 with supply premium intact. Wait for pullback toward 20-day MA; do NOT chase post oil +13% week. Stop -8% / target +16%.
+3. **VZ (Verizon)** — Mon BMO print; defensive yield, low-vol — viable only if (a) clean beat, (b) FOMC dovish surprise Wed boosts rate-sensitive yielders. Watch only.
+
+### Risk Factors
+- **Critical:** Alpaca IP allowlist still blocks execution
+- **FOMC Wednesday** + Powell presser — binary mid-week
+- **Mega-cap earnings cluster Wed/Thu** (MSFT/GOOGL/META/AMZN/AAPL) — index whipsaw risk regardless of single-name positioning
+- Q1 GDP + Core PCE Thu 8:30 ET — stagflation narrative is live
+- NFP Fri — late-week sentiment whip
+- Oil +13% wk on Iran/Hormuz risk — geopolitical reversal could unwind energy thesis fast
+- Index at ATH after Intel +22% — chase risk elevated; PDT account limits recovery if first trade misfires
+
+### Decision
+**HOLD.** Same two-part case as prior entry: (1) Alpaca 403 blocks any execution — infra fix is the only Day-1 priority; (2) even if unblocked, entering ahead of FOMC + 5 mega-cap prints + Q1 GDP/PCE + NFP, with VIX 18.7 and index at ATH, is a textbook chase. No trades. Cash 100%. Watchlist unchanged: NUE post-print Tue, XOM on pullback, small-cap value post-FOMC. Patience > activity.
