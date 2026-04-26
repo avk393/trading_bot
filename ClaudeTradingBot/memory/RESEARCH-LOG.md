@@ -78,3 +78,46 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD** — Infrastructure blockers prevent trading (Alpaca IP allowlist). Even absent blockers: market at record highs after 18-day semiconductor streak + all-time low consumer sentiment = poor chase setup. No positions. Cash at 100%. Patient start. Watchlist established for AMD, XOM/CVX on pullbacks. Resolve API access issues first.
+
+---
+
+## 2026-04-26 — Pre-market Research (Sunday — for Monday Apr 27 open)
+
+### Infrastructure Warnings
+- **PERPLEXITY_API_KEY: MISSING** — wrapper exited 3, fell back to native WebSearch (per protocol)
+- **NEON_API_KEY: MISSING** — Neon writes unavailable (not critical for this routine)
+- **Alpaca API: 403 (IP allowlist)** — account / positions / orders endpoints all blocked, same as 2026-04-24. Live state could not be pulled. Trading remains BLOCKED until resolved.
+- **Telegram API: 403** — alert delivery also blocked (likely same egress IP issue). Notification not delivered this session.
+- **Day-of-week note:** today is Sunday; cash markets closed. Research targets Monday 2026-04-27 open.
+
+### Account
+- Equity: $10,000.00 (assumed unchanged — live pull blocked; no trades placed since launch)
+- Cash: ~$10,000 (100%)
+- Buying power: ~$10,000
+- Daytrade count: 0
+- Positions: None (no fills since Day 0 baseline)
+
+### Market Context
+- WTI: ~$94.40 (-1.5%); softer on US-Iran talks (Trump envoys to Pakistan this weekend)
+- Brent: ~$105.33 (+0.3%)
+- S&P 500: Closed Friday +0.8% at fresh ATH; Nasdaq 100 +1.95% (also ATH); Intel +23% led chips. Sunday-night futures not yet quotable.
+- VIX: 18.71 Friday close (sub-19, two-week low — benign)
+- Today's catalysts (week of 4/27): FOMC meeting Tue/Wed (Powell's penultimate); mega-cap tech earnings Wed/Thu (MSFT, GOOG, META, AMZN, AAPL); Apr 28 Consumer Confidence; Apr 29 durable orders, housing starts/permits, new home sales
+- Earnings Mon BMO: Verizon (VZ, est $1.21/$34.82B), Nucor (NUE), Cincinnati Financial (CINF), Public Storage (PSA), AvalonBay (AVB), Domino's (DPZ), Universal Health (UHS), Ventas (VTR), Cadence (CDNS, AMC)
+- Sector momentum YTD 2026: Energy #1, Real Estate strong; Healthcare surprise outperformer; Tech and Financials lagging; small-cap value (S&P 600 Value +10.9% YTD) crushing S&P 500 (+1.8%) — clear cap-down rotation
+
+### Trade Ideas (watchlist — no entries this session)
+1. **NUE (Nucor)** — Steel; reports Mon BMO; Industrials/cyclical group has momentum; trade only post-print on confirmed beat + clean reaction. Entry on green hold above pre-print high, stop -7%, target +15% (2:1 R:R).
+2. **XOM** — Energy still YTD #1; WTI hovering $94 keeps thesis intact; wait for pullback to 20-day MA. Entry on dip, stop -8%, target +16%.
+3. **IWM / S&P 600 Value names** — small-cap value rotation theme; if FOMC delivers dovish surprise Wed, small-caps rip. Watch only — do NOT pre-position into FOMC.
+
+### Risk Factors
+- **Critical:** Alpaca IP allowlist still blocks execution — must resolve before any trade
+- **FOMC week** (Tue/Wed): pre-position risk is high; binary outcomes mid-week
+- **Mega-cap tech earnings** (Wed/Thu): can whipsaw entire indices regardless of single-name positioning
+- Market at fresh ATH after Intel +23% — chase risk elevated; semi extension
+- Geopolitics: Iran talks fluid; oil thesis vulnerable to a deal headline
+- PDT account (<$25k) limits recovery flexibility if early-week trades misfire
+
+### Decision
+**HOLD.** Two independent reasons: (1) Alpaca IP allowlist blocks all order routing — infrastructure must be fixed first; (2) even if unblocked, FOMC + 5 mega-cap earnings + ATH after a +23% Intel day = poor entry environment. No trades. Cash 100%. Watchlist: NUE (post-print), XOM (on pullback), small-cap value (post-FOMC). Patience > activity.
