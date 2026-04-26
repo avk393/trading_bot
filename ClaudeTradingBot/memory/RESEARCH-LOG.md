@@ -170,3 +170,53 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD.** Same two-part case as prior entry: (1) Alpaca 403 blocks any execution — infra fix is the only Day-1 priority; (2) even if unblocked, entering ahead of FOMC + 5 mega-cap prints + Q1 GDP/PCE + NFP, with VIX 18.7 and index at ATH, is a textbook chase. No trades. Cash 100%. Watchlist unchanged: NUE post-print Tue, XOM on pullback, small-cap value post-FOMC. Patience > activity.
+
+---
+
+## 2026-04-26 — Pre-market Research (Sunday evening refresh, for Mon Apr 27 open)
+
+### Infrastructure Warnings
+- **PERPLEXITY_API_KEY: MISSING** — pre-flight env check; fell back to native WebSearch (per protocol)
+- **Alpaca API: 403** — `account` / `positions` / `orders` all returned 403 (IP allowlist unchanged); live state still unavailable. Trading remains BLOCKED.
+- **Telegram:** env vars present; will attempt one alert this session for the missing Perplexity key (prior session 403'd).
+- Sunday session — cash markets closed; targets Mon 2026-04-27 open.
+- Branch note: started on `claude/epic-johnson-uY3Wv`; routine mandates `main`, switched to main and fast-forwarded.
+
+### Account
+- Equity: $10,000.00 (assumed unchanged — live pull blocked; no fills since Day 0 launch)
+- Cash: ~$10,000 (100%)
+- Buying power: ~$10,000
+- Daytrade count: 0
+- Positions: None
+
+### Market Context
+- WTI: $94.7/bbl Fri close (-1.51% on day; week +13% on Iran/Hormuz supply premium)
+- Brent: $105.33/bbl Fri close (+0.3% on day; week ~+16%)
+- S&P 500: Fri close 7,165.08 (+0.8%) fresh ATH; Nasdaq 24,836.60 (+1.6%) fresh ATH; Intel +23% led tape
+- VIX: 18.71 Fri close (-3.11% on day; sub-19, two-week low — benign)
+- This week's catalysts (Apr 27 – May 1):
+  - **Tue:** FOMC starts; Apr Consumer Confidence
+  - **Wed 2:00 ET:** FOMC decision; **2:30 ET** Powell presser (penultimate); Mar Durable Goods, housing starts/permits, new home sales
+  - **Wed AMC:** MSFT, GOOGL, META, AMZN report — single-day mega-cap cluster
+  - **Thu 8:30 ET:** Q1 GDP advance, Mar Core PCE, jobless claims; **Thu AMC:** AAPL
+  - **Thu:** ECB + BOE rate decisions; **Wed evening ET:** BOJ decision
+  - **Fri:** Apr nonfarm payrolls
+- Earnings Mon BMO: Verizon (VZ, 7:00 ET release / 8:30 ET call; Street est $1.21 EPS / $34.82B rev); Mon AMC: Nucor (NUE, est $2.80 / $8.89B), Cadence (CDNS); also Mon: PSA, AVB, DPZ, UHS, VTR, CINF
+- Sector momentum YTD 2026: Energy #1 (+22%, data-center power thesis); Consumer Staples + Energy at ATHs; mega-cap Tech leadership rotating into "Quality Value"; small/mid-cap broadening (S&P 600 Value +10.9% YTD vs S&P 500 +1.8%); Real Estate weak
+
+### Trade Ideas (watchlist only — no entries this session; FOMC + mega-cap week)
+1. **NUE (Nucor)** — Mon AMC print; steel/cyclical with sector momentum. Trade only Tue post-print on confirmed beat + clean hold above pre-print high. Stop -7% / target +15% (2:1 R:R).
+2. **XOM** — Energy YTD #1; WTI ~$94 supply premium intact. Wait for pullback to 20-day MA — do NOT chase post oil +13% week. Stop -8% / target +16%.
+3. **VZ** — Mon BMO defensive yielder; viable only if (a) clean beat AND (b) FOMC dovish surprise Wed boosts rate-sensitive yielders. Watch only.
+
+### Risk Factors
+- **Critical:** Alpaca IP allowlist still blocks execution — infra fix is Day-1 priority
+- **FOMC Wed** binary mid-week event; stagflation framing live (Q1 GDP + Core PCE Thu)
+- **Mega-cap earnings cluster Wed/Thu** — index whipsaw regardless of single-name positioning (>25% of index cap reports in 48h)
+- **Triple central bank (ECB/BOE/BOJ)** Thu — global rate cross-currents
+- **NFP Fri** — late-week sentiment whip
+- Iran/Hormuz oil premium reversible on any de-escalation headline (Trump envoys to Pakistan this weekend)
+- Index at ATH after Intel +23% — chase risk elevated; PDT account limits recovery if first trade misfires
+
+### Decision
+**HOLD.** Unchanged from prior 2x same-day entries. (1) Alpaca 403 blocks any execution — fix infra before anything else. (2) Even if unblocked: FOMC + 5 mega-cap prints + Q1 GDP/Core PCE + ECB/BOE/BOJ + NFP, with VIX 18.7 and index at ATH = textbook chase setup. No trades. Cash 100%. Watchlist unchanged: NUE post-print Tue, XOM on pullback, small-cap value post-FOMC. Patience > activity.
