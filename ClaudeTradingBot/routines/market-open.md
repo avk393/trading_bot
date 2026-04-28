@@ -18,7 +18,8 @@ IMPORTANT — ENVIRONMENT VARIABLES:
 
 IMPORTANT — PERSISTENCE:
 - Fresh clone. File changes VANISH unless committed and pushed.
-  MUST commit and push at STEP 8 if any trades executed.
+  DO NOT create a new branch, stay on main branch.
+  MUST commit and push at STEP 8.
 
 STEP 1 — Read memory for today's plan:
 - ClaudeTradingBot/memory/TRADING-STRATEGY.md

@@ -20,6 +20,7 @@ IMPORTANT — ENVIRONMENT VARIABLES:
 
 IMPORTANT — PERSISTENCE:
 - Fresh clone. File changes VANISH unless committed and pushed.
+  DO NOT create a new branch, stay on main branch.
   MUST commit and push at STEP 6.
 
 STEP 1 — Read memory for context:
@@ -56,7 +57,7 @@ STEP 4 — Write a dated entry to ClaudeTradingBot/memory/RESEARCH-LOG.md:
 STEP 5 — Notification: silent unless urgent.
   bash scripts/telegram.sh "<one line>"
 
-STEP 6 — COMMIT AND PUSH directly to main (mandatory):
+STEP 6 — COMMIT AND PUSH directly to main (MANDATORY):
 - DO NOT create a new branch. DO NOT open a pull request.
   DO NOT run `git checkout -b`, `gh pr create`, or any branch-creating command.
   Work directly on the main branch.
