@@ -268,3 +268,102 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD.** Cash 100%. No entries ahead of FOMC (today/Wed) + 5 mega-cap prints over 48h + Q1 GDP/Core PCE Thu, with VIX 18.4 and index in ATH zone. Watchlist: NUE only after confirmed post-print follow-through; XOM only on a real pullback (not at 38% YTD top); no Tech chase. Patience > activity.
+
+---
+
+## 2026-04-28 — Pre-market Research (cron 23:17 CDT)
+
+### Infrastructure
+- Run: cron pre-market.sh; log /Users/thekithlord/trading_bot/ClaudeTradingBot/logs/pre-market-2026-04-28.log
+- Perplexity: 7/7 queries ok.
+- Alpaca: account/positions/orders 200 OK.
+- Branch: main.
+
+### Account (live pull, 23:17 CDT)
+- Equity: $100000
+- Cash: $100000
+- Buying power: $200000
+- Daytrade count: 0; PDT flag: False
+- Positions: 0; Open orders: 0
+- Note: TRADING-STRATEGY.md caps deployable capital at ~$10,000.
+
+### Market Context — Oil
+As of April 28, 2026, **Brent crude oil was trading at $109.96 per barrel**[1], while specific WTI pricing data from that date is limited in the search results. However, a forecast indicated **WTI was testing the $100 level** on April 29, 2026[3], and technical analysis from April 28 suggested WTI was trading around $94 with expectations to reach $99[7].
+
+The prices reflect elevated levels driven by geopolitical tensions—crude prices have climbed as stalled peace talks between the US and Iran are keeping the Strait of Hormuz closed, tightening global oil supplies[8].
+
+### Market Context — S&P 500 Futures (premarket)
+**S&P 500 futures (June 2026 E-mini contract) traded at 6,657.50 in premarket on April 28, 2026, up 6.50 points or 0.10% as of 06:22 AM.** [1]
+
+This reflects the close of premarket trading for April 28, with the contract showing a +11.90% gain since March 27, 2026, reaching intraday levels around that date.[3] Broader context includes mixed futures after S&P 500 and Nasdaq record highs on April 27, alongside a -0.63% drop in June E-mini S&P futures amid a -0.66% decline in the spot S&P 500 Index.[3][4] Prediction markets on Robinhood priced the April 28 settlement around 7125 (93¢ probability above that level), indicating forward expectations near 7000-7300.[2] Real-time data from sources like Investing.com confirms ongoing E-mini S&P 500 futures coverage, though specific intraday premarket quotes vary by platform.[5]
+
+### Market Context — VIX
+The **VIX closed at 18.36** on April 28, 2026, with an opening of 18.30[3]. The spot price was recorded at $18.25, representing a 1.28% increase from the previous close of 18.02[1].
+
+### Today's Catalysts
+**Top stock market catalysts on April 28, 2026, centered on the semiconductor sector's record rally driven by AI themes and geopolitics, alongside standout individual stock performances.** [1][2]
+
+### Semiconductor Sector Surge
+The **Philadelphia Semiconductor Index (SOX)** achieved an 18-day winning streak ending April 28, its longest in 32 years, with a 44% rise since March 31, fueled by investor chasing of the **AI theme** and geopolitical factors.[1] Global semiconductor spending projections reached $1.3 trillion for 2026, up 64% year-over-year, supporting fundamentals amid overbought conditions (SOX most extended vs. 200-day moving average since 2000).[1] Chipmakers propelled broader tech gains, making **technology the only overbought S&P 500 sector**.[1]
+
+### Top-Performing Stocks
+April 2026 monthly gainers highlighted extreme momentum in select names:
+- **MGRT (+1,033%)**, **ONEG (+311%)**, **XNDU (+269%)**, **ROLR (+202%)**, **MXL (+194%)**.[2]
+
+### Stocks to Watch
+- **Growth stocks**: Ascendis Pharma (ASND), Teledyne Technologies (TDY), Prologis (PLD), Hamilton Lane (HLNE), Elmet Group (ELMT).[3]
+- **Value stocks** (high volume): Invesco QQQ (QQQ), Sandisk (SNDK), Intel (INTC), CoreWeave (CRWV), ProShares UltraPro Short QQQ (SQQQ), Bloom Energy (BE), Nebius Group (NBIS).[4]
+
+### Other Mentions
+Tesla (TSLA) approached key support at $342.95, with potential rally targets at $398.25 if closing near $378.55.[5] Broader context included Bitcoin and Big Tech rallies amid ceasefire uncertainty.[4]
+
+### Earnings Before Open
+**No US companies are scheduled to report earnings before market open on April 28, 2026, based on available calendars.** [1][2][6]
+
+CapyFin's earnings calendar for 2026-04-28 lists zero announcements before open, after close, or overall for that day. [1] Stock Analysis confirms 195 earnings on April 28 (Tuesday) but 247 on April 29 (Wednesday), with examples like Verizon (VZ) on April 27 before open and Tradeweb Markets (TW) explicitly before open—none specified for April 28 BMO. [2] MarketChameleon defines BMO as "before market open" but provides no April 28 BMO entries in the results. [6]
+
+International reports occur on April 28 (e.g., Boliden AB, ASSA ABLOY AB at 12:00 AM UTC), but these are not US BMO and may not align with US market open (9:30 AM ET). [3] Other calendars like Business Insider and Wall Street Horizon lack specific April 28 BMO details. [4][7]
+
+Data is preliminary; confirm via official sources like company IR pages, as dates can shift. [7]
+
+### Economic Calendar
+Based on the economic calendar for the week of April 28-30, 2026, the following key releases are scheduled:
+
+**Tuesday, April 28:**
+- **BOJ Interest Rate Decision** and Core CPI (Japan)[2]
+- **CB Consumer Confidence** (USD)[1]
+- **Richmond Manufacturing Index** (USD)[1]
+- **German Prelim GDP q/q** (EUR)[1]
+
+**Wednesday, April 29:**
+- **Interest Rate Decisions** for USD and CAD[1]
+- **German Prelim CPI m/m** (EUR)[1]
+
+**Thursday, April 30:**
+- **Interest Rate Decisions** for GBP and EUR[1]
+- **Core CPI Flash Estimate y/y and CPI Flash Estimate y/y** (EUR)[1]
+- **Advance GDP q/q and Advance GDP Price Index q/q** (USD)[1]
+- **Core PCE Price Index m/m, Employment Cost Index q/q, and Unemployment Claims** (USD)[1]
+
+The week features critical **inflation data** (CPI, PCE, PPI) and **multiple central bank interest rate decisions** across major currencies, along with employment metrics and GDP figures. These releases are typically high-impact events for currency and financial markets[1][5].
+
+### Sector Momentum
+**No direct YTD performance data for S&P 500 sectors as of April 28, 2026, is available in the provided search results.[1][2][4][5][6]**
+
+Recent market flows indicate **health care** saw demand while **macro, energy, and communication services** faced supply as of April 28, 2026, suggesting relative momentum weakness in those sectors.[1]
+
+The Invesco S&P 500 Momentum ETF (SPMO), tracking the 100 S&P 500 stocks with strongest volatility-adjusted momentum, had top sector weights of **Technology (35.24%)**, **Financial Services (19.89%)**, and **Communication Services (14.51%)**.[2]
+
+S&P 500 closed at 7,174 on April 28, 2026, amid narrow breadth reliant on mega-cap tech and semis.[1]
+
+**Limitations**: Search results lack explicit YTD sector returns (e.g., no percentages from Jan 1 to Apr 28, 2026); sector tracker tools [5] and relative performance charts [4] provide general methods but no specific 2026 data. Flows and ETF weights offer indirect momentum signals.[1][2]
+
+### Trade Ideas
+- Watchlist only by default; this is an automated routine. Manual review required before any entry.
+
+### Risk Factors
+- Per TRADING-STRATEGY.md: 75-85% deployed (currently 0 positions); max 6 names; max 3 new trades / week.
+- Mega-cap and macro events: see Today's Catalysts and Economic Calendar above.
+
+### Decision
+**HOLD by default.** Cash 100%. Automated routine does not enter positions; manual review required. Patience > activity.
