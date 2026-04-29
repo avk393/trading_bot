@@ -220,3 +220,51 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD.** Unchanged from prior 2x same-day entries. (1) Alpaca 403 blocks any execution — fix infra before anything else. (2) Even if unblocked: FOMC + 5 mega-cap prints + Q1 GDP/Core PCE + ECB/BOE/BOJ + NFP, with VIX 18.7 and index at ATH = textbook chase setup. No trades. Cash 100%. Watchlist unchanged: NUE post-print Tue, XOM on pullback, small-cap value post-FOMC. Patience > activity.
+
+---
+
+## 2026-04-28 — Pre-market Research (Tuesday evening refresh, for Wed Apr 29 open)
+
+### Infrastructure
+- Perplexity: OK (rc=0 on 7 queries; PERPLEXITY_API_KEY restored to .env this session).
+- Alpaca: OK (account/positions/orders all 200; prior 403 IP-allowlist block has cleared).
+- Branch: main; will commit + push at Step 6.
+
+### Account (live pull, 22:57 CDT)
+- Equity: $100,000.00 (paper)
+- Cash: $100,000.00
+- Buying power: $200,000 (margin x2)
+- Daytrade count: 0; PDT flag: false
+- Positions: none; Open orders: none
+- Note: TRADING-STRATEGY.md caps deployable capital at ~$10,000 — strategy file overrides paper account size for sizing/risk.
+
+### Market Context
+- WTI: ~$94 spot per intraday note; June WTI futures (CLM26) +3.69% on Apr 28 — energy bid persists. Geopolitical premium still embedded.
+- Brent: $109.96 (Apr 28, 9:00 ET) per Fortune; up from $106.73 prior session.
+- S&P 500 cash: 7,173.93 (+0.1%) Apr 28 close, 3 of 11 sectors green; new ATH region intact.
+- ES futures (premarket Apr 29): ~6,657.50 (+0.10%) per Business Insider feed — note: figure inconsistent with cash 7,173.93, treat as low confidence; Nasdaq fut +0.07%, YM +0.12%.
+- VIX: 18.36 close Apr 28 (open 18.30) — sub-19, benign regime.
+- Sector momentum YTD: Energy +38.3% (#1, 6-mo +40.4%, 12-mo +37.8%); Real Estate +2.8% #2 distant; Tech leading April monthly (+2.2%) on SOX 18-day +44% streak (longest in 32 yrs); Tech most-extended vs 200-DMA since 2000.
+
+### This Week's Catalysts
+- **Wed Apr 29 (today/tomorrow open):** FOMC rate decision + Powell presser (2:00/2:30 ET); Core PCE m/m, Employment Cost Index q/q, Unemployment Claims (8:30 ET); Mar Durable Goods.
+- **Wed AMC:** MSFT, GOOGL, META.
+- **Thu Apr 30:** Advance Q1 GDP, GDP price index, Core PCE m/m, Jobless Claims (8:30 ET); **Thu AMC:** AMZN, AAPL.
+- **Fri May 1:** No top-tier US macro on this calendar pull (NFP not scheduled this week per Perplexity; verify against BLS if material).
+- BMO Wed Apr 29 earnings: Camden National (CAC) confirmed; full BMO list incomplete in Perplexity result — accept as a known gap.
+
+### Trade Ideas (watchlist; FOMC + mega-cap night = no entries)
+1. **NUE (Nucor)** — Mon AMC print already passed; if post-print action confirmed beat + held above pre-print high, eligible. Need confirmation before any entry. Stop -7% / target +15% (2:1).
+2. **XOM** — Energy YTD +38.3% leader; do NOT chase. Wait for pullback to 20-DMA. Stop -8% / target +16%.
+3. **Semis (SOX) caution short** — N/A as long-only; flagging that SOX +44% in 18 sessions and Tech most-extended vs 200-DMA since 2000 is a chase-warning, not an entry. Avoid late Tech entries today.
+
+### Risk Factors
+- **FOMC today (Apr 29) 2:00 ET** — binary.
+- **Mega-cap earnings cluster Wed/Thu AMC** (MSFT, GOOGL, META, then AMZN, AAPL) — index whipsaw risk.
+- **Q1 GDP advance + Core PCE Thu 8:30 ET** — stagflation tape risk.
+- Energy sector +38.3% YTD with WTI/Brent bid: reversal headline (de-escalation) could unwind fast.
+- SOX/Tech 200-DMA stretch most extreme since 2000 — chase risk in semis.
+- Premarket ES quote (6,657.50) is suspect vs cash 7,173.93 — treat that single number as low confidence; rely on cash + sector tape.
+
+### Decision
+**HOLD.** Cash 100%. No entries ahead of FOMC (today/Wed) + 5 mega-cap prints over 48h + Q1 GDP/Core PCE Thu, with VIX 18.4 and index in ATH zone. Watchlist: NUE only after confirmed post-print follow-through; XOM only on a real pullback (not at 38% YTD top); no Tech chase. Patience > activity.
