@@ -480,3 +480,17 @@ Recent trading on 2026-04-29 noted broad supply pressure in **discretionary, hea
 Aggregate S&P 500 momentum indicator was 98.76 as of 2026-04-01 (earlier in YTD period), but lacks sector breakdown or update to 2026-04-29.[1] Other results cover general sector indices [4][6][7] or momentum ETFs [5] without YTD sector momentum specifics. Data gaps exist due to limited search coverage.
 
 _Research-only entry. Trade ideas + decision will be appended by the agent synthesis step._
+
+### Trade Ideas (agent-synthesized)
+NONE — patience > activity.
+
+_Manual review required before any entry. Hard rules from CLAUDE.md / TRADING-STRATEGY.md govern. If the model output conflicts with the rulebook, the rulebook wins._
+
+Rationale: Today is FOMC decision day (rates held 3.50-3.75%, 8-4 split, Powell presser) AND mega-cap earnings AMC (GOOG, AMZN, META, MSFT). CLAUDE.md hard rule: "No new entries on FOMC day or mega-cap-earnings day unless catalyst explicitly demands it." Both triggers fire today; no catalyst overrides them. VIX rising ~5% intraday (~18.7), Brent +10% on the week on Hormuz/Iran tensions, S&P 500 YTD -4.33%. Sector momentum data thin; tech post-close earnings reaction will reset the tape. No edge in front-running four Mag-7 prints into a hawkish-dissent FOMC.
+
+### Risk Factors
+- Per TRADING-STRATEGY.md: 75-85% deployed (currently 0 positions); max 6 names; max 3 new trades / week.
+- Mega-cap and macro events: FOMC today (rates held, dissent); GOOG/AMZN/META/MSFT earnings AMC; oil spiking on Strait of Hormuz closure; VIX bid.
+
+### Decision
+**HOLD by default.** Cash 100%. Automated routine does not enter positions; manual review required. Patience > activity.
