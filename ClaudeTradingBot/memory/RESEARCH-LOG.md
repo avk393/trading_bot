@@ -367,3 +367,116 @@ S&P 500 closed at 7,174 on April 28, 2026, amid narrow breadth reliant on mega-c
 
 ### Decision
 **HOLD by default.** Cash 100%. Automated routine does not enter positions; manual review required. Patience > activity.
+
+---
+
+## 2026-04-29 — Pre-market Research (cron 19:59 CDT)
+
+### Infrastructure
+- Run: cron pre-market.sh; log /Users/thekithlord/trading_bot/ClaudeTradingBot/logs/pre-market-2026-04-29.log
+- Perplexity: 8/8 queries ok.
+- Alpaca: account/positions/orders 200 OK.
+- Branch: main.
+
+### Account (live pull, 19:59 CDT)
+- Equity: $100000
+- Cash: $100000
+- Buying power: $200000
+- Daytrade count: 0; PDT flag: False
+- Positions: 0; Open orders: 0
+- Note: TRADING-STRATEGY.md caps deployable capital at ~$10,000.
+
+### Market Context — Oil
+**On April 29, 2026, Brent crude oil reached $119.34 per barrel by 1:15 p.m. ET, with an intraday high of $119.76, and earlier sat at $113.99 per barrel at 9 a.m. ET.** [1][3]  
+**WTI crude oil prices are not directly reported in spot terms, but front-month settlement exceeded $106.99 and was forecasted around $97 or higher at 5 p.m. ET.** [2][4]  
+
+Oil prices surged due to geopolitical tensions, including a US blockade of Iranian ships and Iran's closure of the Strait of Hormuz, pushing Brent over 10% higher for the week and challenging $120/bbl globally.[3][6] Brent serves as the main global benchmark, while WTI is the primary North American one; prices vary by delivery month (e.g., Brent June at $119.34, July at $111.27).[1][3] These figures reflect intraday highs and specific times on April 29, with no unified closing price available across sources.[1][3][6] Prediction markets like Gemini and Kalshi indicate WTI sentiment above key thresholds ($97+ and >$106.99).[2][4]
+
+### Market Context — S&P 500 Futures (premarket)
+**S&P 500 futures are at 6,657.50 in premarket trading, up 6.50 points or 0.10% as of 06:22:43 AM.** [1]
+
+This reflects the latest available premarket data for US stock market futures, alongside Dow Jones futures at 46,958.00 (+56.00, +0.12%) and Nasdaq 100 futures at 24,376.75 (+18.25, +0.07%). [1] Real-time E-mini S&P 500 futures data and charts are also accessible via Investing.com and CME Group, though specific quotes were not detailed in the results. [2][3] Premarket trading covers futures like these before regular market hours. [1]
+
+### Market Context — VIX
+**The VIX closed at 17.83 on April 28, 2026, the most recent full trading day available.[1]**
+
+Intraday data as of April 29, 2026 (prior to market close), shows the VIX spot price around **18.70 to 18.81**, up approximately **4.88% to 5.50%** from the prior close, with levels trading between 17.80 and 18.45.[2][4] Another source reports an April 29 close or level of **18.12** (open 17.84, high 18.13, low 17.81, +1.63%).[5]
+
+| Date       | Close/Level | Source |
+|------------|-------------|--------|
+| 2026-04-28 | 17.83      | [1]   |
+| 2026-04-29 | 18.70-18.81 (spot, intraday) | [2] |
+| 2026-04-29 | 18.12 (reported close) | [5]  |
+| 2026-04-27 | 18.02      | [1][5]|
+
+Slight discrepancies across sources reflect timing differences (e.g., close vs. spot vs. intraday).[1][2][5] No confirmed April 29 closing level is available in results as of April 30, 2026, 12 AM UTC.[1][2] Prior days: April 24 at 18.71, April 23 at 19.31.[1]
+
+### Today's Catalysts
+As of April 29, 2026, **gold was trading at $4,615.49 per ounce**, up $7.09 from the previous day[1].
+
+## Gold Price Details
+
+The spot price on April 29, 2026 represented:[1]
+- **Per gram:** $148.39 (+$0.23)
+- **Per kilogram:** $148,389.81 (+$228.04)
+
+Gold experienced volatility during late April, having fallen $84.25 (-1.80%) to $4,605.49 on April 28 amid the Federal Reserve's policy meeting and geopolitical tensions[2].
+
+## Other Precious Metals (April 28, 2026)
+
+| Metal | Spot Price | Daily Change |
+|-------|-----------|---------------|
+| Silver | $73.22 | -$2.69 (-3.54%) |
+| Platinum | $1,960.90 | -$39.70 (-1.99%) |
+| Palladium | $1,469.80 | -$24.70 (-1.65%) |
+
+Silver experienced the steepest decline, with the gold-to-silver ratio widening to approximately 62.9:1[2].
+
+## Market Context
+
+Key catalysts driving precious metals prices included Iran conflict tensions, Federal Reserve decisions, dollar strength, and broader macroeconomic uncertainty[1]. Gold prices showed consolidation, with traders monitoring support levels around $4,500–$4,600 and resistance near $4,700[1].
+
+### Earnings Before Open
+**Top stock market catalysts on April 29, 2026, centered on the Federal Reserve's FOMC decision to hold rates steady at 3.5%-3.75% in an 8-4 split vote (first dissent since 1992), alongside earnings from Magnificent Seven tech giants: Alphabet (GOOG), Amazon (AMZN), Meta (META), and Microsoft (MSFT) after market close.[3][5]**
+
+Markets traded sideways with low volatility and profit-taking, though semiconductors rebounded, lifting Nasdaq; S&P 500 consolidated above 7,100, with potential bounce targets at 7,180-7,230.[5]
+
+**Key sector and stock highlights:**
+- **Tech/AI rally**: Seagate (STX) surged 17% on strong profit/revenue outlook amid AI demand, offsetting OpenAI's sales miss; spotlight on Mag 7 AI spending for revenue growth.[3]
+- **Large-cap watches**: NVIDIA, Intel, Micron, Invesco QQQ (QQQ), Tesla, AMD, Amazon.[1][4]
+- **Growth stocks**: Ascendis Pharma (ASND), Prologis (PLD), Teledyne (TDY), Hamilton Lane (HLNE).[2]
+- **Value stocks**: Intel, Invesco QQQ, Sandisk.[4]
+- **Quantum ETF**: Defiance Quantum (QTUM) hit new high (up 77% past year), driven by quantum computing catalysts.[6]
+
+FOMC communications, including Powell's potential final press conference, drove pre-event volatility spikes.[3][5] Amkor Technology fired a buy signal post-Q1 earnings beat.[1]
+
+### Economic Calendar
+**AFLAC (AFL), Allstate (ALL), O'Reilly Automotive (ORLY), and American Water Works (AWK) are scheduled to report earnings before market open on April 29, 2026.** [2]
+
+TipRanks lists these companies with market caps of $59.08B for AFLAC, $55.31B for Allstate, $76.95B for O'Reilly Automotive, and $25.77B for American Water Works, indicating pre-market releases. [2] Other calendars like Nasdaq show no reports or data unavailable for that date, while Investing.com focuses on after-hours or smaller caps without specifying BMO for majors. [3][4] MarketChameleon defines BMO as before market open but lacks specific April 29, 2026 listings here. [5] No other sources confirm additional BMO reports for that date. [1][6][7]
+
+### Sector Momentum
+**Key US economic events for the week of April 27–May 3, 2026 (as of April 30):**
+
+- **FOMC Rate Decision**: Released April 29 at 2:00 PM ET (already occurred); rates held at 3.50–3.75% with statement and Powell press conference at 2:30 PM ET. No updated projections or dot plot; focus on statement language amid recent soft core CPI/PPI and mixed jobs data.[1][2]
+- **Q1 GDP Advance, March PCE (Core PCE QoQ Adv at 2.7% actual vs. 3.1% consensus), Employment Cost Index**: All released simultaneously April 30 at 8:30 AM ET (today, already out); PCE key for Fed inflation view, ECI for wage pressures (Q4 2025 at 0.7% QoQ).[2][5]
+- **April CPI**: Scheduled May 12 at 8:30 AM ET (Tuesday, outside this week).[3][7]
+- **PPI**: Recent prints lower than consensus (e.g., smaller headline rise); no specific this-week release listed beyond potential April 15 prior data referenced generically.[1][5][8]
+- **Jobs Data**: No Nonfarm Payrolls this week (next likely early May per schedule); recent ADP weekly at 39.25K (April 29), jobless claims 4-week avg. 210.75K (April 29).[4][5][7]
+
+No further CPI, PPI, FOMC, or major jobs reports (e.g., Employment Situation) confirmed this week per calendars; check BLS/Fed for updates.[3][6][7]
+
+### Held-ticker News
+**No direct data on S&P 500 sector momentum year-to-date (YTD) as of 2026-04-29 is available in the search results.**
+
+S&P 500 overall YTD total return through 2026-04-29 stands at -4.33% (price return -4.63%, dividend return +0.30%), calculated from the 2025 year-end close.[3]
+
+Partial sector price return data as of 2026-04-28 (prior close) shows:
+- **Energy**: +1.65% daily change (index at 882.24).[4]
+- **Industrials**: -0.88% daily change (index at 1,447.18).[4]
+
+Recent trading on 2026-04-29 noted broad supply pressure in **discretionary, healthcare, materials, and industrials** sectors from asset managers (net sellers ~$1.5bn), with no single sector dominating hedge fund sales; overall S&P 500 fell -49bps to 7,139.[2]
+
+Aggregate S&P 500 momentum indicator was 98.76 as of 2026-04-01 (earlier in YTD period), but lacks sector breakdown or update to 2026-04-29.[1] Other results cover general sector indices [4][6][7] or momentum ETFs [5] without YTD sector momentum specifics. Data gaps exist due to limited search coverage.
+
+_Research-only entry. Trade ideas + decision will be appended by the agent synthesis step._
