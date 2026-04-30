@@ -611,4 +611,47 @@ Other sectors trail significantly, reflecting a shift from 2025's Technology (TE
 
 No comprehensive YTD table through April 30 is available; Novel Investor data likely approximates end-April.[2] Momentum indices like S&P 500 Momentum show +17.78% QTD (to Apr 27).[4]
 
-_Research-only entry. Trade ideas + decision will be appended by the agent synthesis step._
+### 🧠 Agent Synthesis — 2026-04-30 19:10 EDT
+
+**Market Regime:** Cautiously bullish. VIX dropping (-7.6% to 17.38), S&P futures green, Fed held rates. Oil volatile on Iran/Hormuz but contained. Big earnings day (LLY, MA, CAT). GDP/PCE data releasing today.
+
+**Account:** $100k equity, 0 positions, 0 open orders. Deployable capital per strategy: ~$10k. Fresh slate.
+
+**Sector Momentum Rankings:**
+1. Energy (XLE) — +38.3% YTD, dominant leader, oil tailwinds from geopolitics
+2. Industrials (XLI) — momentum improving, CAT earnings catalyst today
+3. Consumer Staples (XLP) — defensive momentum, steady
+4. Real Estate (XLRE) — improving, +2.8% YTD
+
+**Trade Ideas (ranked by conviction):**
+
+1. **XLE (Energy Select Sector SPDR)** — Highest conviction
+   - Catalyst: Energy +38.3% YTD, oil $106-115 on Hormuz tensions, sector momentum #1
+   - Entry: ~$105-108 range (check open price)
+   - Stop: 10% trailing ($95-97)
+   - Target: ride momentum, 2:1+ R:R
+   - Size: ~$2,000 (20% of $10k cap)
+   - Risk: Oil whipsaw if Iran tensions de-escalate
+
+2. **CAT (Caterpillar)** — Earnings catalyst
+   - Catalyst: Reports BMO today, EPS est $4.65. Industrials showing momentum.
+   - Entry: Wait for earnings reaction. Buy on beat + positive guidance only.
+   - Stop: 10% trailing
+   - Target: 2:1 R:R minimum
+   - Size: ~$2,000
+   - Risk: Miss or weak guidance tanks it. DO NOT enter pre-earnings.
+
+3. **MA (Mastercard)** — Earnings catalyst
+   - Catalyst: Reports BMO, EPS est $4.41. Consumer spending data strong.
+   - Entry: Post-earnings only on beat
+   - Stop: 10% trailing
+   - Target: 2:1 R:R
+   - Size: ~$1,500-2,000
+   - Risk: Financials sector lagging YTD — counter-momentum play
+
+**Decision:** Prioritize XLE as primary position (sector momentum alignment). Watch CAT/MA earnings reactions for secondary entries. Max 2 trades today to conserve weekly trade budget (3/week cap). Wait for market open + first 30 min to confirm direction before executing.
+
+**Action items for market open:**
+- [ ] Check XLE opening price and set limit order
+- [ ] Monitor CAT and MA earnings releases
+- [ ] Place 10% trailing stop immediately on any fill
