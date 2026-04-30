@@ -655,3 +655,121 @@ No comprehensive YTD table through April 30 is available; Novel Investor data li
 - [ ] Check XLE opening price and set limit order
 - [ ] Monitor CAT and MA earnings releases
 - [ ] Place 10% trailing stop immediately on any fill
+
+---
+
+## 2026-04-30 — Pre-market Research (cron 19:51 EDT)
+
+### Infrastructure
+- Run: cron pre-market.sh; log /data/.openclaw/workspace/trading_bot/ClaudeTradingBot/logs/pre-market-2026-04-30.log
+- Perplexity: 8/8 queries ok.
+- Alpaca: account/positions/orders 200 OK.
+- Branch: main.
+
+### Account (live pull, 19:51 EDT)
+- Equity: $100000
+- Cash: $100000
+- Buying power: $200000
+- Daytrade count: 0; PDT flag: False
+- Positions: 0; Open orders: 0
+- Note: TRADING-STRATEGY.md caps deployable capital at ~$10,000.
+
+### Market Context — Oil
+**As of April 30, 2026, late trading:** Brent crude reached a high of **$126.41** per barrel before falling to **$115.8** per barrel[2]. WTI crude traded at **$106** per barrel, down 0.7%[1][2].
+
+Prediction markets indicate WTI expectations around **$102-$103** or higher, with 93¢ probability for $102+ and 73¢ for $103+[1]. Markets show a 53.5% chance of WTI closing higher on April 30[3]. Prices reflect volatility from US-Iran tensions impacting the Strait of Hormuz[2].
+
+### Market Context — S&P 500 Futures (premarket)
+**S&P 500 futures are trading at 6,657.50 in premarket, up 6.50 points or 0.10% as of 06:22:43 AM.** [1]
+
+This reflects the front-month contract, with June 2026 E-mini S&P 500 futures (ESM26) showing gains of +0.11% to +0.35% across updates, amid mixed stock index performance where the S&P 500 spot index rose +0.39%.[3][1][3]
+
+Supporting details include:
+- Dow Jones futures at 46,958.00, up 0.12%; Nasdaq 100 futures at 24,376.75, up 0.07%.[1]
+- Broader context notes cautious sentiment ahead of US open, influenced by tech earnings and geopolitical news.[3]
+- Prediction markets on Robinhood show contracts for S&P 500 futures price on April 30, 2026, with activity around levels above 7,200-7,300.[2]
+
+### Market Context — VIX
+The VIX closed at **17.38** on April 30, 2026, with a daily decline of 7.60%.[5] During the trading session, the index traded between a low of 17.32 and a high of 18.73, representing an 8.2% intraday range.[1] The VIX was trading below 18 during the morning as stock futures rallied.[4]
+
+### Today's Catalysts
+Based on the most recent data available, **gold was trading around $4,605 per troy ounce** as of April 28, 2026[2], with prediction markets suggesting prices likely remained in the $4,250–$4,700 range on April 30, 2026[5].
+
+## Recent Gold Performance
+
+Gold fell $84.25 (1.80%) to settle at $4,605.49 per ounce on April 28, marking its lowest close since late March[2]. This decline was driven by a firming U.S. Dollar Index, elevated real yields, the Federal Open Market Committee's policy meeting, and geopolitical tensions involving Iran peace talks[2]. Despite the recent weakness, gold remains approximately $1,260 higher than a year prior[1].
+
+The metal has retreated roughly 18% from its January 2026 intraday peak of $5,595 per ounce, though analyst consensus remains broadly bullish, with Reuters' latest survey placing the median 2026 forecast at $4,916 per troy ounce—the highest full-year consensus in that survey's history[2].
+
+## Other Precious Metals
+
+**Silver** posted a steeper percentage decline on April 28, falling $2.69 (3.54%) to $73.22 per ounce, reflecting its historically elevated sensitivity to risk-off market moves relative to gold[2]. **Platinum** and **palladium** declined 1.99% and 1.65% respectively that same day, settling at $1,960.90 and $1,469.80 per ounce[2].
+
+These rare metals are typically more volatile than gold but can provide portfolio diversification benefits[1].
+
+### Earnings Before Open
+**Top stock market catalysts on April 30, 2026, include the Federal Reserve's decision to hold rates steady at 3.5-3.75%, strong tech earnings from Alphabet, Microsoft, and Amazon, geopolitical tensions driving energy sector gains, and anticipation for upcoming GDP/PCE data and Apple earnings.[2][4][1][3]**
+
+### Key Catalysts by Impact
+- **Federal Reserve Rate Decision**: The Fed maintained rates amid elevated inflation and energy costs, with an 8-4 vote split; markets cut 2026 rate cut odds to 44%, signaling hawkish stance.[2][4]
+- **Tech Earnings Reactions**: Alphabet beat with 63% cloud growth (> $20B), Microsoft saw 39% Azure jump, Amazon's AWS grew 28%; Meta fell 7% on raised capex guidance ($125-145B); Nasdaq rose 398 points on tech optimism, Intel surged after-hours.[1][2][4]
+- **Energy and Geopolitical Moves**: UAE exited OPEC, disrupting oil supply and boosting prices; USO ETF up 7.9% to multi-year high amid Trump Iran warning, naval blockade, and gas price spikes; energy sector outperforms tech volatility.[2][4]
+- **Upcoming Data and Earnings**: Investors eye GDP/PCE releases, Apple Q2 2026 earnings (top weekly catalyst), amid market near highs and semiconductor bubble concerns.[3][4]
+- **Other Movers**: Premarket gains in Seagate (17%) and NXP (19%) on earnings; Robinhood down 10% on crypto fee drop.[1]
+
+These factors fueled choppy trading, with Nasdaq rallying but broader indices mixed ahead of macro data.[1][2][4]
+
+### Economic Calendar
+**Sify Technologies (SIFY) is scheduled to report earnings before market open on April 30, 2026.** [4]
+
+MarketBeat's earnings calendar lists SIFY with a **morning** release time (indicating before market open, or BMO), consensus EPS estimate of **-$0.01**, and revenue estimate of **$172.90 million**; actual figures are not yet available as the market has closed for the day.[4]
+
+Other sources reference additional companies like **Eli Lilly, Mastercard, and Caterpillar** for A.M. earnings today, but without confirmed BMO timing or full details.[1] Nasdaq and general calendars show no reports or data unavailable for this date.[2]
+
+No other companies are explicitly confirmed for before-market-open releases in the available results.[3][5] Earnings data can update rapidly; check live calendars for confirmation.
+
+### Sector Momentum
+**Key US economic releases this week (April 27-May 3, 2026, times in ET unless noted) focus on FOMC events today (April 30), GDP and PCE tomorrow (May 1), and PPI earlier; no CPI or standard monthly jobs data (Employment Situation) scheduled this week.[1][2][3][4][6]**
+
+### Today, Thursday April 30, 2026 (already past or ongoing as of 11 PM UTC / 7 PM ET)
+- **FOMC Meeting and Fed Funds Target Upper Bound**: 1:00 PM (conclusion with rate decision).[1][3]
+- **FOMC Minutes**: 1:00 PM (or 2:00 PM per some listings).[1]
+- Other: ISM Manufacturing (9:00 AM SA, 9:00 AM Price SA), Construction Spending (9:00 AM), multiple Treasury Auctions (e.g., 10-Year Note 12:00 PM).[1]
+
+### Friday, May 1, 2026
+- **GDP SAAR Q/Q (First Preliminary), GDP SA Y/Y, GDP Price Index**: 7:30 AM or 8:30 AM.[1][2][3][4]
+- **PCE Price Index (MoM/Y/Y, Core)**: 7:30 AM or 8:30 AM / 12:30 PM (consensus: MoM 0.7%, YoY 3.5%; Core MoM 0.3%).[1][2][3][4]
+- **Personal Income SA M/M**: 7:30 AM or 8:30 AM.[1][2]
+- **Initial/Continuing Jobless Claims, 4-week Average**: 8:30 AM (consensus: Initial 215K-219K).[2][4]
+- Other: JOLTs Job Quits (2:00 PM).[4]
+
+### Earlier This Week (April 27-29; already occurred)
+- **PPI (SA M/M, NSA Y/Y, Ex Food/Energy/Trade)**: April 29 or 30 at 7:30 AM / 8:30 AM / 12:30 PM (prior: 154.006).[1][2][3]
+- No CPI release listed for April (next typically mid-May per BLS schedule).[6]
+
+### Notes on Requested Indicators
+- **CPI**: No release this week; BLS schedules it separately (e.g., typically 10th-15th of month).[5][6]
+- **PPI**: Released April 29-30.[1][2][3]
+- **FOMC**: April 29-30 (meeting, rate decision, press conference).[1][3]
+- **Jobs Data**: Jobless Claims on May 1; no full Employment Situation (nonfarm payrolls) this week (typically first Friday).[2][5][6]
+
+Sources show minor time discrepancies (e.g., 7:30 AM vs. 8:30 AM ET); confirm via official BLS/Fed sites for finals.[1][2][3][4][6]
+
+### Held-ticker News
+**Energy (ENRS, XLE) leads S&P 500 sector YTD performance as of April 30, 2026, with +38.3% return, followed by Real Estate (REAL, XLRE) at +2.8%.** Other leading sectors by momentum include Consumer Staples (XLP), Industrials (XLI), and Materials (XLB).[1][3]
+
+### YTD Performance Leaders (partial data available)
+| Rank | Sector | YTD Return | Notes |
+|------|--------|------------|-------|
+| 1 | Energy (ENRS/XLE) | +38.3% | Top performer; all-time highs amid geopolitical tensions and oil at $100/barrel.[1][3] |
+| 2 | Real Estate (REAL/XLRE) | +2.8% | Improving momentum.[1][3] |
+
+### Momentum Quadrants (as of 2026 status)
+- **Leading**: Consumer Staples (XLP), Industrials (XLI), Materials (XLB), Energy (XLE).[1]
+- **Weakening**: Healthcare (XLV).[1]
+- **Lagging**: Technology (XLK), Communications (XLC), Consumer Discretionary (XLY), Financials (XLF).[1]
+- **Improving**: Real Estate (XLRE), Utilities (XLU).[1]
+
+Shift from 2025 tech leadership (TELS +33.6%) to defensives/cyclicals like Energy and Consumer Staples reflects market volatility and risk-off sentiment; S&P 500 down 4.3% in Q1 2026.[1][2][3] Full YTD rankings beyond top two unavailable in results; data from Novel Investor table shows historical context but limited 2026 detail.[3] Materials (XLB) eyes $56.8 target post-breakout.[1]
+
+_Research-only entry. Trade ideas + decision will be appended by the agent synthesis step._
