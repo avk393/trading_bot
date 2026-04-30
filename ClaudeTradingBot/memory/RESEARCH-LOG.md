@@ -773,3 +773,50 @@ Sources show minor time discrepancies (e.g., 7:30 AM vs. 8:30 AM ET); confirm vi
 Shift from 2025 tech leadership (TELS +33.6%) to defensives/cyclicals like Energy and Consumer Staples reflects market volatility and risk-off sentiment; S&P 500 down 4.3% in Q1 2026.[1][2][3] Full YTD rankings beyond top two unavailable in results; data from Novel Investor table shows historical context but limited 2026 detail.[3] Materials (XLB) eyes $56.8 target post-breakout.[1]
 
 _Research-only entry. Trade ideas + decision will be appended by the agent synthesis step._
+
+---
+
+## 2026-04-30 — Trade Idea Synthesis (agent, 19:52 EDT)
+
+### Market Assessment
+- **Regime**: Risk-on tilt. VIX 17.38 (-7.6%), S&P futures +0.1%, tech earnings strong. But Fed hawkish (held 3.5-3.75%, 8-4 split) and GDP/PCE data tomorrow = headline risk.
+- **Dominant theme**: Energy dominance (XLE +38.3% YTD) fueled by Iran tensions, UAE OPEC exit, WTI $106. Secondary theme: big tech cloud acceleration.
+- **Account**: $100k equity, $10k deployable per strategy, 0 positions, 0 trades this week.
+
+### Trade Ideas
+
+1. **XLE (Energy Select Sector SPDR)** — Primary
+   - Catalyst: UAE exits OPEC (supply disruption), Iran naval blockade risk, WTI $106, sector +38.3% YTD leading all sectors
+   - Entry: Market open May 1, limit at prior close or slight dip. Wait 30 min for open volatility.
+   - Stop: 10% trailing (GTC)
+   - Target: 2:1 R:R minimum
+   - Size: $2,000 (20% of $10k cap)
+   - Risk: Oil pulled back from $126 intraday to $106 — momentum could stall. GDP/PCE data tomorrow could shift risk sentiment.
+
+2. **GOOGL (Alphabet)** — Secondary
+   - Catalyst: 63% cloud growth (>$20B), earnings beat, Nasdaq +398 pts on tech optimism
+   - Entry: Post-open confirmation of strength. Limit order near open price if gap holds.
+   - Stop: 10% trailing (GTC)
+   - Target: 2:1 R:R
+   - Size: $1,500-2,000
+   - Risk: Tech sector in "lagging" momentum quadrant YTD. Counter-trend play. Fed hawkishness weighs on growth multiples.
+
+3. **XLB (Materials Select Sector SPDR)** — Watchlist
+   - Catalyst: Cup-and-handle breakout targeting $56.8, sector in "leading" momentum quadrant
+   - Entry: Only on confirmed breakout above resistance with volume
+   - Stop: 10% trailing
+   - Size: $1,500
+   - Risk: Materials sensitive to GDP data tomorrow. Wait for Friday data before entering.
+
+### Decision
+- **Execute May 1**: XLE as primary trade (sector momentum + multiple catalysts). Max 1 trade pre-data.
+- **Conditional**: GOOGL only if post-open price action confirms (no fade). This would be trade #2 for the week.
+- **Hold**: XLB for next week pending GDP/PCE reaction.
+- **Key risk**: GDP/PCE releases Friday 8:30 AM could whipsaw everything. Consider entering XLE after data prints.
+
+### Action Items for May 1 Open
+- [ ] Wait for GDP/PCE data (8:30 AM ET) before any orders
+- [ ] If data neutral/positive: place XLE limit buy, 10% trailing stop on fill
+- [ ] If data negative: stand down, reassess Monday
+- [ ] Monitor GOOGL price action post-open for secondary entry
+- [ ] Max 2 trades today, conserve 1 trade for next week
