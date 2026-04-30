@@ -1,0 +1,14 @@
+{
+  "date": "2026-04-30",
+  "timestamp": "2026-04-30 19:05:57 EDT",
+  "equity": "100000",
+  "cash": "100000",
+  "buying_power": "200000",
+  "daytrade_count": "0",
+  "pattern_day_trader": "False",
+  "positions_count": "0",
+  "orders_count": "0",
+  "held_tickers": "",
+  "pplx_fail": 0,
+  "pplx_total": 8
+}

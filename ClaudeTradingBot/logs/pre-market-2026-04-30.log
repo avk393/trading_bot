@@ -1,0 +1,58 @@
+==== pre-market.sh start 2026-04-30 19:05:48 EDT ====
+---- env check ----
+ALPACA_PAPER_KEY: set
+ALPACA_SECRET_KEY: set
+PERPLEXITY_API_KEY: set
+TELEGRAM_TOKEN: MISSING
+CHAT_ID: set
+FATAL: missing required env var(s); aborting before any API call.
+==== pre-market.sh start 2026-04-30 19:05:57 EDT ====
+---- env check ----
+ALPACA_PAPER_KEY: set
+ALPACA_SECRET_KEY: set
+PERPLEXITY_API_KEY: set
+TELEGRAM_TOKEN: set
+CHAT_ID: set
+---- memory files ----
+TRADING-STRATEGY.md: 45 lines
+TRADE-LOG.md: 6 lines
+RESEARCH-LOG.md: 496 lines
+---- alpaca account ----
+{"id":"c0c0da90-1540-4306-8eaa-34476e725ed3","admin_configurations":{},"user_configurations":null,"account_number":"PA3W1OSZGS77","status":"ACTIVE","crypto_status":"ACTIVE","options_approved_level":3,"options_trading_level":3,"currency":"USD","buying_power":"200000","regt_buying_power":"200000","daytrading_buying_power":"0","effective_buying_power":"200000","non_marginable_buying_power":"100000","options_buying_power":"100000","bod_dtbp":"0","cash":"100000","accrued_fees":"0","portfolio_value":"100000","pattern_day_trader":false,"trading_blocked":false,"transfers_blocked":false,"account_blocked":false,"created_at":"2026-04-22T03:54:32.757352Z","trade_suspended_by_user":false,"multiplier":"2","shorting_enabled":true,"equity":"100000","last_equity":"100000","long_market_value":"0","short_mar
+positions: []
+orders: []
+parsed: equity=100000 cash=100000 bp=200000 dtc=0 pdt=False positions=0 orders=0
+research dir: /data/.openclaw/workspace/trading_bot/ClaudeTradingBot/logs/pre-market-research-2026-04-30
+Q1 ok (3064 bytes): WTI and Brent oil price right now 2026-04-30
+Q2 ok (3785 bytes): S&P 500 futures premarket today 2026-04-30
+Q3 ok (5033 bytes): VIX level today 2026-04-30
+Q4 ok (5665 bytes): Gold and rare metals 2026-04-30
+Q5 ok (2825 bytes): Top stock market catalysts today 2026-04-30
+Q6 ok (3990 bytes): Earnings reports today before market open 2026-04-30
+Q7 ok (5300 bytes): Economic calendar this week CPI PPI FOMC jobs data 2026-04-30
+Q8 ok (4846 bytes): S&P 500 sector momentum YTD 2026-04-30
+---- appended entry (118 lines) ----
+telegram: silent (script side; agent handles ideas-side notify)
+---- git ----
+current branch: main
+[main 0ff092e] pre-market research 2026-04-30 (data only)
+ 1 file changed, 118 insertions(+)
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+push failed; rebasing and retrying
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+==== pre-market.sh end 2026-04-30 19:06:32 EDT ====
