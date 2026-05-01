@@ -12,12 +12,13 @@ IMPORTANT — ENVIRONMENT VARIABLES:
   telegram alert naming the missing var, and exit.
 - Verify env vars BEFORE any wrapper call:
   for v in ALPACA_PAPER_KEY ALPACA_SECRET_KEY PERPLEXITY_API_KEY \
-    TELEGRAM_TOKEN CHAT_ID; do
+    TELEGRAM_BOT_TOKEN CHAT_ID; do
     [[ -n "${!v:-}" ]] && echo "$v: set" || echo "$v: MISSING"
   done
 
 IMPORTANT — PERSISTENCE:
-- Fresh clone. File changes VANISH unless committed and pushed.
+- Run all the following commands from the folder /data/.openclaw/workspace/trading_bot/ClaudeTradingBot. 
+  Use fresh repo. Run git fetch && git pull.
   DO NOT create a new branch, stay on main branch.
   MUST commit and push at STEP 8.
 
@@ -53,9 +54,9 @@ If also blocked, queue the stop in TRADE-LOG as "PDT-blocked, set tomorrow AM".
 STEP 6 — Append each trade to ClaudeTradingBot/memory/TRADE-LOG.md (matching existing format):
 Date, ticker, side, shares, entry price, stop level, thesis, target, R:R.
 
-STEP 7 — Notification and tracking: only if a trade was placed. Execute the following for each successful trade placed:
+STEP 7 — Notification and tracking: only if a trade was placed. We are using a basic strategy here so use the literal string 'basic' to indicate which strategy in neon database we are using. Execute the following for each successful trade placed:
   bash scripts/telegram.sh "<ticker, shares, fill price, one-line why>"
-  bash scripts/neon_db.sh "<ticker, shares, fill price>"
+  bash scripts/neon_db.sh "<ticker, shares, fill price, 'basic'>"
 
 STEP 8 — COMMIT AND PUSH directly to main (mandatory):
 - DO NOT create a new branch. DO NOT open a pull request.
@@ -67,8 +68,8 @@ STEP 8 — COMMIT AND PUSH directly to main (mandatory):
       git checkout main
     fi
 - Stage, commit, push to main:
-    git add ClaudeTradingBot/memory/RESEARCH-LOG.md
-    git commit -m "pre-market research $DATE"
+    git add ClaudeTradingBot/memory/TRADE-LOG.md
+    git commit -m "trade execution $DATE"
     git push origin main
 - On push failure (non-fast-forward):
     git fetch origin && git pull --rebase origin main

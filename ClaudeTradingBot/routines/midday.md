@@ -12,7 +12,7 @@ IMPORTANT — ENVIRONMENT VARIABLES:
   telegram alert naming the missing var, and exit.
 - Verify env vars BEFORE any wrapper call:
   for v in ALPACA_PAPER_KEY ALPACA_SECRET_KEY PERPLEXITY_API_KEY \
-    TELEGRAM_TOKEN CHAT_ID; do
+    TELEGRAM_BOT_TOKEN CHAT_ID; do
     [[ -n "${!v:-}" ]] && echo "$v: set" || echo "$v: MISSING"
   done
 
@@ -49,10 +49,25 @@ STEP 6 — Optional intraday research via Perplexity if something is moving
 sharply with no obvious cause. Append afternoon addendum to RESEARCH-LOG.
 
 STEP 7 — Notification: only if action was taken.
-  bash scripts/clickup.sh "<action summary>"
+  bash scripts/telegram.sh "<action summary>"
+  bash scripts/neon_db.sh "<ticker, shares, fill price, 'basic'>"
 
-STEP 8 — COMMIT AND PUSH (if any memory files changed):
-  git add ClaudeTradingBot/memory/TRADE-LOG.md ClaudeTradingBot/memory/RESEARCH-LOG.md
-  git commit -m "midday scan $DATE"
-  git push origin main
-Skip commit if no-op. On push failure: rebase and retry.
+STEP 8 — COMMIT AND PUSH directly to main (mandatory):
+- DO NOT create a new branch. DO NOT open a pull request.
+  DO NOT run `git checkout -b`, `gh pr create`, or any branch-creating command.
+  Work directly on the main branch.
+- Verify current branch is main before committing:
+    current=$(git branch --show-current)
+    if [[ "$current" != "main" ]]; then
+      git checkout main
+    fi
+- Stage, commit, push to main:
+    git add ClaudeTradingBot/memory/TRADE-LOG.md ClaudeTradingBot/memory/RESEARCH-LOG.md
+    git commit -m "midday scan $DATE"
+    git push origin main
+- On push failure (non-fast-forward):
+    git fetch origin && git pull --rebase origin main
+    git push origin main
+- Never force-push. Never create a branch.
+On push failure: git fetch && git pull --rebase origin main, then push again.
+Never force-push.

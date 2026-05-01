@@ -68,7 +68,7 @@ STEP 6 — COMMIT AND PUSH directly to main (MANDATORY):
       git checkout main
     fi
 - Stage, commit, push to main:
-    git add ClaudeTradingBot/memory/RESEARCH-LOG.md
+    git add ClaudeTradingBot/memory/TRADE-LOG.md
     git commit -m "pre-market research $DATE"
     git push origin main
 - On push failure (non-fast-forward):
