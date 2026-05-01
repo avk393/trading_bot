@@ -5,14 +5,6 @@
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
-ENV_FILE="$ROOT/.env"
-
-if [[ -f "$ENV_FILE" ]]; then
-  set -a
-  # shellcheck disable=SC1090
-  source "$ENV_FILE"
-  set +a
-fi
 
 : "${ALPACA_PAPER_KEY:?ALPACA_PAPER_KEY not set in environment}"
 : "${ALPACA_SECRET_KEY:?ALPACA_SECRET_KEY not set in environment}"

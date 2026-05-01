@@ -5,14 +5,6 @@
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
-ENV_FILE="$ROOT/.env"
-
-if [[ -f "$ENV_FILE" ]]; then
-  set -a
-  # shellcheck disable=SC1090
-  source "$ENV_FILE"
-  set +a
-fi
 
 : "${TELEGRAM_TOKEN:?TELEGRAM_TOKEN not set in environment}"
 : "${CHAT_ID:?CHAT_ID not set in environment}"
