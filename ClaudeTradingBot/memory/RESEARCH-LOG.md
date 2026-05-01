@@ -885,3 +885,32 @@ _Research-only entry. Trade ideas + decision will be appended by the agent synth
 - [ ] Track VIX — if it spikes >22, defensive positioning (XLP) becomes priority
 - [ ] Reassess Monday pre-market with fresh data context
 - [ ] Max 2 trades next week, preserve capital discipline
+
+---
+
+## 2026-05-01 — Pre-Market Research Update (00:47 EDT)
+
+### Account Snapshot (unchanged)
+- **Equity:** $100,000 | **Cash:** $100,000 | **Buying Power:** $200,000
+- **Positions:** 0 | **Open Orders:** 0 | **Day-trade count:** 0
+- **Trades this week:** 0
+
+### Market Context Update
+- **WTI:** $106.10 (+0.98%) | **Brent:** $110.50 (steadied after $114 spike)
+- **S&P 500 futures:** Mixed signals — premarket ~6,657 (+0.10%), ESM26 last 7,259.25 (+0.21%)
+- **VIX:** 18.81 (Apr 29 close, no update yet)
+- **Today's calendar:** Light day — no CPI/PPI/FOMC/jobs. Dallas Fed Mfg Survey 10:30 AM only.
+- **Earnings BMO:** XEL (Q1), PH (Q3) — not in our universe
+- **Sector momentum YTD:** Energy +22-26% (leader) >> Consumer Staples +10.7% > Industrials +9.6% > Materials. Tech/Comm lagging.
+- **Top performers 2026:** MRNA +68.6%, GNRC +64.8%, GLW +63.4%, TER +59.8%
+
+### Confirmation: No material change from 00:30 entry
+Previous analysis stands. All data points consistent.
+
+### Decision: HOLD — No trades today (reconfirmed)
+- Account fresh, no urgency
+- Friday = thin volume, poor entry day
+- Oil extended ($106 WTI), chasing energy risky without pullback
+- GDP miss + sticky PCE still digesting
+- Wait for Monday session with full week of price action
+- Patience > activity
