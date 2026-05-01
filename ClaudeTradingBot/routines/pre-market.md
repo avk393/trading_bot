@@ -14,7 +14,7 @@ IMPORTANT — ENVIRONMENT VARIABLES:
   telegram alert naming the missing var, and exit.
 - Verify env vars BEFORE any wrapper call:
   for v in ALPACA_PAPER_KEY ALPACA_SECRET_KEY PERPLEXITY_API_KEY \
-    TELEGRAM_TOKEN CHAT_ID; do
+    TELEGRAM_BOT_TOKEN CHAT_ID; do
     [[ -n "${!v:-}" ]] && echo "$v: set" || echo "$v: MISSING"
   done
 
