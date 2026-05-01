@@ -820,3 +820,68 @@ _Research-only entry. Trade ideas + decision will be appended by the agent synth
 - [ ] If data negative: stand down, reassess Monday
 - [ ] Monitor GOOGL price action post-open for secondary entry
 - [ ] Max 2 trades today, conserve 1 trade for next week
+
+---
+
+## 2026-05-01 — Pre-Market Research (00:30 EDT)
+
+### Account Snapshot
+- **Equity:** $100,000 | **Cash:** $100,000 | **Buying Power:** $200,000
+- **Positions:** 0 | **Open Orders:** 0 | **Day-trade count:** 0
+- **Trades this week:** 0
+
+### Market Context
+- **WTI:** ~$107/bbl (surged on Middle East tensions, Iran naval blockade risk, UAE OPEC exit)
+- **S&P 500 futures:** 6,657 premarket (+0.10%), muted after yesterday's data
+- **VIX:** 18.81 (elevated but down from recent highs)
+- **Yesterday's data:** GDP Q1 +2.0% (missed 2.2% est), PCE 3.5% YoY (in-line), Initial Claims 189K (historic low since 1969)
+- **FOMC:** Held 3.5-3.75% on April 29-30, hawkish 8-4 split
+- **Today's calendar:** Light — Dallas Fed Mfg Survey (10:30 AM), no major macro releases
+- **Earnings BMO:** Xcel Energy (XEL), Parker Hannifin (PH) — not in our universe
+- **Sector momentum YTD:** Energy (+22-38%) >> Materials > Consumer Staples > Industrials. Tech/Comm/Discretionary lagging.
+
+### Risk Factors
+- GDP miss + sticky PCE = stagflation narrative could build
+- Oil at $107 — extended, pulled back from $126 intraday highs
+- VIX 18.81 still elevated, Fed hawkish, no rate cuts in sight
+- Friday/light volume day — potential for thin-market whipsaws
+- Iran geopolitical risk remains binary (escalation vs de-escalation)
+
+### Trade Ideas
+
+1. **XLE (Energy Select Sector SPDR)** — Primary candidate (carryover)
+   - Catalyst: Energy YTD leader (+22-38%), WTI $107, UAE OPEC exit, Iran supply disruption
+   - Entry: $2,000 position (~20% of deployable $10k). Limit near open, wait 15-30 min for volatility to settle
+   - Stop: 10% trailing GTC on fill
+   - Target: 2:1 R:R minimum
+   - Risk: Oil extended from $60→$107 in 4 months. Mean reversion risk if geopolitical de-escalation
+
+2. **XOM (Exxon Mobil)** — Alternative energy play
+   - Catalyst: Top Energy sector holding, benefits from $107 WTI, strong FCF at these oil prices
+   - Entry: $2,000 position. Post-open limit
+   - Stop: 10% trailing GTC
+   - Target: 2:1 R:R
+   - Risk: Same oil mean-reversion risk as XLE but more concentrated single-name risk
+
+3. **XLP (Consumer Staples Select Sector SPDR)** — Defensive/watchlist
+   - Catalyst: At all-time highs, flight-to-safety play, leading momentum quadrant
+   - Entry: Only on confirmed dip-buy opportunity. $1,500 position.
+   - Stop: 10% trailing GTC
+   - Risk: Low beta = slow mover, opportunity cost if risk-on continues
+
+### Decision: HOLD — No trades today
+
+**Rationale:**
+- Account is fresh with $0 deployed, no urgency to rush in
+- GDP miss + sticky PCE creates uncertainty — let market digest for a session
+- Friday = light volume, poor day for initiating new positions
+- Oil is extended; chasing XLE at $107 WTI is risky without a pullback
+- Better entry: Wait for Monday's session after full week of price action digests the FOMC + GDP/PCE combo
+- Patience > activity (Strategy Rule #11)
+
+### Action Items for May 1-2
+- [ ] Monitor XLE/XOM price action through Friday for potential Monday entry
+- [ ] Watch if S&P holds 6,650 support or breaks lower on stagflation fears
+- [ ] Track VIX — if it spikes >22, defensive positioning (XLP) becomes priority
+- [ ] Reassess Monday pre-market with fresh data context
+- [ ] Max 2 trades next week, preserve capital discipline
