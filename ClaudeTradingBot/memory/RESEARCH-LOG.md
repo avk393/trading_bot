@@ -914,3 +914,77 @@ Previous analysis stands. All data points consistent.
 - GDP miss + sticky PCE still digesting
 - Wait for Monday session with full week of price action
 - Patience > activity
+
+---
+
+## 2026-05-01 — Pre-Market Research (08:00 EDT)
+
+### Account Snapshot
+- **Equity:** $100,000 | **Cash:** $100,000 | **Buying Power:** $200,000
+- **Positions:** 0 | **Open Orders:** 0 | **Day-trade count:** 0
+- **Trades this week:** 0
+
+### Market Context
+- **WTI:** ~$105 (down ~1.7% overnight) | **Brent:** ~$110.84 (+0.36%)
+- **S&P 500 futures (ESM6):** 7,250 (+0.09%) — flat premarket
+- **VIX:** 17.28 close (Apr 30), opened 18.68 today. Futures at 20.25.
+- **Oil drivers:** UAE OPEC+ withdrawal, Strait of Hormuz geopolitical risk, but oil pulling back from $126 highs
+- **Sector momentum YTD:** Energy +38% (dominant) >> Materials > Staples +10.7% > Industrials +9.6%. Tech/Comm/Discretionary lagging.
+
+### Economic Calendar
+- **Today:** ISM Manufacturing PMI 10:00 AM, Dallas Fed Mfg Survey 10:30 AM, Treasury Buyback 11:00 AM — light day
+- **No CPI/PPI/FOMC/jobs today.** Jobs report May 8. Next CPI June 10.
+- **Yesterday:** FOMC held 3.5-3.75% (hawkish 8-4 split). GDP Q1 +2.0% (missed 2.2%). PCE 3.5% YoY (in-line). Claims 189K (historic low).
+
+### Earnings BMO
+- **CVX** (Chevron) — major energy name, $372B cap. Relevant to energy thesis.
+- **SFM** (Sprouts Farmers Market) — consumer staples, $16B cap.
+- Others: XEL, PH, TLK — not in our universe.
+
+### Trade Ideas
+
+1. **XLE (Energy Select Sector SPDR)** — Top sector, +38% YTD
+   - Catalyst: Energy dominance continues, WTI $105, UAE OPEC exit, geopolitical premium
+   - Entry: ~$105-106 range, wait 15-30 min post-open for volatility to settle
+   - Stop: 10% trailing GTC
+   - Target: 2:1 R:R minimum
+   - Risk: Oil pulled back from $126 to $105. Extended move, mean-reversion risk. Friday thin volume.
+
+2. **CVX (Chevron)** — Earnings today BMO, energy sector leader
+   - Catalyst: Reports Q1 today, $105 WTI = strong upstream FCF, sector momentum
+   - Entry: Only AFTER earnings reaction settles. $2,000 position max.
+   - Stop: 10% trailing GTC
+   - Target: 2:1 R:R
+   - Risk: Earnings miss could gap down. Single-name concentration. Oil pullback.
+
+3. **XLP (Consumer Staples SPDR)** — Defensive rotation play
+   - Catalyst: Sector at ATH, leading momentum quadrant, stagflation hedge
+   - Entry: On confirmed dip or Monday. $1,500 position.
+   - Stop: 10% trailing GTC
+   - Risk: Low beta, opportunity cost.
+
+### Risk Factors
+- Oil extended but pulling back — chasing energy at $105 WTI is less risky than $126 but still stretched
+- VIX creeping up (18.68 open vs 17.28 close) — uncertainty building
+- FOMC hawkish hold + GDP miss = stagflation narrative still alive
+- Friday = thin volume, poor entry timing
+- ISM Manufacturing PMI at 10 AM could move markets
+
+### Decision: HOLD — No trades today
+
+**Rationale:**
+- Account still 100% cash, no urgency — patience > activity
+- Friday thin volume = poor entry day (Rule #11)
+- Oil pulling back but still extended — better entry on a deeper pullback next week
+- FOMC just happened yesterday, let market digest for 1-2 sessions
+- CVX earnings today — wait to see reaction before initiating any energy position
+- ISM Manufacturing at 10 AM could shift sentiment
+- **Plan for Monday:** If energy holds, initiate XLE position. If VIX spikes >22, pivot to XLP defensive.
+
+### Action Items for Next Session
+- [ ] Monitor CVX earnings reaction — sets tone for energy sector positioning
+- [ ] Watch ISM Manufacturing PMI at 10 AM for sentiment shift
+- [ ] Track S&P 7,250 as key level — break below = risk-off
+- [ ] If VIX >22, prioritize XLP over XLE
+- [ ] Target Monday open for first position entry (XLE or CVX)
+- [ ] Max 2 trades next week, preserve capital discipline
