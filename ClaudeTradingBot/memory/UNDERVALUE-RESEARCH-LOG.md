@@ -71,3 +71,47 @@ TRADE or HOLD (default HOLD if no edge)
 - SMCI: wait for SEC filing resolution before entry
 - CFLT: check Q1 2026 earnings for cloud acceleration
 - Plan 2-3 position entries next week (max 6 positions, max 3 trades/week per strategy)
+
+### 2026-05-03 — Afternoon Research Update (expanded candidate scan)
+**Account:** equity $100,000 / cash $100,000 / buying power $200,000 / DT count 0
+
+**Holdings:** None — no open positions, no pending orders.
+
+**News flags:** None thesis-breaking.
+
+**Expanded candidate scan — new tickers scored and merged with morning picks:**
+
+1. **MU (Micron)** — AI infra (HBM memory) — intensity: R&D+capex 32.4% of rev (vs 27.1% prior yr), fwd P/E 9.45 vs 12mo avg ~27 — valuation: deeply compressed, $611B mkt cap, net cash, debt/equity 0.21 — differentiation: HBM3E yield leadership vs Samsung defects & SK Hynix supply constraints — **total: 23/25**
+    - Reinvestment intensity: 5 | Trend specificity: 5 | Differentiation: 4 | Valuation: 5 | Balance sheet: 4
+    - pros: Fwd P/E 9.5x screams underappreciated reinvestment, 194% projected sales growth, HBM moat, fortress balance sheet
+    - cons: Memory cyclicality, EV/FCF 54x (FCF compressed by capex), customer concentration risk
+
+2. **META** — AI infra — intensity: capex 36% of rev ($125-145B guided), FCF -16% YoY — valuation: fwd P/E ~24x (vs 5yr avg ~28x) — differentiation: vertical integration (Llama OSS + custom silicon) — **total: 19/25**
+    - (scores unchanged from morning)
+
+3. **AMD** — AI infra/apps — intensity: R&D+capex 28.5% of rev (vs 24.7%), ROCm open-source — valuation: ~mid-range, competitive on P/E — differentiation: open-source GPU stack vs NVDA CUDA lock-in — **total: 19/25**
+    - Reinvestment intensity: 4 | Trend specificity: 4 | Differentiation: 4 | Valuation: 3 | Balance sheet: 4
+    - pros: MI300 traction, open-source diff, data center growing fast
+    - cons: NVDA dominance, execution risk on MI400, gaming declining
+
+4. **PATH (UiPath)** — automation/AI agents — intensity: R&D ~35% of rev — valuation: P/S ~5x (vs 5yr avg ~10x), $1.4B cash/zero debt — **total: 18/25**
+    - (scores unchanged from morning)
+
+5. **SNOW (Snowflake)** — AI apps (data platform) — intensity: R&D 38.7% of rev (vs 34.2%), Cortex AI buildout — valuation: P/S still elevated but compressed vs history — differentiation: agentic Cortex AI vs Databricks/BigQuery — **total: 18/25**
+    - Reinvestment intensity: 5 | Trend specificity: 4 | Differentiation: 4 | Valuation: 2 | Balance sheet: 3
+    - pros: AI data layer essential, consumption model scales, Cortex differentiation
+    - cons: Still expensive on P/S, GAAP unprofitable, Databricks private competition
+
+**Runners-up (not in top 5):**
+- SMCI (17/25) — cheapest AI infra but governance/audit risk too high
+- AVGO (17/25) — strong custom ASIC story but expensive valuation
+- CFLT (17/25) — niche streaming play, slower catalyst
+- VRT (17/25) — liquid cooling demand real but lower reinvestment intensity
+- HUT (17/25) — highest intensity (45%) but crypto-adjacent, small cap risk
+
+**Revised action items for Mon 5/5 open:**
+- **MU: Priority #1 entry candidate** — check pre-market, set limit order ~$530-540 range, 15% trailing stop
+- **META: Priority #2** — wait for $600 support confirmation
+- **PATH: Priority #3** — deeply discounted, clean balance sheet, set alert at $10.50
+- Max 2-3 entries this week per strategy rules
+- Verify earnings dates for MU, PATH, SNOW before entry
