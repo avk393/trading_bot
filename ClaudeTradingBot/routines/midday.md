@@ -17,7 +17,8 @@ IMPORTANT — ENVIRONMENT VARIABLES:
   done
 
 IMPORTANT — PERSISTENCE:
-- Fresh clone. File changes VANISH unless committed and pushed.
+- Run all the following commands from the folder /data/.openclaw/trading_bot/ClaudeTradingBot. 
+  Use fresh repo. Run git fetch && git pull.
   DO NOT create a new branch, stay on main branch.
   MUST commit and push at STEP 8.
 
