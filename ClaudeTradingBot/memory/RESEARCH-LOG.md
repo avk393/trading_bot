@@ -1008,3 +1008,80 @@ Previous analysis stands. All data points consistent.
 - Primary: XLE entry if energy holds, post-CVX earnings digest
 - Alt: XLP if VIX >22
 - Max 2 trades next week
+
+---
+
+## 2026-05-04 — Pre-Market Research (08:00 EDT)
+
+### Account Snapshot
+- **Equity:** $100,000 | **Cash:** $100,000 | **Buying Power:** $200,000
+- **Positions:** 0 | **Open Orders:** 0 | **Day-trade count:** 0
+- **Trades this week:** 0
+
+### Market Context
+- **WTI:** ~$101-103 (down from $107 on May 1, symmetrical triangle $90-110) | **Brent:** ~$116
+- **S&P 500 futures:** ~6,657 (+0.10% premarket), Nasdaq +0.07%. Goldman flagged "froth" above 7,100.
+- **VIX:** ~16.89 (April close), no spike — complacency zone
+- **Oil drivers:** UAE OPEC+ exit, Strait of Hormuz risk, but crude pulling back from highs. Second session of decline.
+- **Sector momentum YTD:** Energy +38% (dominant) >> Staples +10.7% > Industrials +9.6%. Tech/Comm/Financials lagging. Clear rotation from tech to old economy.
+- **AI theme:** Hyperscaler capex guidance raised to $725B. Nasdaq leading on AI names. AI equipment/software spend at fastest rate in 3 years.
+
+### Economic Calendar
+- **Today (Mon):** JOLTS (Tue), light Monday. No CPI/PPI/FOMC/jobs today.
+- **This week:** JOLTS Tue 10AM, April NFP Fri (consensus +62k vs +178k prior, UE 4.3%)
+- **May 13:** April PPI. CPI/retail/PCE later in May before June FOMC.
+- **Fed:** Holding 3.5-3.75%, hawkish 8-4 split. Funds futures imply steady through year-end, maybe one 25bp cut.
+
+### Earnings Today
+- **PLTR (Palantir)** — Major AI name, AMC. Expect volatility. $345B cap.
+- **CCBG** — BMO, small-cap bank, not in our universe.
+- **AGNC, CATY** — AMC, not relevant.
+
+### Trade Ideas
+
+1. **XLE (Energy Select Sector SPDR)** — Top sector +38% YTD, oil pullback to ~$101-103 creates better entry than $105-107 last week
+   - Catalyst: Dominant sector momentum, UAE OPEC exit, geopolitical premium, oil finding support near $100
+   - Entry: $103-105 range, wait 15-30 min post-open for price discovery
+   - Stop: 10% trailing GTC (~$93-94)
+   - Target: $115+ (2:1 R:R)
+   - Risk: Oil still in downtrend from $126. Symmetrical triangle could break either way.
+
+2. **XLP (Consumer Staples SPDR)** — Defensive rotation, +10.7% YTD, ATH
+   - Catalyst: Stagflation hedge, sector leading momentum quadrant, broadening rally
+   - Entry: On any dip below $92. $2,000 position.
+   - Stop: 10% trailing GTC
+   - Target: 2:1 R:R
+   - Risk: Low beta, opportunity cost if risk-on continues.
+
+3. **PLTR (Palantir)** — AI leader, earnings AMC today
+   - Catalyst: Hyperscaler capex $725B, AI economy theme, Nasdaq leadership
+   - Entry: ONLY after earnings reaction settles (Tuesday+). Wait for gap-up hold or gap-down recovery.
+   - Stop: 10% trailing GTC
+   - Target: 2:1 R:R
+   - Risk: $345B cap, premium valuation. Earnings miss = violent gap down. Single-name vol.
+
+### Risk Factors
+- Oil pullback accelerating — WTI $101 vs $107 last Thursday. Energy momentum could stall.
+- Goldman "froth" warning on S&P above 7,100. Current 6,657 = well below that.
+- NFP Friday (+62k consensus) — weak number could spike VIX.
+- VIX ~17 = complacent. Any shock gets amplified.
+- PLTR earnings tonight could set AI sector tone for the week.
+- Fed chair Powell term ending May — transition uncertainty.
+
+### Decision: HOLD — No trades today
+
+**Rationale:**
+- Monday post-weekend, let price action develop. Patience > activity.
+- Oil pulling back further ($101 vs $105 last week) — wait for support confirmation near $100 before XLE entry.
+- PLTR earnings tonight AMC — wait for reaction before any AI/tech positioning.
+- NFP Friday is the week's macro event — positioning before data = gambling.
+- Account 100% cash with no urgency. First trade should be high-conviction.
+- **Plan:** If oil holds $100 and XLE holds support Tuesday, initiate XLE position. If PLTR beats and gaps up, evaluate Wednesday entry. Max 2 trades this week.
+
+### Action Items for Next Session
+- [ ] Monitor PLTR earnings reaction AMC — sets AI sector tone
+- [ ] Watch WTI $100 as key support for energy thesis
+- [ ] JOLTS data Tuesday 10AM — labor market signal
+- [ ] If VIX spikes >22 on any catalyst, pivot to XLP defensive
+- [ ] Target Tuesday/Wednesday for first position entry
+- [ ] Max 2 trades this week, preserve capital discipline
