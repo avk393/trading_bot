@@ -1092,3 +1092,72 @@ Previous analysis stands. All data points consistent.
 - PLTR earnings AMC today — results not yet released. Options pricing ±10.55% move. Consensus EPS $0.27-0.29, rev $1.54B.
 - No intraday data available for XLE/WTI/SPX from search. Will evaluate post-PLTR and pre-JOLTS tomorrow.
 - **Plan unchanged:** Wait for PLTR reaction + oil $100 support confirmation before first entry Tue/Wed.
+
+---
+
+## 2026-05-05 (Tuesday) — Pre-Market Research
+
+### Account Snapshot
+- **Equity:** $100,000 | **Cash:** $100,000 | **Buying Power:** $200,000
+- **Positions:** 0 | **Open Orders:** 0 | **Day-trade count:** 0
+- **Trades this week:** 0
+
+### Market Context
+- **WTI:** ~$105 (rebounded from $101 on Middle East tensions/Strait of Hormuz risk) | **Brent:** ~$108-110 est.
+- **S&P 500 futures (ESM26):** 7,243 (+12.75, +0.18% premarket). Prior close 7,227.
+- **VIX:** 18.51 (up 8.95% from prior close of ~17). Elevated but not panic. VIX futures at 19.45.
+- **Sector momentum YTD:** Energy +38% (dominant leader) >> Industrials +35.5% > Staples +7.1%. Tech lagging at +4.7% 6mo. Clear rotation from mega-cap tech to old economy/value.
+- **Oil drivers:** Middle East tensions pushing WTI higher. Polymarket shows 81% probability WTI hits $95 in May (downside risk priced in). Oil volatile in $100-110 range.
+- **Key catalysts today:** BP +60% YoY on Venezuela gas deal + oil surge. Energy names (MPC, VLO, TTE) highlighted by Zacks. Gates Industrial (GTES) acquisition catalyst.
+- **Earnings today:** 55 companies BMO, 57 AMC. No mega-cap BMO reports identified. AMC includes Arista Networks, Lumentum, Neurocrine.
+- **Economic calendar:** JOLTS (March) at 10:00 AM — key labor market signal. NFP Friday June 5. No CPI/PPI/FOMC this week.
+- **Fed:** Holding rates, hawkish stance. Powell term ending May. PPI at 4.0% YoY (below 4.6% expected). One cut priced by year-end.
+
+### Trade Ideas
+
+1. **XLE (Energy Select Sector SPDR)** — Energy +38% YTD, dominant sector leader
+   - Catalyst: Middle East tensions, oil at $105, sector momentum strongest in market
+   - Entry: $103-106 range after open settles (15-30 min)
+   - Stop: 10% trailing GTC (~$93-95)
+   - Target: $115+ (2:1 R:R)
+   - Risk: Oil volatile, Polymarket pricing 81% chance of $95 WTI in May = downside risk
+
+2. **BP (BP)** — +60% past year, Venezuela gas deal, oil tailwind, Strong Buy rated
+   - Catalyst: Offshore gas deal for LNG exports, profits doubled to $3.2B, sector momentum
+   - Entry: Current levels, wait for post-open price discovery
+   - Stop: 10% trailing GTC
+   - Target: 2:1 R:R
+   - Risk: Single-name vol, oil pullback risk, geopolitical reversal
+
+3. **XLP (Consumer Staples SPDR)** — Defensive rotation play
+   - Catalyst: Stagflation hedge, sector in momentum quadrant, flight to safety if VIX rises
+   - Entry: On any dip, $2,000 position
+   - Stop: 10% trailing GTC
+   - Target: 2:1 R:R
+   - Risk: Low beta, opportunity cost if energy continues ripping
+
+### Risk Factors
+- VIX at 18.51 and rising — elevated but not panic. Watch for >22.
+- Oil highly volatile ($100-110 range), Middle East tensions could reverse quickly
+- JOLTS at 10 AM could move market — weak data = VIX spike
+- NFP consensus weak (+62k) — positioning ahead of Friday data is risky
+- Powell term ending May — Fed transition uncertainty
+- PPI at 4% YoY — inflation still sticky, rate cuts unlikely near-term
+- Account at 100% cash — no urgency, first trade must be high conviction
+
+### Decision: HOLD — No trades today
+
+**Rationale:**
+- VIX rising (18.51 vs 17 last session) — wait for clarity
+- JOLTS at 10 AM could shift sentiment — don't front-run data
+- Oil volatile and Polymarket pricing significant downside risk to $95
+- Account 100% cash, no positions to manage. Patience > activity.
+- **Plan:** If JOLTS comes in strong and VIX stays <20, evaluate XLE entry Wednesday. If oil holds $105+ through the week, initiate energy position. Max 2 trades this week.
+
+### Action Items for Next Session
+- [ ] Review JOLTS data reaction (10 AM today)
+- [ ] Monitor WTI — does $105 hold or resume pullback toward $100?
+- [ ] Watch VIX — if >20, pivot to defensive (XLP)
+- [ ] AMC earnings tonight (Arista, Lumentum) — any sector read-through?
+- [ ] Target Wednesday for first position entry if conditions align
+- [ ] Max 2 trades this week, preserve capital discipline
