@@ -1238,3 +1238,13 @@ Previous analysis stands. All data points consistent.
 - [ ] Watch NFP Friday — tighten or hedge if data ugly
 - [ ] Evaluate MPC or XLP for 2nd trade Thursday
 - [ ] Check WTI $100 support — if breaks, reassess energy thesis
+
+### Midday Scan (13:30 EDT)
+- **Positions:** XLE x34 @ $57.48 → $56.95 (-0.92%, -$18.02)
+- **Trailing stop:** 10% GTC, stop $52.09, HWM $57.88
+- **Open orders:** 1 (trailing stop above)
+- **Cash:** ~$98,046
+- **Actions taken:** None
+- XLE down ~4.2% from yesterday's close ($59.45) — oil sliding today per pre-market research. Current price still holds. No thesis break — entry was today, giving it room.
+- Steps 3-5: No losers at -7%, no winners to tighten, thesis intact.
+- **Plan:** Hold XLE. Watch WTI $100 support. Evaluate MPC/XLP Thursday for 2nd trade.
