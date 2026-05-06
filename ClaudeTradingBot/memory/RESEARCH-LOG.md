@@ -1168,3 +1168,73 @@ Previous analysis stands. All data points consistent.
 - JOLTS March data released at 10 AM today — previous Feb reading was 6.9M openings (down from 7.2M). Unable to pull today's actual number via search.
 - No positions to manage. Steps 3-5 (cut losers, tighten stops, thesis check) all N/A.
 - **Plan:** Continue holding cash. Evaluate XLE/BP entry tomorrow if JOLTS reaction is benign and VIX stays <20. Max 2 trades this week.
+
+---
+
+## 2026-05-06 (Wednesday) — Pre-Market Research
+
+### Account Snapshot
+- **Equity:** $100,000 | **Cash:** $100,000 | **Buying Power:** $200,000
+- **Positions:** 0 | **Open Orders:** 0 | **Day-trade count:** 0
+- **Trades this week:** 0
+
+### Market Context
+- **WTI:** $100.84 (-1.40%) | **Brent:** $106.38-108.09 (-1.76% to -3.17%). Oil sliding today — Middle East premium fading.
+- **S&P 500 futures (ESM26):** 7,303-7,314 range, +0.22% from prior close. Flat-to-slightly-positive open expected.
+- **VIX:** 17.38 (closed May 5), down 4.98% from 18.29. Back below 18 — fear receding.
+- **Sector momentum YTD:** Energy dominant (+22-26%) >> Staples (+10.7%) > Industrials (+9.6%). Tech/Comms/Discretionary lagging. Clear value/commodity rotation.
+- **Earnings today:** ARM Holdings, AppLovin (APP), Novavax, Beyond Meat. ARM is the big one — semiconductor read-through.
+- **Economic data today:** State Employment (10 AM). NFP Friday May 8 — big one. CPI next Tue May 12.
+- **Key catalysts:** Oil sliding = market rallying. S&P/Nasdaq/Dow up as oil drops. Iran tension de-escalation priced in. Goldman forecasts S&P +6% in 2026. AI capex ($670B) driving 40% of S&P earnings growth.
+- **PPI:** 4.0% YoY (March), below 4.6% expected — disinflation signal but still elevated.
+
+### Trade Ideas
+
+1. **XLE (Energy Select Sector SPDR)** — YTD leader +22-26%, sector momentum dominant
+   - Catalyst: Sector rotation into value/commodities, oil still >$100, sticky inflation hedge
+   - Entry: ~$103-105 after open settles (15-30 min)
+   - Stop: 10% trailing GTC (~$93)
+   - Target: $115+ (2:1 R:R)
+   - Risk: Oil sliding today (-1.4%), could signal trend reversal. Watch $100 WTI support.
+
+2. **MPC (Marathon Petroleum)** — Zacks Strong Buy, energy subsector leader
+   - Catalyst: Refining margins strong with oil >$100, sector momentum, value rotation
+   - Entry: Post-open price discovery
+   - Stop: 10% trailing GTC
+   - Target: 2:1 R:R
+   - Risk: Single-name vol, oil pullback, crack spread compression
+
+3. **XLP (Consumer Staples SPDR)** — Defensive #2 YTD (+10.7%), leading quadrant
+   - Catalyst: Stagflation hedge, NFP Friday risk = flight to safety potential
+   - Entry: On any dip
+   - Stop: 10% trailing GTC
+   - Target: Steady grind higher
+   - Risk: Low beta, opportunity cost if energy keeps running
+
+### Risk Factors
+- **NFP Friday May 8** — consensus weak (+62k). Could spike VIX if bad miss or surprise
+- **CPI Tuesday May 12** — inflation week incoming, positioning risk
+- Oil sliding — if WTI breaks $100, energy thesis weakens
+- VIX at 17.38 and falling — complacency risk if data disappoints
+- 100% cash, no urgency. First trade must be high conviction.
+- ARM earnings AMC — semiconductor sentiment risk
+
+### Decision: INITIATE XLE POSITION TODAY
+
+**Rationale:**
+- Energy is the clear YTD leader (+22-26%), dominant sector momentum
+- Oil >$100 despite today's pullback — structural tailwind (inflation hedge, geopolitical premium)
+- VIX falling back below 18 — risk appetite improving
+- S&P futures flat-to-green — benign backdrop
+- Strategy says follow sector momentum, 75-85% deployed target
+- 4 sessions of holding cash — enough patience. Time to deploy.
+- **Plan:** Buy XLE at market open + 15-30 min (let price discovery happen). ~$2,000 position (conservative first entry, 2% of equity). Set 10% trailing stop GTC immediately. Reserve cash for 2nd entry Thu/Fri if XLE holds and NFP doesn't blow up.
+- **Max 2 trades this week.** XLE today, evaluate MPC or XLP Thursday.
+
+### Action Items for Next Session
+- [ ] Execute XLE buy after 9:45 AM ET — wait for opening volatility to settle
+- [ ] Set 10% trailing stop GTC immediately after fill
+- [ ] Monitor ARM earnings AMC for semiconductor sentiment
+- [ ] Watch NFP Friday — tighten or hedge if data ugly
+- [ ] Evaluate MPC or XLP for 2nd trade Thursday
+- [ ] Check WTI $100 support — if breaks, reassess energy thesis
