@@ -1248,3 +1248,77 @@ Previous analysis stands. All data points consistent.
 - XLE down ~4.2% from yesterday's close ($59.45) — oil sliding today per pre-market research. Current price still holds. No thesis break — entry was today, giving it room.
 - Steps 3-5: No losers at -7%, no winners to tighten, thesis intact.
 - **Plan:** Hold XLE. Watch WTI $100 support. Evaluate MPC/XLP Thursday for 2nd trade.
+
+---
+
+## 2026-05-07 (Thursday) — Pre-Market Research
+
+### Account Snapshot
+- **Equity:** $99,961 | **Cash:** $98,046 | **Buying Power:** $198,007
+- **Positions:** 1 (XLE x34 @ $57.48, current $56.34, -$38.76 / -1.98%)
+- **Open Orders:** 1 (XLE trailing stop 10% GTC, stop $52.09, HWM $57.88)
+- **Day-trade count:** 0 | **Trades this week:** 1
+
+### Market Context
+- **WTI:** ~$92.78 (-2.42% today, crashed from ~$100.84 yesterday) ⚠️ BROKE $100 SUPPORT
+- **Brent:** ~$101.27, down 7.8% — massive single-day drop
+- **Oil catalyst:** US-Iran deal "very possible" per Trump — geopolitical premium evaporating rapidly
+- **S&P 500 futures (ESM26):** ~7,379 (-0.14%), roughly flat. Prior session +1.46%.
+- **VIX:** 17.38 (last close May 5). Below 18, fear receding.
+- **Sector momentum YTD:** Energy still dominant (+22-26%) >> Staples (+10.7%) > Industrials (+9.6%). Tech/Comms lagging.
+- **Earnings today:** Light day — BlackRock TCP Capital (TCPC), Nu Skin (NUS), RE/MAX (RMAX). No major movers. ARM reported yesterday AMC.
+- **Economic data today:** No major releases (no CPI/PPI/FOMC/NFP). JOLTS at 10 AM. NFP Friday May 8 still the big one.
+- **XLE news:** "Breakout Sets Stage for Next Advance" (Apr 28). Motley Fool bullish on 2026 outlook. Fund: 89.84% Oil/Gas, 10.16% Equipment/Services.
+
+### ⚠️ CRITICAL: Oil Thesis Under Pressure
+- WTI broke $100 — this was our identified risk trigger from yesterday's research
+- Iran deal rhetoric is the catalyst — if deal materializes, oil could slide further to $85-90
+- However: XLE position is only -1.98%, well within tolerance. Trailing stop at $52.09 provides ~7.6% buffer from current $56.34
+- XLE is an ETF (diversified), not a single oil name — more resilient than pure-play
+- Energy sector still YTD leader by wide margin even with pullback
+
+### Trade Ideas
+
+1. **HOLD XLE — Monitor, don't panic**
+   - Oil crash is news-driven (Iran deal hopes), could reverse if talks stall
+   - Position small (~$1,916, 1.9% of equity), risk is contained
+   - Stop at $52.09 handles downside mechanically
+   - Thesis broken trigger: WTI sustained below $90 or XLE breaks $54 with volume
+
+2. **XLP (Consumer Staples SPDR)** — Defensive rotation candidate
+   - Catalyst: If oil slide continues, rotation from energy to defensives accelerates
+   - Entry: Wait for NFP Friday reaction
+   - Stop: 7% trailing
+   - Target: Grind higher as safety trade
+   - Risk: Low beta, misses rally if oil rebounds
+
+3. **XLI (Industrials SPDR)** — Leading quadrant, benefits from lower oil
+   - Catalyst: Lower energy costs = margin expansion for industrials
+   - Entry: Post-NFP if data supports
+   - Stop: 10% trailing
+   - Target: 2:1 R:R
+   - Risk: NFP miss could drag everything
+
+### Risk Factors
+- **Oil crash accelerating** — WTI -7% in 2 days. Iran deal could push further. Direct threat to XLE position
+- **NFP Friday May 8** — consensus weak. Bad miss = VIX spike, risk-off
+- XLE trailing stop at $52.09 — if oil freefall continues, stop may fill at unfavorable price
+- VIX low (17.38) despite oil crash — market shrugging off energy pain, rotating
+- Only 1.9% of equity at risk in XLE — portfolio impact limited
+
+### Decision: HOLD — No New Trades Today
+
+**Rationale:**
+- Oil crash is a fast-moving event — wait for dust to settle before adding risk
+- NFP tomorrow adds binary event risk — no reason to front-run it
+- XLE position is small and stop-protected. Let it play out.
+- If WTI stabilizes above $90 and XLE holds $54, thesis intact
+- If oil continues falling, trailing stop does its job
+- **Plan:** Hold XLE. Watch WTI closely. Evaluate XLP or XLI post-NFP Friday. Max patience today.
+
+### Action Items for Next Session
+- [ ] Monitor WTI — does $90 hold? Iran deal progress?
+- [ ] Watch XLE vs $54 support level
+- [ ] NFP Friday — prepare for volatility
+- [ ] If XLE stops out, rotate to XLP or XLI
+- [ ] No new trades until NFP data digested
