@@ -1322,3 +1322,9 @@ Previous analysis stands. All data points consistent.
 - [ ] NFP Friday — prepare for volatility
 - [ ] If XLE stops out, rotate to XLP or XLI
 - [ ] No new trades until NFP data digested
+
+### Midday Scan — 1:30 PM ET
+- XLE: $56.06 (-2.48% from entry, -1.66% intraday). Stop at $52.09.
+- Oil slide continues but no new catalyst. XLE holding above $54 support.
+- Thesis intact per morning criteria. No action taken.
+- NFP tomorrow — maintaining max patience.
