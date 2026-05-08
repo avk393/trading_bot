@@ -1328,3 +1328,76 @@ Previous analysis stands. All data points consistent.
 - Oil slide continues but no new catalyst. XLE holding above $54 support.
 - Thesis intact per morning criteria. No action taken.
 - NFP tomorrow — maintaining max patience.
+
+---
+
+## 2026-05-08 (Friday) — Pre-Market Research
+
+### Account Snapshot
+- **Equity:** $99,947 | **Cash:** $98,046 | **Buying Power:** $197,993
+- **Positions:** 1 (XLE x34 @ $57.48, current $55.92, -$53.04 / -2.71%)
+- **Open Orders:** 1 (XLE trailing stop 10% GTC, stop $52.09, HWM $57.88)
+- **Day-trade count:** 0 | **Trades this week:** 1
+
+### Market Context
+- **WTI:** ~$94.87 (closed May 7 near $94.81, opened $97.02 May 8) — still below $100, Iran deal rhetoric weighing
+- **Brent:** ~$101 area, down sharply from highs
+- **S&P 500:** 7,337 (-0.38% May 7). April was strongest monthly gain since 2020 (closed 7,209 ATH end of April). Futures ~7,363.
+- **VIX:** 17.08 (May 7 close). Low fear, sub-18. Stable.
+- **NFP TODAY 8:30 AM ET** — April Employment Situation report. This is the major binary event.
+- **CPI/PPI:** Next week (May 12-13). No FOMC this month.
+- **Earnings today:** Light — ACRE, MPX pre-market. No market movers.
+- **Sector momentum YTD:** Energy still #1 (+20-26%) >> Staples (+10.7%) > Industrials (+9.6%). Tech/Comms lagging. Equal-weight RSP outperforming cap-weight.
+- **Oil catalyst:** US-Iran peace deal hopes crushing geopolitical premium. WTI dropped from $100+ to ~$95 in 2 days. CME notes "tensions ease."
+- **AI/Tech:** DDOG +31% on blowout earnings (May 7). Tech selectively strong.
+- **Defense:** GD upgraded to Buy on geopolitical tailwinds.
+
+### XLE Position Update
+- Entry $57.48, current $55.92, down -2.71% (within -7% manual cut tolerance)
+- Trailing stop at $52.09 = ~7% buffer from current price
+- Oil dropped below $100 (identified risk trigger yesterday) but XLE holding above $54 support
+- ETF diversification providing resilience vs pure-play oil names
+- Thesis watch: WTI sustained below $90 or XLE breaks $54 = thesis broken
+
+### Trade Ideas
+
+1. **HOLD XLE — NFP binary event today, no action pre-data**
+   - Oil stabilizing near $95 after 2-day selloff. If Iran deal fizzles, snap back likely.
+   - Stop at $52.09 handles downside mechanically.
+   - Decision point: if NFP strong + oil bounces → hold. If NFP weak + oil continues sliding → let stop work.
+
+2. **XLI (Industrials SPDR) — Post-NFP if data supports**
+   - Catalyst: Lower oil = margin tailwind for industrials. Sector in leading quadrant.
+   - Entry: Only after NFP digested, if S&P holds 7,300+
+   - Stop: 10% trailing | Target: 2:1 R:R
+   - Risk: NFP miss drags broad market
+
+3. **GD (General Dynamics) — Fresh Buy upgrade, defense momentum**
+   - Catalyst: Geopolitical spending cycle, analyst upgrade
+   - Entry: Post-NFP, confirm sector strength
+   - Stop: 7% | Target: 2:1 R:R
+   - Risk: Peace deal narrative could undercut defense thesis
+
+### Risk Factors
+- **NFP at 8:30 AM** — consensus expects weak. Bad miss = VIX spike, risk-off across the board
+- **Oil still sliding** — WTI -5%+ this week. Iran deal progress = more downside for XLE
+- **VIX deceptively low (17.08)** — market complacent ahead of jobs data
+- **Only 1.9% of equity at risk** in XLE — portfolio impact limited even if stopped out
+- **CPI/PPI next week** — stickier inflation narrative if energy costs pass through
+
+### Decision: HOLD — No New Trades Until NFP Digested
+
+**Rationale:**
+- NFP drops in 30 minutes. Adding risk before binary event is reckless.
+- XLE position small and stop-protected. Let it ride through data.
+- If NFP strong: economy resilient, oil may stabilize, XLE thesis intact → hold
+- If NFP weak: risk-off likely, but XLE stop at $52.09 limits loss to ~$130
+- Trade ideas (XLI, GD) queued for post-NFP evaluation in midday/EOD session
+- **Patience > activity. Wait for the data.**
+
+### Action Items for Next Session
+- [ ] NFP reaction — assess S&P, oil, VIX moves
+- [ ] XLE: does it hold $54? Oil hold $90?
+- [ ] If NFP strong + market green: evaluate XLI or GD entry
+- [ ] If NFP weak: stay cash-heavy, wait for CPI/PPI next week
+- [ ] Monitor Iran deal developments — key oil catalyst
