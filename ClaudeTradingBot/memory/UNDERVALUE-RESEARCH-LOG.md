@@ -115,3 +115,38 @@ TRADE or HOLD (default HOLD if no edge)
 - **PATH: Priority #3** — deeply discounted, clean balance sheet, set alert at $10.50
 - Max 2-3 entries this week per strategy rules
 - Verify earnings dates for MU, PATH, SNOW before entry
+
+## 2026-05-10
+**Account:** Equity $99,939.48 | Cash $98,045.68 | Buying Power $197,985.16 | DT Count 0
+
+**Holdings:**
+- XLE — REVIEW — ETF doesn't fit single-company reinvestment thesis well; down 3.1% from entry ($57.48→$55.70); trailing stop at $52.09 (6.5% away). Energy sector capex elevated but this is a passive ETF, not a targeted reinvestor. Consider replacing with a pure-play energy transition name (GEV, ETN).
+
+**News flags:** No thesis-breaking news on XLE holdings. Geopolitical volatility (Iran/Strait of Hormuz) caused recent dip but fundamentals intact.
+
+**Top candidates (ranked):**
+1. GEV (GE Vernova) — energy transition/AI power — R&D+capex 18% rev (vs 14% prior yr, sector ~12%) — grid-scale power for AI data centers — differentiated vs NextEra (renewables) and Vestas (turbines) by targeting AI electricity bottleneck — score: 20/25
+   pros: secular demand for AI power infra, "speed to power" structural advantage, clear sub-trend
+   cons: reinvestment intensity moderate vs tech names, cyclical industrial risk
+
+2. MRVL (Marvell) — AI infra/custom silicon — R&D+capex 29% rev (vs 23% prior yr) — 3nm ASICs for AWS/MSFT — differentiated vs Broadcom (broader) and Qualcomm (mobile) — score: 19/25
+   pros: custom silicon ramp 2026, high-margin recurring revenue if volume ships, specific named customers
+   cons: execution risk on 3nm ramp, revenue mix shift not yet proven
+
+3. TER (Teradyne) — automation/AI chip testing — R&D+capex 22% rev (vs 18% prior yr) — AI chip test equipment leader — differentiated vs Advantest (memory) and Cohu (lower-end) — score: 18/25
+   pros: picks-and-shovels play on AI chip proliferation, 40% projected sales growth, diversified automation
+   cons: cyclical semi equipment, customer concentration risk
+
+4. MU (Micron) — AI infra/HBM memory — R&D+capex 52% rev (vs 41% prior yr, highest intensity) — HBM3E specialist — differentiated vs Samsung/SK Hynix — score: 17/25
+   pros: massive reinvestment intensity, 194% sales growth projection, essential AI component
+   cons: EV/Sales 8.1x vs 5yr avg 3.7x (expensive), cyclical memory, FCF compressed
+
+5. ORCL (Oracle) — AI infra/multicloud — R&D+capex 28% rev (vs 22% prior yr) — $50B capex guided FY2026 — blends database + GPU hosting unlike pure hyperscalers — score: 16/25
+   pros: Pentagon AI deal, OpenAI partnership, legacy customer base migration
+   cons: EV/Sales 8.8-10.7x vs 5yr avg 7.3x (stretched), heavy debt load from acquisitions
+
+**Action items for next session:**
+- Re-evaluate XLE: consider exiting and redeploying into GEV or MRVL
+- Deep-dive GEV and MRVL valuation before any entry
+- Check MRVL Q1 earnings date (likely late May) — may want to wait
+- Monitor MU for valuation pullback to improve entry
