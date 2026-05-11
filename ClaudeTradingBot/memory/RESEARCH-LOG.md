@@ -1410,3 +1410,74 @@ Previous analysis stands. All data points consistent.
 - No positions at -7%. No winners to tighten. No thesis breaks.
 - **Action: NONE.** Hold XLE, let stop work mechanically.
 - Trade ideas (XLI, GD) still queued — will evaluate at EOD with full NFP digestion.
+
+## 2026-05-11 (Monday) — Pre-Market Research
+
+### Account Snapshot
+- **Equity:** $99,963.50 | **Cash:** $98,045.68 | **Buying Power:** $198,009.18
+- **Positions:** 1 (XLE x34 @ $57.48, current $56.41, -$36.50 / -1.87%)
+- **Open Orders:** 1 (XLE trailing stop 10% GTC, stop $52.09, HWM $57.88)
+- **Day-trade count:** 0 | **Trades this week:** 0 (new week)
+
+### Market Context
+- **WTI:** ~$100.30 | **Brent:** ~$104.82 (+3.49%) — oil rebounded from last week's ~$95 dip, Iran deal uncertainty restoring geopolitical premium
+- **S&P 500:** ESM26 futures 7,412.50 (-0.09% premarket). SPX closed Friday 7,398.51 ATH, 6-week winning streak — longest since 2024
+- **VIX:** ~17.08 — low fear, sub-18, complacent ahead of CPI week
+- **Earnings today (BMO):** CEG (Constellation Energy, $110B), Barrick Mining (B), Mosaic (MOS) — no direct portfolio impact
+- **This week's key releases:**
+  - **Tue May 12:** April CPI (consensus +0.6% MoM / +3.7% YoY headline, +0.3% / +2.7% core) — **THE event of the week**
+  - **Wed May 13:** April PPI (March was +4.0% YoY)
+  - **Thu May 14:** April Retail Sales
+  - **Fri May 15:** UMich Consumer Sentiment prelim; Fed Chair transition (Powell → Warsh)
+- **Sector momentum YTD:** Energy #1 (+33-38%), Staples #2, Industrials #3. Tech/Comms lagging. Rotation into value/inflation hedges continues.
+- **AI/Semis:** Memory chip momentum (MU +15% on HBM), NVDA at highs, KOSPI record. Cisco/BABA/AMAT earnings this week.
+
+### XLE Position Update
+- Entry $57.48, current $56.41, down -1.87% (improved from -2.71% Friday)
+- Oil bounced back above $100 WTI — thesis strengthened vs last week
+- XLE moved below 50-day MA on May 6 — mixed technical signal
+- Trailing stop at $52.09 = ~7.7% below current — well positioned
+- Brent projected to peak ~$115 Q2 2026 — bullish if realized
+- Thesis intact: Energy sector #1 YTD, oil above $100, geopolitical premium holding
+
+### Trade Ideas
+
+1. **HOLD XLE — CPI binary event Tue, no action pre-data**
+   - Oil recovery to $100+ is bullish for thesis. Let it ride.
+   - Stop at $52.09 handles downside mechanically.
+   - If CPI hot → energy benefits as inflation hedge. If cool → broad rally lifts all boats.
+
+2. **XLI (Industrials SPDR) — Post-CPI if inflation cools**
+   - Catalyst: Sector #3 YTD, lower inflation = margin expansion for industrials
+   - Entry: Only after CPI digested Wed+, if S&P holds 7,350+
+   - Stop: 10% trailing | Target: 2:1 R:R
+   - Risk: Hot CPI = risk-off, industrials sell with broad market
+
+3. **B (Barrick Mining) — Gold momentum play, reports today**
+   - Catalyst: Gold at highs, +52.7% revenue growth expected, EPS +125% YoY
+   - Entry: Post-earnings if beats + guides up, wait for reaction
+   - Stop: 7% | Target: 2:1 R:R
+   - Risk: Gold pullback on strong USD if CPI hot; mining capex concerns
+
+### Risk Factors
+- **CPI Tuesday is THE event** — hot print = VIX spike, possible correction from ATH. Market complacent at VIX 17.
+- **S&P at ATH with 6-week streak** — extended, vulnerable to any negative catalyst
+- **Fed transition** — Powell → Warsh creates policy uncertainty
+- **Oil volatility** — Iran deal flip-flopping = whipsaw risk for XLE
+- **Only 1.9% of equity at risk** in XLE — portfolio impact limited
+
+### Decision: HOLD — No New Trades Pre-CPI
+
+**Rationale:**
+- CPI Tuesday is the week's defining event. Adding risk before it is reckless.
+- XLE position small, stop-protected, and oil recovery is supportive.
+- Market at ATH with 6-week streak — chasing here is poor R:R.
+- Trade ideas (XLI, B) queued for post-CPI evaluation Wed+.
+- **Patience > activity. Wait for inflation data.**
+
+### Action Items for Next Session
+- [ ] CPI reaction Tue — assess S&P, VIX, sector moves
+- [ ] XLE: does oil hold $100? Does XLE reclaim 50-day MA?
+- [ ] If CPI cool: evaluate XLI entry Wed/Thu
+- [ ] If CPI hot: stay cash-heavy, energy benefits but broad market risk
+- [ ] Barrick (B) earnings reaction — evaluate if thesis plays out
