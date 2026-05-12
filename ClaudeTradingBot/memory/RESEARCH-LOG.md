@@ -1543,3 +1543,12 @@ Previous analysis stands. All data points consistent.
 - [ ] If CPI cool: evaluate XLI entry Wed
 - [ ] If CPI hot: energy benefits but broad market risk — stay defensive
 - [ ] CEG earnings reaction — evaluate if beats + guides up
+
+### 2026-05-12 Midday Scan (1:30 PM ET)
+
+**CPI Result:** Headline +3.8% YoY (+0.6% MoM), Core +0.4% MoM — hotter than expected.
+**XLE:** $57.74 (+1.0% intraday), thesis intact. Hot CPI reinforces energy-as-inflation-hedge.
+**Oil:** WTI ~$100.46, holding. Saudi Aramco Q1 +26% YoY supports.
+**S&P 500:** Near ATH despite hot CPI. VIX was 18.93 pre-CPI.
+**Action:** No trades. XLE trailing stop at $52.09 (10%). Position +0.44% from entry.
+**Next:** Evaluate XLI/CEG entries Wed if market digests CPI without breaking 7,350.
