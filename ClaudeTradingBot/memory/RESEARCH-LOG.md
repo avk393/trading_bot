@@ -1481,3 +1481,65 @@ Previous analysis stands. All data points consistent.
 - [ ] If CPI cool: evaluate XLI entry Wed/Thu
 - [ ] If CPI hot: stay cash-heavy, energy benefits but broad market risk
 - [ ] Barrick (B) earnings reaction — evaluate if thesis plays out
+
+## 2026-05-12 (Tuesday) — Pre-Market Research
+
+### Account Snapshot
+- **Equity:** $100,010.88 | **Cash:** $98,045.68 | **Buying Power:** $198,056.56
+- **Positions:** 1 (XLE x34 @ $57.48, current $57.80, +$10.88 / +0.56%)
+- **Open Orders:** 1 (XLE trailing stop 10% GTC, stop $52.09, HWM $57.88)
+- **Day-trade count:** 0 | **Trades this week:** 0
+
+### Market Context
+- **WTI:** ~$100.46 | **Brent:** ~$116 — oil holding above $100, geopolitical premium intact
+- **S&P 500 futures:** ESM26 ~7,426, down -0.14% premarket. SPX at ATH ~7,400, 6-week streak
+- **VIX:** 18.93 (+2.99%) — rising ahead of CPI, no longer complacent sub-18
+- **April CPI (8:30 AM ET TODAY):** Consensus +0.6% MoM / +3.7% YoY headline, +0.3% / +2.7% core. March was +3.3% YoY. THIS IS THE EVENT.
+- **April PPI:** Tomorrow (May 13)
+- **No FOMC this week.** Last held April 29, rates at 3.50–3.75%.
+- **Earnings BMO today:** CEG (Constellation Energy), MNDY (monday.com) — no direct portfolio impact
+- **Sector momentum YTD:** Energy #1 (+26-38%), Staples #2, Industrials #3. Tech/Comms lagging.
+- **XLE news:** Saudi Aramco Q1 profit +26% YoY. Bullish calls on XLE after 42% rally since Dec 2025. Short interest 12.68%. Oil $100+ supports thesis.
+
+### Trade Ideas
+
+1. **HOLD XLE — CPI drops at 8:30 AM, no action pre-data**
+   - Current: $57.80 (+0.56% from $57.48 entry). Finally green.
+   - Oil at $100+ supports thesis. Saudi Aramco earnings bullish.
+   - Stop at $52.09 handles downside mechanically (~10% below HWM).
+   - If CPI hot → energy benefits as inflation hedge. If cool → broad rally lifts all.
+
+2. **XLI (Industrials SPDR) — Post-CPI if inflation cools**
+   - Catalyst: Sector #3 YTD, lower inflation = margin expansion
+   - Entry: Only after CPI digested, if S&P holds 7,350+
+   - Stop: 10% trailing | Target: 2:1 R:R
+   - Risk: Hot CPI = risk-off
+
+3. **CEG (Constellation Energy) — Post-earnings if beats**
+   - Catalyst: $108B market cap, revenue est +26.85%, nuclear/clean energy play
+   - Entry: Post-earnings reaction, wait for confirmation
+   - Stop: 7% | Target: 2:1 R:R
+   - Risk: Valuation stretch, regulatory uncertainty
+
+### Risk Factors
+- **CPI at 8:30 AM is THE event** — VIX already rising (+3% to 18.93), market bracing for impact
+- **S&P at ATH with 6-week streak** — extended, vulnerable to hot CPI print
+- **Oil whipsaw risk** — Iran tensions can flip rapidly, XLE vulnerable to unwind
+- **Fed transition (Powell → Warsh)** — creates policy uncertainty backdrop
+- **XLE short interest 12.68%** — potential squeeze on good news, or pressure on bad
+
+### Decision: HOLD — No New Trades Until CPI Digested
+
+**Rationale:**
+- CPI prints in 30 minutes. Adding risk now is reckless gambling, not trading.
+- XLE position small (~2% of equity), stop-protected, and finally green. Let it work.
+- VIX rising = market already nervous. Patience is the edge.
+- Trade ideas (XLI, CEG) queued for post-CPI evaluation this afternoon/tomorrow.
+- **Patience > activity.**
+
+### Action Items for Next Session
+- [ ] CPI reaction — assess S&P, VIX, sector moves after 8:30 AM
+- [ ] XLE: does it break above HWM $57.88? Tighten stop if sustained rally.
+- [ ] If CPI cool: evaluate XLI entry Wed
+- [ ] If CPI hot: energy benefits but broad market risk — stay defensive
+- [ ] CEG earnings reaction — evaluate if beats + guides up
