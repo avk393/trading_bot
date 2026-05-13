@@ -1552,3 +1552,76 @@ Previous analysis stands. All data points consistent.
 **S&P 500:** Near ATH despite hot CPI. VIX was 18.93 pre-CPI.
 **Action:** No trades. XLE trailing stop at $52.09 (10%). Position +0.44% from entry.
 **Next:** Evaluate XLI/CEG entries Wed if market digests CPI without breaking 7,350.
+
+## 2026-05-13 (Wednesday) — Pre-Market Research
+
+### Account Snapshot
+- **Equity:** $99,993.04 | **Cash:** $98,045.68 | **Buying Power:** $198,038.72
+- **Positions:** 1 (XLE x34 @ $57.48, current $57.28, -$6.96 / -0.36%)
+- **Open Orders:** 1 (XLE trailing stop 10% GTC, stop $52.09, HWM $57.88)
+- **Day-trade count:** 0 | **Trades this week:** 0
+
+### Market Context
+- **WTI:** ~$101-103/bbl | **Brent:** ~$110/bbl — oil holding above $100, Iran/Hormuz supply risk persists
+- **S&P 500 futures:** ~7,350-7,400, near ATH. 6-week winning streak. Prediction markets imply >7,200 with high confidence
+- **VIX:** ~18-19 range (yesterday 18.93, rising ahead of data)
+- **April CPI (yesterday):** +3.8% YoY headline (hot, beat 3.7% consensus), +0.8% MoM, core +2.8% YoY — hotter than expected
+- **April PPI (TODAY 8:30 AM ET):** Key release. March was +4.0% YoY, +0.5% MoM. Confirms producer-level inflation pressures
+- **No FOMC this week.** Warsh confirmation vote expected. Rates at 3.50-3.75%
+- **Earnings BMO today:** BABA (Alibaba), Siemens (SIEGY), SFM (Sprouts), NBIS (Nebius)
+- **Earnings AMC today:** CSCO (Cisco), TMC (The Metals Company)
+- **Trump-Xi summit May 14-15** — trade/geopolitical catalyst
+- **Sector momentum YTD:** Energy #1 (+22-26%), Staples #2 (+10.7%), Industrials #3 (+9.6%). Tech/Comms lagging
+
+### XLE Position Update
+- Current $57.28 (-0.36% from $57.48 entry). Slightly red after yesterday's hot CPI
+- Oil >$100 supports thesis. Iran tensions sustain geopolitical premium
+- Trailing stop at $52.09 handles downside mechanically
+- Hot CPI = energy-as-inflation-hedge narrative intact
+- Saudi Aramco Q1 profit +26% YoY. Sector YTD leader
+
+### Trade Ideas
+
+1. **HOLD XLE — Wait for PPI reaction**
+   - Thesis intact: oil >$100, sector #1 YTD, inflation hedge
+   - Stop-protected at $52.09. Let it work
+   - Watch: does PPI confirm hot inflation? Benefits energy
+
+2. **XLI (Industrials SPDR) — Post-PPI if market holds**
+   - Catalyst: Sector #3 YTD, AI infrastructure buildout, defense spending
+   - Entry: Only if S&P holds 7,300+ after PPI digested
+   - Stop: 10% trailing | Target: 2:1 R:R
+   - Risk: Hot PPI = risk-off could drag everything
+
+3. **SFM (Sprouts Farmers Market) — Post-earnings if beats**
+   - Catalyst: Consumer staples sector #2 YTD, defensive play in inflationary environment
+   - Entry: After earnings reaction confirmation, gap up on beat
+   - Stop: 7% | Target: 2:1 R:R
+   - Risk: Grocery margins compressed by food inflation
+
+### Risk Factors
+- **PPI at 8:30 AM is today's event** — hot print after hot CPI = stagflation narrative, risk-off
+- **S&P at ATH with 6-week streak** — extended, vulnerable to inflation shock
+- **Oil whipsaw risk** — Iran tensions can shift rapidly
+- **Trump-Xi summit tomorrow** — could create volatility in either direction
+- **Fed transition uncertainty** — Warsh confirmation changes policy outlook
+- **XLE price data inconsistency in sources** — verify live price at open
+
+### Decision: HOLD — No New Trades Until PPI Digested
+
+**Rationale:**
+- PPI drops in 30 minutes. Adding risk pre-data is gambling
+- Yesterday's hot CPI already rattled sentiment — PPI compounds or relieves
+- XLE position small (~2% of equity), stop-protected, thesis intact
+- Trade ideas (XLI, SFM) queued for post-PPI evaluation
+- If PPI hot: stay defensive, energy benefits but broad market risk
+- If PPI cool: evaluate XLI entry Thu/Fri
+- **Patience > activity**
+
+### Action Items for Next Session
+- [ ] PPI reaction — assess S&P, VIX, sector moves after 8:30 AM
+- [ ] XLE: does it break above HWM $57.88? Tighten trail if sustained rally
+- [ ] If PPI cool + CPI digested: evaluate XLI entry Thu
+- [ ] If PPI hot: stay cash-heavy, let energy thesis work
+- [ ] SFM earnings reaction — evaluate if beats + guides up
+- [ ] Trump-Xi summit impact (May 14-15) — trade implications
