@@ -1625,3 +1625,12 @@ Previous analysis stands. All data points consistent.
 - [ ] If PPI hot: stay cash-heavy, let energy thesis work
 - [ ] SFM earnings reaction — evaluate if beats + guides up
 - [ ] Trump-Xi summit impact (May 14-15) — trade implications
+
+### 2026-05-13 — Midday Addendum (1:30 PM ET)
+
+**April PPI Result:** +1.4% MoM (biggest since Mar 2022), prior revised to +0.7%. YoY ~6.0% (from 4.0%). Goods +2.0%, Services +1.2%. Much hotter than expected.
+**Back-to-back hot prints:** CPI +3.8% YoY (yesterday) + PPI +1.4% MoM (today) = stagflation narrative building.
+**XLE:** $57.49, flat on day (-0.14%). Thesis intact — energy-as-inflation-hedge. Hot PPI supports commodity/energy.
+**Trailing stop:** $52.09 (10%), HWM $57.88. No adjustment needed.
+**Action:** HOLD. No positions cut, no stops adjusted. XLE within normal range.
+**Next:** Watch for Trump-Xi summit impact (May 14-15). Evaluate XLI entry if market digests inflation data without breaking down.
