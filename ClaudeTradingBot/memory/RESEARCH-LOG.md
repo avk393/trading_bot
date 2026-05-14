@@ -1634,3 +1634,73 @@ Previous analysis stands. All data points consistent.
 **Trailing stop:** $52.09 (10%), HWM $57.88. No adjustment needed.
 **Action:** HOLD. No positions cut, no stops adjusted. XLE within normal range.
 **Next:** Watch for Trump-Xi summit impact (May 14-15). Evaluate XLI entry if market digests inflation data without breaking down.
+
+---
+
+## 2026-05-14 — Pre-Market Research (8:00 AM ET)
+
+### Account Snapshot
+- **Equity:** $100,004.42 | **Cash:** $98,045.68 | **Buying Power:** $198,050.10
+- **Positions:** 1 (XLE x34 @ $57.48, current $57.61, +$4.42 / +0.23%)
+- **Open Orders:** 1 (XLE trailing stop 10% GTC, stop $52.09, HWM $57.88)
+- **Day-trade count:** 0 | **Trades this week:** 0
+
+### Market Context
+- **WTI:** $101.17/bbl | **Brent:** $105.97/bbl — Strait of Hormuz closed, supply risk elevated. Brent +11.6% past month
+- **S&P 500 futures:** ~7,478-7,484, +0.2% premarket. Near ATH. Tech-led rally continues
+- **VIX:** ~18-19 range (no fresh quote; elevated from recent inflation prints)
+- **April PPI (released yesterday):** +1.4% MoM (biggest since Mar 2022), +6.0% YoY (from 4.3%). Back-to-back hot with CPI +3.8% YoY
+- **April jobs:** +115k, unemployment 4.3% — softening labor market
+- **No FOMC this week.** Rates at 3.50-3.75%. Next CPI June 10, next PPI June 11
+- **Earnings BMO today:** NVMI, LUNR, GOOS, NIQ, PBH, WWW, EFOI
+- **Trump-Xi summit today/tomorrow (May 14-15)** — major geopolitical catalyst
+- **Sector momentum YTD:** Energy #1 (+26%), IT #2 (+18%), Staples #3, Industrials #4. Healthcare worst
+
+### XLE Position Update
+- Current $57.61, +0.23% from $57.48 entry. Flat week
+- MACD histogram turned negative May 7 — short-term momentum weakening
+- Pivot points: breakout above $57.21 (cleared), support $56.13
+- Oil >$100 + Hormuz closure supports thesis. Inflation-hedge narrative intact
+- Trailing stop at $52.09 handles downside. HWM $57.88 — needs to break above for trail to ratchet
+
+### Trade Ideas
+
+1. **HOLD XLE — Let thesis play out**
+   - Oil >$100, Hormuz closed, sector #1 YTD, inflation hedge
+   - MACD negative = watch closely but no action needed while above $56.13
+   - Stop-protected at $52.09
+
+2. **XLI (Industrials SPDR) — Watchlist**
+   - Catalyst: Sector #4 YTD, AI infra buildout, defense spending
+   - Entry: Wait for market to digest hot PPI/CPI. Need S&P to hold 7,400+ through week
+   - Stop: 10% trailing | Target: 2:1 R:R
+   - Risk: Stagflation narrative (hot inflation + softening jobs) could weigh on cyclicals
+
+3. **PTGX (Protagonist Therapeutics) — Speculative watchlist**
+   - Catalyst: Pipeline acceleration, transitioning from speculative to growth
+   - Entry: Need to research further — earnings catalyst timing, FDA dates
+   - Risk: Biotech vol, small-cap, no sector momentum tailwind
+
+### Risk Factors
+- **Stagflation signal building:** CPI +3.8%, PPI +6.0%, jobs +115k (weak). Market ignoring for now
+- **S&P at ATH with stretched rally** — vulnerable to any catalyst reversal
+- **Trump-Xi summit (today/tomorrow)** — binary outcome, could swing market either direction
+- **Oil whipsaw risk** — Hormuz closure already priced? Diplomatic resolution = oil drops fast
+- **XLE MACD negative** — short-term momentum fading despite strong fundamentals
+- **Fed uncertainty** — Warsh confirmation changes policy trajectory
+
+### Decision: HOLD — No New Trades
+
+**Rationale:**
+- Hot inflation data still being digested. Market shrugging it off but risk is elevated
+- Trump-Xi summit today = uncertainty. Wait for outcome before adding risk
+- XLE position tiny (~2% of equity), stop-protected, thesis intact
+- Cash-heavy (98%) is intentional — patience > activity in this environment
+- Will evaluate XLI entry Friday/Monday if summit resolves positively and market holds
+
+### Action Items for Next Session
+- [ ] Trump-Xi summit outcome — trade/tariff implications
+- [ ] XLE: watch $57.88 HWM breakout or $56.13 support break
+- [ ] If summit positive + market holds: evaluate XLI entry Fri/Mon
+- [ ] Monitor stagflation narrative — does bond market start pricing it?
+- [ ] PTGX: deeper research if biotech shows momentum
