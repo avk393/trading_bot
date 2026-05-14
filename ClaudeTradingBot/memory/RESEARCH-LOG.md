@@ -1704,3 +1704,11 @@ Previous analysis stands. All data points consistent.
 - [ ] If summit positive + market holds: evaluate XLI entry Fri/Mon
 - [ ] Monitor stagflation narrative — does bond market start pricing it?
 - [ ] PTGX: deeper research if biotech shows momentum
+
+### 2026-05-14 — Midday Addendum (1:30 PM ET)
+
+**XLE:** $58.05 (+0.99% from entry, +0.73% intraday). HWM $58.145. Trailing stop $52.33 (10%).
+**Trump-Xi summit:** Underway in Beijing, no trade deal or tariff changes announced yet. Focus on economic reciprocity, Iran/Hormuz, Taiwan. No market-moving outcomes so far.
+**Oil:** WTI >$101, Hormuz closure still supporting energy thesis.
+**Action:** HOLD. No positions cut, no stops adjusted. No new trades. Thesis intact.
+**Next:** Watch for summit outcomes this evening/tomorrow. XLE needs to break $58.15 for trail to ratchet further.
