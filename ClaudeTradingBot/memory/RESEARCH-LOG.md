@@ -1712,3 +1712,75 @@ Previous analysis stands. All data points consistent.
 **Oil:** WTI >$101, Hormuz closure still supporting energy thesis.
 **Action:** HOLD. No positions cut, no stops adjusted. No new trades. Thesis intact.
 **Next:** Watch for summit outcomes this evening/tomorrow. XLE needs to break $58.15 for trail to ratchet further.
+
+---
+
+## 2026-05-15 — Pre-Market Research (8:00 AM ET)
+
+### Account Snapshot
+- **Equity:** $100,029.27 | **Cash:** $98,045.68 | **Buying Power:** $198,074.95
+- **Positions:** 1 (XLE x34 @ $57.48, current $58.34, +$29.27 / +1.50%)
+- **Open Orders:** 1 (XLE trailing stop 10% GTC, stop $52.36, HWM $58.18)
+- **Day-trade count:** 0 | **Trades this week:** 0
+
+### Market Context
+- **WTI:** ~$102.50/bbl | **Brent:** ~$107.00/bbl — Oil elevated, Hormuz tensions persist, Brent +6% weekly
+- **S&P 500 futures:** ESM6 ~7,518, -0.10% premarket. Near ATH, consolidating
+- **VIX:** ~17.08 — moderate, down from ~18-19 earlier this week. Complacency creeping in
+- **Today's econ data:** Empire State Mfg Index 8:30 AM (prior 11.0, forecast 7.3), Import/Export Prices 8:30 AM
+- **CPI (May 12):** +3.8% YoY — hot | **PPI (May 13):** +6.0% YoY — hotter | **Retail Sales (May 14):** released yesterday
+- **Earnings BMO:** BN (Brookfield), BNT, VIK (Viking Holdings) — none in our sectors
+- **Trump-Xi summit (May 14-15):** Ongoing/wrapping up. No major trade deal announced yet. Market treating as neutral-to-positive
+- **Sector momentum YTD:** Energy #1 (+26%), IT #2 (+18%), Industrials #4. Healthcare worst. Momentum factor outperforming S&P 500
+
+### XLE Position Update
+- Current $58.34, +1.50% from $57.48 entry. New HWM $58.18 (yesterday's close)
+- Trailing stop ratcheted to $52.36 — handles downside
+- Oil >$102 supports thesis. Energy sector #1 YTD
+- Technical: Elliott Wave targets $75-98 long-term. Short-term support at $58-59 area per TheStreet
+- MACD was negative earlier this week — watching for crossover back positive
+- EIA forecasts 6% gasoline price drop in 2026 — potential headwind but not yet reflected in crude
+
+### Trade Ideas
+
+1. **HOLD XLE — Thesis intact, let it run**
+   - Oil >$100, Hormuz risk premium, sector #1 YTD, inflation hedge
+   - Position tiny (~2% of equity), stop-protected
+   - No action needed until breakout above $58.50 or breakdown below $56
+
+2. **XLI (Industrials) — Continue watching**
+   - Sector #4 YTD, AI infra buildout, defense spending
+   - Entry: Need S&P to hold 7,500+ through today after digesting Empire State data
+   - Wait for summit conclusion + positive tone before adding
+   - Stop: 10% trailing | Target: 2:1 R:R
+
+3. **MPC / DINO — Energy singles**
+   - Catalyst: Refining margins elevated with oil >$100, Zacks strong-buy rated
+   - Entry: Research deeper — earnings timing, valuation vs XLE holding
+   - Risk: Already have energy exposure via XLE. Would overweight sector
+
+### Risk Factors
+- **Stagflation signal:** CPI +3.8%, PPI +6.0%, jobs softening — market ignoring for now
+- **Empire State expected to drop** (11.0 → 7.3) — manufacturing cooling
+- **VIX at 17 = complacency** — market not pricing risk adequately
+- **Oil whipsaw** — diplomatic resolution on Hormuz = oil drops fast, XLE with it
+- **S&P at ATH consolidating** — breakout or rejection incoming
+- **Summit uncertainty** — no deal yet, binary risk remains
+
+### Decision: HOLD — No New Trades
+
+**Rationale:**
+- XLE position working (+1.5%), thesis intact, stop-protected. Let it run
+- Cash-heavy (98%) by design — waiting for higher-conviction setup
+- Empire State data drops at 8:30 AM — wait for reaction before any moves
+- Summit still unresolved — patience until clarity
+- 0 trades this week, 3 allowed. Preserving optionality for Mon/Tue if setup emerges
+- Patience > activity. No forced trades on a Friday with pending data
+
+### Action Items for Next Session
+- [ ] Empire State + Import/Export data reaction — did market sell off or shrug it off?
+- [ ] Trump-Xi summit final communiqué — trade/tariff implications
+- [ ] XLE: watch for $58.50 breakout or $56 support break
+- [ ] If summit positive + data neutral: evaluate XLI entry Monday
+- [ ] Research MPC/DINO as potential energy singles if want to add sector exposure
+- [ ] Weekly P&L snapshot for EOD Friday
