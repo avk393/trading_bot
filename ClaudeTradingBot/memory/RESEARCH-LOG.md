@@ -1784,3 +1784,13 @@ Previous analysis stands. All data points consistent.
 - [ ] If summit positive + data neutral: evaluate XLI entry Monday
 - [ ] Research MPC/DINO as potential energy singles if want to add sector exposure
 - [ ] Weekly P&L snapshot for EOD Friday
+
+### 2026-05-15 — Midday Scan (1:30 PM ET)
+
+**XLE:** $59.055 (+2.74% from $57.48 entry, +1.70% intraday). HWM $59.16. Trailing stop $53.24 (10%).
+**Oil:** WTI ~$102.50, thesis intact. Energy sector still #1 YTD.
+**S&P 500:** Near ATH, consolidating around 7,518.
+**Empire State Mfg:** Released 8:30 AM — market shrugged it off.
+**Trump-Xi summit:** Wrapping up, no major trade deal. Market treating as neutral.
+**Action:** HOLD. No positions cut, no stops adjusted, no new trades. +2.74% unrealized on sole position.
+**Next:** EOD Friday weekly P&L snapshot. Watch for summit communiqué impact Monday.
