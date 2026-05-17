@@ -150,3 +150,40 @@ TRADE or HOLD (default HOLD if no edge)
 - Deep-dive GEV and MRVL valuation before any entry
 - Check MRVL Q1 earnings date (likely late May) — may want to wait
 - Monitor MU for valuation pullback to improve entry
+
+## 2026-05-17
+**Account:** Equity $100,066.64 | Cash $98,045.68 | Buying Power $198,112.32 | DT count 0
+
+**Holdings:**
+- XLE — OK — Energy ETF, +3.4% unrealized, YTD +32.9%, P/E 9.3x. No thesis breaks in top holdings. Stop at $53.45 (10% trail), current $59.44, stop distance ~10%. Strong energy sector momentum continues.
+
+**News flags:** None. No thesis-break news on XLE holdings. Energy sector remains disciplined on capex with strong free cash flow returns.
+
+**Top candidates (ranked):**
+
+1. FSLR (First Solar) — energy transition/solar manufacturing — forward P/E 13.1x (GuruFocus: "modestly undervalued", GF Value $268 vs price $228) — net cash $2.0B, zero debt concern — US manufacturing reshoring differentiator vs Chinese panel makers — score: 20/25
+   pros: cheapest forward P/E of all candidates, net cash fortress balance sheet, US manufacturing moat (reshoring + IRA subsidies), Q1 rev +24% YoY, guidance reaffirmed ($4.9-5.2B rev, $2.6-2.8B adj EBITDA), sole US-based thin-film solar at scale
+   cons: solar sector cyclicality, policy risk if IRA incentives change, customer concentration
+
+2. VRT (Vertiv) — AI data center power/cooling — Q1 rev +30% YoY, backlog $15B, adj operating margin 20.8% (+430bps YoY) — debt/EBITDA 1.51x — differentiated pure-play vs broader Eaton/Schneider — score: 18/25
+   pros: explosive order growth, margin expanding not compressing, capex surging 194% YoY Q1, AI infrastructure secular tailwind, raising guidance
+   cons: stock already +42% YTD 2026, multiples elevated (likely 40x+ P/E), market already appreciates the thesis — may not be "underappreciated"
+
+3. INTC (Intel) — AI chips/foundry/reshoring — negative EPS (heavy foundry buildout investment), trading at massive discount to peers — net cash position — US foundry reshoring via CHIPS Act — score: 16/25
+   pros: classic "sacrificing FCF for reinvestment" thesis, foundry strategy could be transformative, CHIPS Act funding, deeply discounted vs AMD/NVDA, manufacturing differentiation
+   cons: negative earnings make valuation impossible on P/E, execution risk is extreme, foundry strategy unproven, market share losses in data center
+
+4. ENPH (Enphase Energy) — energy transition/residential solar + storage — P/E ~52x, stock up 33% YTD but still ~75% below 2022 highs — investing in batteries, microinverters, international expansion — score: 15/25
+   pros: residential solar recovery underway, energy storage adoption growing, strong brand in microinverters, differentiated vs string inverter competitors
+   cons: P/E 52x not cheap on earnings, no verified balance sheet data, residential solar is cyclical and rate-sensitive
+
+5. ROK (Rockwell Automation) — industrial automation/AI — forward P/E 37.6x (above peer avg 29.1x) — raised FY2026 guidance, EPS beat — investing in warehouse automation, data centers, semiconductor fabs — score: 14/25
+   pros: raised guidance, strong earnings beat ($3.30 vs $2.89 est), software & control segment growing, secular automation tailwind
+   cons: forward P/E 37.6x is premium not discount, PEG 3.26 expensive, not clearly "underappreciated" by market
+
+**Action items for next session:**
+- FSLR is the strongest thesis fit: undervalued on forward P/E, net cash, US reshoring moat, energy transition. Deep-dive FSLR financials for potential entry.
+- Re-evaluate XLE: still OK but energy ETF doesn't perfectly fit the "reinvestment" thesis. Consider trimming to free capital for FSLR.
+- VRT: watch for a pullback — strong business but market already pricing it in.
+- INTC: high-risk/high-reward foundry bet. Only if willing to accept binary outcome.
+- Check MRVL earnings date (carried from last session).
