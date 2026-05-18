@@ -1794,3 +1794,73 @@ Previous analysis stands. All data points consistent.
 **Trump-Xi summit:** Wrapping up, no major trade deal. Market treating as neutral.
 **Action:** HOLD. No positions cut, no stops adjusted, no new trades. +2.74% unrealized on sole position.
 **Next:** EOD Friday weekly P&L snapshot. Watch for summit communiqué impact Monday.
+
+## 2026-05-18 — Pre-Market Research (8:00 AM ET)
+
+### Account Snapshot
+- **Equity:** $100,067.48 | **Cash:** $98,045.68 | **Buying Power:** $198,113.16
+- **Positions:** 1 (XLE x34 @ $57.48, current $59.46, +$67.48 / +3.45%)
+- **Open Orders:** 1 (XLE trailing stop 10% GTC, stop $53.45, HWM $59.39)
+- **Day-trade count:** 0 | **Trades this week:** 0
+
+### Market Context
+- **WTI:** ~$102-106/bbl range (May 15 close ~$102.46) | **Brent:** ~$110/bbl — Oil elevated, Hormuz tensions persist
+- **S&P 500 futures:** ~7,500-7,525 area. May 14 print 7,525.50. Near ATH, Robinhood prediction market implies settling ~7,400-7,500 range today
+- **VIX:** ~17.26 (May 14 close) — moderate, complacency zone. Cboe live quote showed 23.52 but unclear timestamp
+- **No major econ data today** — CPI May due Jun 10, PPI May due Jun 12, next jobs Jun 10. Light calendar Monday
+- **Earnings this week:** NVDA is THE catalyst this week — biggest AI trade event. No major BMO reports today specifically
+- **Sector momentum YTD:** Energy #1 (+26%), Consumer Staples #2, Industrials #3. Tech/Comm Services lagging. Momentum factor beating S&P 500
+- **NVDA earnings week:** Market watching for derisking into event or breakout post-report
+- **Trump-Xi summit:** Concluded last week, no major trade deal. Market treating as neutral
+
+### XLE Position Update
+- Current $59.46, +3.45% from $57.48 entry. HWM $59.39 (stop at $53.45)
+- Oil >$102 supports thesis. Energy sector #1 YTD (+26%)
+- Elliott Wave targets $75-98 long-term. FXEmpire sees breakout support $53-57
+- Tickeron: 10-day MA crossed below 50-day on May 13 — watch for reversal
+- Financhill 52-week target: $64.62. Thesis intact but monitor closely
+- Risk: EIA forecasts 6% gasoline price drop in 2026; oil falling to $55 would crush thesis
+
+### Trade Ideas
+
+1. **HOLD XLE — Thesis intact, let it run**
+   - Oil >$100, sector #1 YTD, stop-protected at $53.45
+   - Position ~2% of equity, tiny. Could add if breakout above $60 with volume
+   - No action needed
+
+2. **NVDA — Watch but don't chase pre-earnings**
+   - Earnings this week = binary event. Do NOT enter before report
+   - If post-earnings dip into support with intact guidance → potential entry
+   - Sector (Tech) is lagging YTD — contrarian play needs strong catalyst
+   - Risk: Already extended, momentum crowded
+
+3. **XLI (Industrials) — Continue monitoring**
+   - Sector #3-4 YTD, AI infra buildout, defense spending
+   - Need S&P to hold 7,500+ and positive macro tone
+   - Entry on pullback to support with clear catalyst
+   - Stop: 10% trailing | Target: 2:1 R:R
+
+### Risk Factors
+- **Stagflation signal persists:** CPI +3.8%, PPI +6.0% — market ignoring for now
+- **VIX ~17 = complacency** — not pricing risk adequately
+- **NVDA earnings binary risk** — could whip entire market either direction
+- **Oil whipsaw** — diplomatic resolution on Hormuz = oil drops, XLE with it
+- **S&P at ATH** — breakout or rejection this week
+- **Light data Monday** — low volume, potential for positioning ahead of NVDA
+
+### Decision: HOLD — No New Trades
+
+**Rationale:**
+- XLE working (+3.45%), thesis intact, stop-protected. Let it run
+- Cash-heavy (98%) by design — waiting for higher-conviction setup
+- NVDA earnings this week = major binary event. Wait for aftermath before deploying capital
+- Light data day Monday — no forced entries
+- 0 trades this week, 3 allowed. Preserve optionality for post-NVDA setup Wed/Thu
+- Patience > activity
+
+### Action Items for Next Session
+- [ ] NVDA earnings reaction — does it break out or sell the news?
+- [ ] XLE: watch for $60 breakout or breakdown below $58
+- [ ] If NVDA sells off post-earnings into support → evaluate entry Thu/Fri
+- [ ] Monitor oil prices — any Hormuz de-escalation headlines?
+- [ ] Weekly P&L snapshot EOD Friday
