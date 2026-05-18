@@ -1864,3 +1864,15 @@ Previous analysis stands. All data points consistent.
 - [ ] If NVDA sells off post-earnings into support → evaluate entry Thu/Fri
 - [ ] Monitor oil prices — any Hormuz de-escalation headlines?
 - [ ] Weekly P&L snapshot EOD Friday
+
+### 2026-05-18 — Midday Scan (1:30 PM ET)
+
+**XLE:** $60.40 (+5.08% from $57.48 entry, +1.62% intraday). HWM $60.67. Trailing stop $54.60 (10%).
+**Oil:** Thesis intact, elevated >$102. Energy sector #1 YTD.
+**S&P 500:** Near ATH ~7,500-7,525. Light data Monday.
+**NVDA earnings this week:** Major binary event. Holding cash for post-earnings setup.
+**Action:** HOLD. No positions cut, no stops adjusted, no new trades.
+- XLE +5.08% — not yet at +15% tightening threshold
+- No losers (unrealized P&L positive)
+- Thesis intact, oil supportive
+**Next:** Monitor NVDA earnings reaction mid-week. Watch XLE for $61+ breakout or pullback to $59 support.
