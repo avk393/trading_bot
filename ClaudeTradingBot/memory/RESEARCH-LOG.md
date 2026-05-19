@@ -1876,3 +1876,73 @@ Previous analysis stands. All data points consistent.
 - No losers (unrealized P&L positive)
 - Thesis intact, oil supportive
 **Next:** Monitor NVDA earnings reaction mid-week. Watch XLE for $61+ breakout or pullback to $59 support.
+
+---
+
+## 2026-05-19 — Pre-Market Research (8:00 AM ET)
+
+### Account Snapshot
+- **Equity:** $100,114.36 | **Cash:** $98,045.68 | **Buying Power:** $198,160.04
+- **Positions:** 1 (XLE x34 @ $57.48, current $60.84, +$114.36 / +5.85%)
+- **Open Orders:** 1 (XLE trailing stop 10% GTC, HWM $60.70, stop $54.63)
+- **Day-trade count:** 0 | **Trades this week:** 0
+
+### Market Context
+- **WTI:** ~$103.30-103.70/bbl | **Brent:** ~$110.10-110.62/bbl — oil elevated, Hormuz tensions persist, Trump meeting oil execs re Iran stalemate
+- **S&P 500 futures:** ~7,411-7,419, slightly negative (-0.19%). Near ATH zone but dipping
+- **VIX:** 18.43 (May 15 close) — moderate, ticking up from ~17 last week. Still complacency zone but rising
+- **Sector momentum YTD:** Energy #1 (+22-26%), Consumer Staples #2 (+10.7%), Industrials #3 (+9.6%). S&P 500 flat/negative YTD (-1.3% thru 3/6). Health Care worst. Momentum factor beating index
+- **Earnings today:** HD (Home Depot) BMO — key consumer/housing read. BLK also on watchlist
+- **Econ calendar:** Light day. April PPI already released (May 13) at +6.0% YoY. CPI May due Jun 10. FOMC last met Apr 29, held 3.50-3.75%. Next jobs Jun 10
+- **XLE news:** ETF inflows strong ($700B+ industry YTD). FXEmpire sees breakout. Trump-oil exec meeting re Iran. AUM $41.7B. Oil thesis intact
+- **Key themes:** AI capex still expanding (hyperscaler spend), earnings growth expectations 23% for 2026 (MS), bonds under watch as oil rises
+
+### XLE Position Update
+- Current $60.84, +5.85% from $57.48 entry. HWM $60.70, trailing stop $54.63
+- Oil >$103 supports thesis. Energy sector #1 YTD
+- Not yet at +15% tightening threshold ($66.10)
+- Iran stalemate = geopolitical premium intact. Diplomatic resolution = risk
+- Thesis intact. Hold and let trail protect
+
+### Trade Ideas
+
+1. **HOLD XLE — No changes needed**
+   - +5.85%, oil supportive, sector leader, stop-protected
+   - Watch for breakout above $61 resistance or pullback to $59 support
+
+2. **HD (Home Depot) — Post-earnings watch**
+   - Reports BMO today. Consumer/housing bellwether
+   - If strong beat + guidance raise → potential entry on pullback
+   - Consumer Staples #2 sector YTD. Housing data mixed
+   - Entry only post-report with clear catalyst. Stop 10%, target 2:1 R:R
+   - Risk: elevated mortgage rates, consumer sentiment softening
+
+3. **XLI (Industrials ETF) — Continue monitoring**
+   - Sector #3 YTD (+9.6%), AI infra buildout, defense spending
+   - Need confirming catalyst before entry
+   - Entry on pullback to support with volume confirmation
+
+### Risk Factors
+- **VIX rising to 18.4** — moderate but trending up from 17. Watch for vol expansion
+- **Stagflation signals:** CPI +3.8%, PPI +6.0% YoY — Fed stuck at 3.50-3.75%
+- **Oil whipsaw risk:** Any Iran deal or Hormuz de-escalation = oil drops, XLE with it
+- **S&P futures slightly red** — market digesting near-ATH, bonds under pressure
+- **HD earnings could move retail/consumer sentiment** either direction
+- **Light data day** — low volume prone to positioning noise
+
+### Decision: HOLD — No New Trades
+
+**Rationale:**
+- XLE working (+5.85%), thesis intact, stop-protected at $54.63. Let it run
+- Cash-heavy (98%) by design — waiting for higher-conviction setup
+- HD earnings today = wait for reaction before considering consumer exposure
+- VIX ticking up — not the time to get aggressive with new positions
+- 0 trades this week, 3 allowed. Preserve optionality for mid-week setups
+- Patience > activity
+
+### Action Items for Next Session
+- [ ] HD earnings reaction — beat/miss? Guidance? Consumer sentiment read
+- [ ] XLE: watch $61 breakout or $59 support. Monitor oil headlines
+- [ ] If HD gaps up on strong earnings → evaluate entry Wed AM
+- [ ] Monitor Iran/oil headlines — any diplomatic shift?
+- [ ] VIX trend — if >20, reduce risk appetite further
