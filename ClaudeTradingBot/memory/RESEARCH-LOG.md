@@ -1946,3 +1946,70 @@ Previous analysis stands. All data points consistent.
 - [ ] If HD gaps up on strong earnings → evaluate entry Wed AM
 - [ ] Monitor Iran/oil headlines — any diplomatic shift?
 - [ ] VIX trend — if >20, reduce risk appetite further
+
+---
+
+## 2026-05-20 — Pre-Market Research (8:00 AM ET)
+
+### Account Snapshot
+- **Equity:** $100,119 | **Cash:** $98,045.68 | **Buying Power:** $198,164.68
+- **Positions:** 1 (XLE x34 @ $57.48, current $60.98, +6.09% / +$119)
+- **Open Orders:** 1 (XLE trailing stop 10% GTC, HWM $61.49, stop $55.34)
+- **Day-trade count:** 0 | **Trades this week:** 0
+
+### Market Context
+- **WTI:** ~$102-104/bbl | **Brent:** ~$109-111/bbl — oil still elevated but down ~1.8% today
+- **S&P 500 futures:** Down ~0.38% premarket. Range 7,365-7,412
+- **VIX:** ~17.95 (prev close 17.82) — low/moderate, slight uptick
+- **FOMC Minutes release today at 2:00 PM ET** — key event, could move rates/equities
+- **Sector momentum YTD:** Energy #1 (+26%), Consumer Staples #2 (+10.7%), Industrials #3 (+9.6%), Materials improving. Tech/Comms/Discretionary lagging
+- **Earnings BMO today:** TJX (est $1.02), LOW (est $2.97), TGT (est $1.47), WSM (est $1.81)
+- **Econ:** Light data day. FOMC minutes at 2 PM only major release. April CPI/PPI/jobs already out. Next big prints Jun 10
+
+### XLE Position Update
+- Current $60.98, +6.09% from $57.48 entry. HWM $61.49, trailing stop $55.34
+- Oil dipped ~1.8% but still >$102 WTI. Energy sector remains #1 YTD (+26%)
+- XLE traded 60.30-61.49 yesterday. Slight pullback today pre-market
+- Not yet at +15% tightening threshold ($66.10)
+- Thesis intact: oil elevated, geopolitical premium, sector momentum leader
+
+### Trade Ideas
+
+1. **HOLD XLE — No changes**
+   - +6.09%, oil supportive despite today's dip, sector #1 YTD
+   - Stop at $55.34 protects downside. Let it run
+
+2. **TGT (Target) — Post-earnings watch**
+   - Reports BMO today, est $1.47 EPS. Consumer Staples sector #2 YTD
+   - If strong beat + raised guidance → potential entry on Wed/Thu pullback
+   - Entry ~$155-160 range, stop 10%, target 2:1 R:R
+   - Risk: consumer spending softening, inflation sticky
+
+3. **XLI (Industrials) — Continue monitoring**
+   - Sector #3 YTD (+9.6%), AI infra buildout, defense spending
+   - Materials sector also improving — could rotate into leadership
+   - Need confirming catalyst before entry
+
+### Risk Factors
+- **FOMC Minutes at 2 PM** — hawkish tone could spike VIX, pressure equities
+- **Oil dipping** — WTI down ~1.8%. If breaks below $100 → XLE thesis weakens
+- **Stagflation risk:** CPI +3.8%, PPI +6.0% YoY. Fed stuck at 3.50-3.75%
+- **S&P futures red** — slight risk-off tone pre-market
+- **Heavy retail earnings today** (TJX/LOW/TGT) — any miss could drag consumer sentiment
+
+### Decision: HOLD — No New Trades
+
+**Rationale:**
+- XLE working (+6.09%), thesis intact, stop-protected. Let it run
+- FOMC Minutes today = wait for reaction before adding risk
+- Multiple retail earnings BMO — let dust settle before considering consumer names
+- Cash-heavy (98%) by design — waiting for higher-conviction setup post-FOMC
+- 0 trades this week, 3 allowed. Preserve optionality
+- Patience > activity
+
+### Action Items for Next Session
+- [ ] FOMC Minutes reaction — hawkish or dovish? Rate expectations shift?
+- [ ] TGT/LOW/TJX earnings — beat/miss? Consumer health signal?
+- [ ] XLE: watch for $62 breakout or $60 support. Oil direction post-FOMC
+- [ ] If FOMC dovish + retail earnings strong → consider TGT or LOW entry Thu AM
+- [ ] Monitor oil — if WTI breaks $100, reassess XLE thesis
