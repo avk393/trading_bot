@@ -2013,3 +2013,12 @@ Previous analysis stands. All data points consistent.
 - [ ] XLE: watch for $62 breakout or $60 support. Oil direction post-FOMC
 - [ ] If FOMC dovish + retail earnings strong → consider TGT or LOW entry Thu AM
 - [ ] Monitor oil — if WTI breaks $100, reassess XLE thesis
+
+### Midday Scan (1:30 PM ET)
+
+- **XLE:** $60.19 (+4.72% from entry), down -1.80% intraday. HWM $61.70, stop $55.53
+- Not at -7% cutoff. Not at +15% tightening threshold ($66.10). No action needed
+- **FOMC Minutes in 30 min** — staying hands-off until reaction clears
+- Oil dipped but >$100 WTI. Thesis intact
+- Retail earnings (TGT/LOW/TJX) reported BMO — will review post-FOMC
+- **Action taken:** None. Hold XLE, wait for FOMC clarity
