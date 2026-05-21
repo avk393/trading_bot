@@ -2093,3 +2093,36 @@ Previous analysis stands. All data points consistent.
 - [ ] Monitor oil — if WTI breaks $97, reassess XLE thesis urgently
 - [ ] VIX trend — if >20, reduce risk appetite
 - [ ] Review FOMC minutes market reaction for rate expectation shifts
+
+---
+
+## 2026-05-21 — Midday Scan (1:30 PM ET)
+
+### XLE Position Check
+- Current: $59.20, +2.99% from $57.48 entry. Down -1% intraday
+- Trailing stop: $55.53 (10%, HWM $61.70). No adjustment needed (below +15%)
+- No -7% threshold hit. No cuts
+
+### Market Intel (Perplexity)
+- **WTI crude dropped below $100** on US-Iran nuclear deal optimism
+- Geopolitical premium unwinding — easing Hormuz risk
+- XLE weakness is oil-driven, not ETF-specific
+- Energy sector still YTD leader but oil direction is critical
+
+### Thesis Assessment
+- **NOT broken yet** — $97 WTI was our line in the sand, still above
+- However, Iran deal progress is a material negative for the oil superpremium thesis
+- If WTI breaks $97 decisively → reassess XLE urgently
+- Trailing stop at $55.53 provides -6.5% downside protection from here
+
+### Decision: HOLD — No Action
+- XLE +3%, stop-protected, thesis weakened but not broken
+- Oil below $100 is a yellow flag, not red yet
+- Watch Iran talks closely — if deal materializes, oil could drop to $90s fast
+- No new trades today
+
+### Action Items
+- [ ] Monitor WTI vs $97 support — thesis break trigger
+- [ ] Iran nuclear deal developments — key catalyst for oil direction
+- [ ] If oil breaks $97, consider manual exit ahead of stop
+- [ ] Friday: reassess TGT/LOW for consumer entry if earnings were strong
