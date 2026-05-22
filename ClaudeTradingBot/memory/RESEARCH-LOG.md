@@ -2126,3 +2126,82 @@ Previous analysis stands. All data points consistent.
 - [ ] Iran nuclear deal developments — key catalyst for oil direction
 - [ ] If oil breaks $97, consider manual exit ahead of stop
 - [ ] Friday: reassess TGT/LOW for consumer entry if earnings were strong
+
+---
+
+## 2026-05-22 — Pre-Market Research (8:00 AM ET)
+
+### Account Snapshot
+- **Equity:** $100,063.24 | **Cash:** $98,045.68 | **Buying Power:** $198,108.92
+- **Day-trade count:** 0 | **PDT:** No
+- **Positions:** XLE 34 shares @ $57.48 → $59.34 (+3.24%, +$63.24 unrealized)
+- **Open orders:** XLE 10% trailing stop (GTC), trigger $55.53, HWM $61.70
+- **Deployment:** ~2% (98% cash)
+
+### Market Context
+- **WTI:** ~$98/bbl | **Brent:** ~$105/bbl — WTI holding above $97 line-in-sand
+- **S&P 500 futures:** +0.10-0.33% premarket, muted open expected
+- **VIX:** 16.76 (down from 17.44 prior day) — low vol, complacency zone
+- **Oil:** WTI rebounded slightly, Brent spiking +3.28% on geopolitical noise. Iran deal optimism still in play but not confirmed
+- **Sector momentum YTD:** Energy #1 (+22-26%), Consumer Staples #2, Industrials #3. Tech/Comms/Discretionary lagging
+- **Momentum factor crushing S&P:** iShares Momentum ETF +20% YTD vs S&P +8%
+
+### Today's Catalysts
+- **Earnings BMO:** WSM, AAP, BAH, Flowers Foods, Lenovo, Richemont
+- **Economic data:** State Employment & Unemployment (April) at 10:00 AM ET
+- **Asia overnight:** Nikkei +2.68%, TAIEX +2.17% — tech/AI bid
+- **AI/chip momentum:** NVDA, QCOM, MU leading. Record highs on chip names
+- **No CPI/PPI/FOMC today** — light macro calendar
+
+### XLE Position Review
+- Entry $57.48 → current $59.34 (+3.24%). Off highs of $61.70
+- Oil thesis: WTI $98, above $97 break level. Iran deal risk persists but no confirmed deal
+- Energy sector still YTD #1 with massive inflows ($6B+, 14-week streak)
+- Trailing stop at $55.53 provides -6.4% downside from here
+- **NOT at +15% tightening threshold ($66.10).** No stop adjustment needed
+- **Verdict: HOLD.** Thesis intact, stop-protected
+
+### Trade Ideas
+
+1. **HOLD XLE — No changes**
+   - Thesis weakened (oil sub-$100) but not broken (above $97)
+   - Iran deal uncertainty = binary risk. Let stop handle downside
+   - Energy still #1 sector with record inflows
+
+2. **BAH (Booz Allen Hamilton) — Watch post-earnings**
+   - Defense/gov consulting, benefits from continued defense spending
+   - Reports BMO today. If beat + raised guidance → potential entry Monday
+   - Industrials #3 sector YTD. Aligns with momentum strategy
+   - Would size ~$1,500-2,000 (1.5-2% of equity), 10% trailing stop
+   - Entry criteria: beat, raised guidance, defense spending catalyst intact
+
+3. **WSM (Williams-Sonoma) — Monitor earnings**
+   - Consumer Staples adjacent (home furnishings). Sector #2 YTD
+   - Reports BMO. Strong housing/consumer signal if beats
+   - Lower priority than BAH — consumer more exposed to stagflation headwinds
+
+### Risk Factors
+- **Iran nuclear deal progress** — confirmed deal could send WTI to low $90s, pressure XLE
+- **Oil at $98 WTI** — uncomfortably close to $97 thesis-break level
+- **Energy crowding** — $6B inflows + 14-week streak = reversal risk
+- **Stagflation backdrop:** CPI 3.8%, PPI 6.0% YoY. Fed stuck at 3.50-3.75%
+- **VIX at 16.76** — low vol = complacency. Surprise moves hit harder
+- **Friday before Memorial Day weekend** — likely lower volume, wider spreads
+
+### Decision: HOLD — No New Trades
+
+**Rationale:**
+- XLE working (+3.24%), thesis intact, stop-protected. Let it run
+- Friday before long weekend = thin volume, not ideal for new entries
+- BAH earnings today could set up Monday entry if strong
+- 0 trades this week, 3 allowed. Preserve dry powder for higher conviction
+- 98% cash by design — patience > activity
+- Energy crowding + Iran deal = elevated binary risk on XLE but stop handles it
+
+### Action Items for Next Session
+- [ ] BAH earnings results — beat/miss? Guidance? Defense spending outlook?
+- [ ] WSM earnings results — consumer health signal?
+- [ ] XLE: watch $58 support, $60 resistance. Oil direction critical
+- [ ] Monitor WTI vs $97 — if breaks, consider manual exit ahead of stop
+- [ ] Iran nuclear deal updates over weekend
+- [ ] Tuesday post-Memorial Day: reassess BAH for potential entry if strong earnings
