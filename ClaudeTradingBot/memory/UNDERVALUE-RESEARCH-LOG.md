@@ -187,3 +187,40 @@ TRADE or HOLD (default HOLD if no edge)
 - VRT: watch for a pullback — strong business but market already pricing it in.
 - INTC: high-risk/high-reward foundry bet. Only if willing to accept binary outcome.
 - Check MRVL earnings date (carried from last session).
+
+## 2026-05-24
+**Account:** Equity $100,068.34 | Cash $98,045.68 | Buying Power $198,114.02 | DT Count 0
+
+**Holdings:**
+- XLE — REVIEW — Energy ETF doesn't fit single-company reinvestment thesis; +3.5% unrealized ($57.48→$59.49); trailing stop at $55.53 (6.7% below current, HWM $61.70). No thesis-breaking news in top holdings but ETF is a passive vehicle, not a targeted reinvestor. Consider replacing with FSLR for direct energy transition exposure.
+
+**News flags:** None thesis-breaking. INTC has rallied +225% YTD on Apple foundry partnership news — previously a candidate at deep discount, now at $119.84 with forward P/E 149x, no longer fits "underappreciated" criterion.
+
+**Top candidates (ranked):**
+
+1. FSLR (First Solar) — energy transition/solar manufacturing/reshoring — R&D+capex ~18% of rev ($67M R&D + $119M capex on $1.04B Q1 rev) — Forward P/E 15.80, EV/Rev 4.77 vs sector solar avg much higher — net cash $2.43B, debt/equity 5.94% — sole US-based thin-film solar manufacturer, differentiated vs Chinese crystalline panel makers (JKS, CSIQ) and vs SolarEdge/Enphase (inverters not panels) — total score: 21/25
+   pros: cheapest forward P/E of all candidates, fortress balance sheet, IRA/reshoring moat, Q1 beat ($3.22 vs $3.08 est), 24% YoY rev growth, 47% gross margin, guidance reaffirmed
+   cons: -1.3% YTD, solar policy risk if IRA incentives change, customer concentration, beta 1.56
+
+2. SMCI (Super Micro Computer) — AI infrastructure/server systems — Forward P/E 11.19, P/S 0.70 (cheapest in AI infra), EV/EBITDA 16.39 — investing heavily in AI server capacity, FCF -$7.45B TTM — differentiated vs Dell (broader) and HPE (enterprise focus) by custom GPU rack density and liquid cooling — total score: 18/25
+   pros: absurdly cheap on P/E and P/S for AI infra play, revenue $33.7B TTM, massive reinvestment in capacity, +22% YTD
+   cons: debt/equity 120.8%, FCF deeply negative, regulatory scrutiny (export compliance), internal control weaknesses, governance concerns from 2024
+
+3. PATH (UiPath) — AI applications/automation — Forward P/E 13.93, P/S 3.70, PEG 0.38 — investing in agentic automation platform — differentiated vs ServiceNow (IT workflows) and Automation Anywhere (narrower RPA) by enterprise automation breadth — total score: 17/25
+   pros: very low PEG (0.38), forward P/E compressed to 14x, 82% gross margin, $117M FCF in Q1, ARR growing 12%, agentic AI pivot
+   cons: only 6% revenue growth, stock near lows (~$10.92), market questioning growth trajectory, earnings 5/28 upcoming
+
+4. SOFI (SoFi Technologies) — fintech rails/platform — Forward P/E 26.34, P/B 1.87, trailing P/E 42.68 — building full-stack fintech platform (bank charter + lending + investing + Galileo B2B rails) — differentiated vs traditional banks (digital-native) and vs PayPal/Block (bank charter advantage) — total score: 15/25
+   pros: bank charter moat, Galileo platform B2B revenue, P/B declining to 1.87, improving profitability
+   cons: forward P/E 26x not cheap, rate-sensitive lending book, competitive pressure from neobanks
+
+5. GEV (GE Vernova) — energy transition/AI data center power — Forward P/E 37.04, orders +71% YoY, backlog $163B, $10.2B cash — investing in grid equipment and electrification for AI data centers — differentiated vs NextEra (renewables) and Siemens Energy (broader) by gas turbine + grid combo for AI power — total score: 14/25
+   pros: massive order backlog, raised guidance, strong Q1 FCF $4.8B, electrification for AI secular trend
+   cons: forward P/E 37x expensive, market already appreciating thesis (+surged 14% post-earnings), not truly "underappreciated"
+
+**Action items for next session:**
+- FSLR remains #1 candidate: deep-dive entry timing, set limit order around $250 support level, 15% trailing stop
+- PATH earnings 5/28: wait for results before any entry — if guidance strong on agentic AI, could be compelling at 14x forward
+- SMCI: attractive valuation but governance risk is real — monitor for resolution of internal control issues
+- Consider trimming/exiting XLE to free capital for FSLR entry
+- INTC removed from watchlist — +225% YTD, forward P/E 149x, no longer fits thesis
