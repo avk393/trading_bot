@@ -224,3 +224,46 @@ TRADE or HOLD (default HOLD if no edge)
 - SMCI: attractive valuation but governance risk is real — monitor for resolution of internal control issues
 - Consider trimming/exiting XLE to free capital for FSLR entry
 - INTC removed from watchlist — +225% YTD, forward P/E 149x, no longer fits thesis
+
+## 2026-05-31
+**Account:** Equity $99,952.57 / Cash $90,109.88 / BP $190,062.45 / DT count 0
+
+**Holdings:**
+- META — 4 shares @ $629.12 → $632.51 (+0.5%) — OK — AI infra reinvestment thesis intact, $125-145B 2026 capex guidance, Meta One subscription launch, no thesis breaks — stop: none set (needs trailing stop)
+- QQQ — 5 shares @ $738.52 → $738.31 (-0.03%) — OK — ETF, not a direct reinvestment play, benchmark position
+- SOXX — 3 shares @ $575.59 → $569.08 (-1.1%) — REVIEW — Semiconductor ETF, not direct reinvestment play, slight drawdown but within tolerance
+- XLE — 34 shares @ $57.48 → $56.29 (-2.1%) — EXIT-CANDIDATE — trailing stop at $55.53, only **1.35% from stop**. Energy sector softening, more commodity-price trade than reinvestment thesis. Prior session flagged trimming XLE to free capital for FSLR.
+
+**News flags:**
+- XLE within 1.35% of trailing stop ($55.53) — likely to trigger soon
+- META launched Meta One paid subscription plans (Instagram/FB/WhatsApp) — incremental monetization positive
+- No thesis-breaking news on any holding
+
+**Top candidates (ranked):**
+
+1. FSLR (First Solar) — energy transition/reshoring/solar manufacturing — Forward P/E 17.6x — Q1 revenue $1.04B (+24% YoY), net income $347M, guidance reaffirmed — sole US thin-film solar mfr, differentiated vs Chinese crystalline (JKS/CSIQ) and vs inverter cos (ENPH/SEDG) — net cash $2.4B — **total score: 21/25**
+   pros: cheapest forward P/E of all candidates, fortress balance sheet, IRA/reshoring moat, strong Q1 beat, 47% gross margin
+   cons: solar policy risk, customer concentration, beta 1.56
+
+2. NRG Energy — AI data center power/dispatchable generation — Forward P/E 12.7-14.5x, P/S 0.83, PEG 0.46 — investing in generation capacity for data center demand — differentiated vs NEE (regulated/renewables) and vs Vistra (less diversified) — **total score: 19/25**
+   pros: very low forward P/E and PEG for power/AI infra play, data center load growth extending earnings cycle, strong FCF generation
+   cons: cyclical perception, 17.7% above GF fair value, leverage from acquisitions
+
+3. AMZN (Amazon) — AI infrastructure/cloud/logistics automation — Forward P/E 30.7x — $20B PA cloud infra + $10B NC data centers — differentiated vs MSFT (enterprise focus) and vs GOOGL (ad-centric) by logistics + cloud combo — **total score: 17/25**
+   pros: massive AI capex driving future cloud monetization, logistics automation moat, AWS growth reaccelerating
+   cons: forward P/E 30x not cheap, near-term FCF compressed by capex, well-known name (less "underappreciated")
+
+4. NEE (NextEra Energy) — energy transition/renewables/data center power — Forward P/E 21.9x, PEG 1.92 — largest renewables developer, building generation + transmission for data centers — differentiated vs traditional utilities by renewables scale and vs NRG by regulated earnings stability — **total score: 15/25**
+   pros: 8%+ EPS CAGR guidance, renewables + data center demand tailwind, defensive characteristics
+   cons: forward P/E 22x not cheap for utility, interest rate sensitive, PEG 1.92 not compelling
+
+5. ETN (Eaton) — grid modernization/data center power equipment — Forward P/E 30.6x — Q1 revenue +12.7% YoY — differentiated vs Schneider (less US exposure) and vs Hubbell (narrower product) — **total score: 14/25**
+   pros: strong order backlog, grid upgrade secular trend, margin expansion
+   cons: forward P/E 30x already prices in growth, not truly "underappreciated"
+
+**Action items for next session:**
+- XLE: monitor stop at $55.53 — if triggered, redeploy capital to FSLR
+- FSLR: top candidate, consider entry around $290-300 with 15% trailing stop
+- NRG: compelling PEG of 0.46 — deep-dive on balance sheet and data center contract pipeline
+- PATH: need post-earnings update (5/28 earnings) — check results
+- META: set a trailing stop (15% per strategy rules)
