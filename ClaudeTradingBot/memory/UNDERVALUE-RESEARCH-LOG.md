@@ -267,3 +267,40 @@ TRADE or HOLD (default HOLD if no edge)
 - NRG: compelling PEG of 0.46 — deep-dive on balance sheet and data center contract pipeline
 - PATH: need post-earnings update (5/28 earnings) — check results
 - META: set a trailing stop (15% per strategy rules)
+
+## 2026-06-07
+**Account:** Equity $99,587 | Cash $90,110 | BP $386,976 | DT count: 0
+
+**Holdings:**
+- META ($593, -5.7%) — REVIEW — Raised 2026 capex to $125-145B for AI/data centers; 10% layoffs announced but redirecting headcount to AI roles, not retreating from thesis. No trailing stop set yet (needs one per strategy). No stop distance to measure.
+- QQQ ($705.06, -4.5%) — OK — ETF, broad tech/AI exposure. Sector reinvestment trend intact. Not a single-stock thesis play.
+- SOXX ($539.77, -6.2%) — REVIEW — Semi cycle still expansionary but market shifting focus from capex volume to monetization proof. Nearing -7% hard cut rule.
+- XLE ($57.67, +0.3%) — OK — Trailing stop at $55.53 (10%), 3.7% away. Energy sector range-bound, no thesis break. AI-driven power demand narrative still supportive.
+
+**News flags:**
+- META: 10% layoffs (May 2026) — reallocation to AI, not abandonment. Stock fell 13% in 90 days on capex fears. Citi maintains Buy/$915 PT.
+- SOXX: Broadcom post-earnings AI chip forecast missed, caused 10%+ single-day ETF drop. Watch for further deterioration.
+
+**Top candidates (ranked):**
+1. AMZN — AI infra/cloud — AWS capex among highest in sector, EV/Sales 3.65x (near 5yr median 3.2x), guided EPS growth $7.17→$9.40 by 2027 — differentiation: vertically integrated chips (Trainium/Graviton) vs MSFT/GOOGL reliance on NVDA — Score: 22/25
+   pros: custom silicon moat, massive scale, FCF compression temporary as AWS margins expand
+   cons: retail margins thin, regulatory risk, capex guidance keeps rising
+2. VST — Energy transition/AI power — utility investing ahead of AI-driven electricity demand, using service-based capacity contracts — differentiation: largest competitive power generator in US vs regulated utility peers — Score: 19/25
+   pros: direct AI power demand beneficiary, secular electricity growth, nuclear fleet
+   cons: commodity price exposure, regulatory overhang, capex-heavy
+3. CEG — Nuclear power for AI — largest US nuclear fleet, long-duration clean power contracts with hyperscalers — differentiation: pure-play nuclear vs diversified utilities — Score: 18/25
+   pros: nuclear renaissance narrative, 24/7 baseload for data centers, tax credit monetization
+   cons: premium valuation, regulatory/permitting risk, concentrated asset base
+4. PATH — Automation/AI workflow — enterprise automation platform pivoting to AI-native workflows — differentiation: RPA installed base + AI agent layer vs pure-play AI startups — Score: 16/25
+   pros: large enterprise installed base, margin expansion potential, secular automation trend
+   cons: competition from MSFT Power Automate, growth deceleration concerns, needs post-5/28 earnings check
+5. GOOGL — AI infra/cloud — massive AI capex, Gemini model family, cloud growth accelerating — EV/Sales ~5.5x — differentiation: proprietary TPU chips + search monetization flywheel — Score: 16/25
+   pros: search moat funds AI investment, TPU cost advantage, YouTube AI features
+   cons: antitrust overhang, ad market cyclicality, capex guidance $75B+ for 2026
+
+**Action items for next session:**
+- META: set 15% trailing stop (per strategy rules) — critical, currently unprotected
+- SOXX: at -6.2%, approaching -7% hard cut. Monitor closely Monday open
+- AMZN: deep-dive on AWS margin trajectory and Trainium adoption metrics
+- PATH: check 5/28 earnings results — revenue growth, ARR, guidance
+- VST/CEG: compare valuations and AI power contract pipeline before any entry
