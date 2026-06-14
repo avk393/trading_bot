@@ -304,3 +304,45 @@ TRADE or HOLD (default HOLD if no edge)
 - AMZN: deep-dive on AWS margin trajectory and Trainium adoption metrics
 - PATH: check 5/28 earnings results — revenue growth, ARR, guidance
 - VST/CEG: compare valuations and AI power contract pipeline before any entry
+
+## 2026-06-14
+**Account:** Equity $99,730 | Cash $90,110 | BP $387,376 | DT count 0
+
+**Holdings:**
+- META — REVIEW — Down 9.9% from entry ($629→$567), heavy AI capex ($110-130B guided 2026), FCF still positive but compressed. Analyst targets $875-$915 suggest undervaluation. No thesis break but unrealized loss approaching -10% manual cut rule. — Stop distance: using 15% trail from entry = ~$535, current $567 is 6% above stop.
+- QQQ — OK — ETF, broad tech exposure, down 2.3%. Not a reinvestment thesis position. — N/A
+- SOXX — OK — Semiconductor ETF, up 3.6%. Sector momentum intact. — N/A
+- XLE — OK — Energy ETF, flat +0.1%. 10% trailing stop at $55.53, current $57.55 is 3.6% above stop. — ⚠️ Within 5% of stop.
+
+**News flags:**
+- META: $90B single-day market cap loss reported Jun 6 on addiction liability ruling (jury found META 70% liable, $3M award). Monitor for larger class action risk. Not a thesis break on reinvestment but adds headline risk.
+- XLE: Close to trailing stop — price needs to hold above $55.53 or will auto-exit.
+
+**Top candidates (ranked):**
+
+1. **AMZN** — AI infrastructure — R&D ~15.5% of rev + capex surging ($43.2B Q1 alone), TTM FCF collapsed to $1.2B from $25.9B YoY — EV/Sales ~3.5x — Differentiation: only hyperscaler with e-commerce + logistics + AWS triple flywheel funding AI infra organically — Total: 23/25
+   pros: Massive FCF sacrifice for AI is exactly our thesis; market punishing compressed FCF; AWS $142B run rate + $244B backlog up 40% YoY; operating margin at record 11.8%
+   cons: Scale makes >2x upside harder; regulatory overhang; capex could overshoot returns
+
+2. **VRT (Vertiv)** — AI data center power/cooling — R&D up from $200M→$350M+, capex guided 3-4% of sales in 2026 (up from 2-2.5%) — Revenue $10.2B, 20.4% adj op margin, $1.89B adj FCF — Differentiation: purest-play AI power/thermal vs broader ETN/Schneider — Total: 21/25
+   pros: $15B backlog, 27-29% organic growth guided 2026, liquid cooling leader, margin expanding
+   cons: Valuation already rich after run-up; single-customer concentration risk
+
+3. **GEV (GE Vernova)** — Energy transition / grid modernization — $10-11B cumulative R&D+capex 2025-2028, rev guided $44-45B 2026 — FCF $3.7B 2025 → $5.0-5.5B 2026 — Differentiation: only pure-play grid+gas turbine+renewables spin-off at this scale vs Siemens Energy (turnaround) and Hitachi Energy (private) — Total: 20/25
+   pros: Secular grid modernization demand, AI power demand tailwind, margins expanding, strong FCF trajectory
+   cons: Gas turbine exposure creates ESG headwinds; execution risk on renewables segment
+
+4. **SNOW (Snowflake)** — AI data cloud — R&D ~49% of revenue (up from 40%), rev $1.28B Q4 +30% YoY — FCF turned positive $784M in FY2024 — Differentiation: consumption-based AI Data Cloud vs fixed-seat competitors; cross-cloud interoperability — Total: 18/25
+   pros: Massive R&D reinvestment ratio, AI products expanding TAM, gross margin improving 56%→67%, consumption model = organic expansion
+   cons: AI products lower margin than core; premium valuation; competition from Databricks intensifying
+
+5. **SMCI (Super Micro)** — AI server infrastructure — Revenue $22B FY2025 (+47%), guided $40B+ FY2026 — FCF negative due to $10.6B inventory build — R&D+opex only 1.9% of rev but working capital is the real reinvestment — Differentiation: fastest time-to-market for AI GPU servers, modular rack-scale design vs Dell/HPE — Total: 16/25
+   pros: Explosive revenue growth, >90% AI GPU platform mix, DCBBS margin expansion potential
+   cons: Thin gross margins, prior accounting concerns, massive inventory risk, governance questions
+
+**Action items for next session:**
+- META: If price drops below $535 (15% trail), close position. If approaches -10% ($566), review for manual cut per strategy rules. Currently at $567 — essentially at -10% threshold. **HIGH PRIORITY review Monday.**
+- XLE: Monitor trailing stop at $55.53. Only 3.6% buffer.
+- AMZN: Strong #1 candidate. Research entry timing — market open Monday. Check if Q2 earnings date is approaching.
+- VRT: #2 candidate. Verify current price and valuation multiples before entry.
+- Consider reducing ETF exposure (QQQ/SOXX/XLE) to fund individual stock picks aligned with reinvestment thesis.
