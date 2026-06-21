@@ -346,3 +346,37 @@ TRADE or HOLD (default HOLD if no edge)
 - AMZN: Strong #1 candidate. Research entry timing — market open Monday. Check if Q2 earnings date is approaching.
 - VRT: #2 candidate. Verify current price and valuation multiples before entry.
 - Consider reducing ETF exposure (QQQ/SOXX/XLE) to fund individual stock picks aligned with reinvestment thesis.
+
+## 2026-06-21
+**Account:** Equity $99,917.97 | Cash $91,987.64 | BP $390,155.48 | DT count 0
+
+**Holdings:**
+- META — REVIEW — Down -8.2% from entry ($629.12 → $577.22), approaching -10% manual cut. R&D+capex ~67% of rev in Q1 (massive). AI infra thesis intact (Meta Superintelligence Labs, raised capex to $125-145B). No layoffs/cancellations. But stock punished for capex raise. — Stop distance: no trailing stop order placed (ACTION NEEDED)
+- QQQ — OK — ETF, not a thesis play. +0.3% ($738.52 → $740.62)
+- SOXX — OK — ETF, not a thesis play. +11.1% ($575.59 → $639.45)
+
+**News flags:** META raised 2026 capex guidance to $125-145B (from $115-135B) in Q1 earnings, stock dropped 6% after-hours. R&D spending up 46% YoY. No thesis breaks — reinvestment is accelerating, not retreating.
+
+**Top candidates (ranked):**
+1. INTC — reshoring/foundry buildout — R&D+capex ~40% of rev vs. ~15% fabless peers — deeply compressed valuation (market punished heavily for multi-year fab spend) — only US company building leading-edge domestic fabs, competitors are fabless — Score: 22/25
+   pros: CHIPS Act subsidies, only domestic leading-edge foundry play, massive FCF sacrifice for strategic reshoring
+   cons: execution risk on process nodes, losing market share to AMD/ARM, cash burn rate concerning
+2. ORCL — AI cloud infrastructure — R&D+capex ~25% of rev — aggressive cloud/AI capacity buildout — differs from AMZN/MSFT by targeting enterprise AI inference workloads with autonomous DB — Score: 20/25
+   pros: $130B+ remaining performance obligations, strong cloud revenue acceleration, AI demand pulling forward spend
+   cons: late entrant to hyperscale, competing against much larger cloud budgets
+3. AMZN — AI cloud + logistics automation — R&D+capex ~18% of rev — AWS + fulfillment automation dual reinvestment — unique because reinvestment spans both tech and physical infra — Score: 19/25
+   pros: AWS AI growth, robotics/automation in warehouses, massive scale advantages
+   cons: already a mega-cap, market generally prices in the reinvestment, less "underappreciated"
+4. GEV — energy transition / AI grid power — R&D+capex ~6% of rev but capital-intensive industrial — grid modernization picks-and-shovels — differs from pure utilities by selling equipment/software, not power — Score: 18/25
+   pros: secular demand from AI data centers, gas turbine order backlog, grid modernization tailwind
+   cons: industrial margins, cyclical risk, less direct AI exposure
+5. TSLA — automation / robotics / AI manufacturing — R&D+capex ~8% of rev — autonomy + Optimus robot + manufacturing automation — no traditional auto peer invests comparably in AI/robotics — Score: 17/25
+   pros: optionality on autonomy and robotics, manufacturing scale, brand
+   cons: auto margins compressing, execution on FSD timeline uncertain, valuation already prices in optionality
+
+**Action items for next session:**
+- Place 15% trailing stop on META immediately (currently no stop order)
+- META at -8.2%: monitor closely — if hits -10%, manual cut per strategy rules
+- Deep-dive INTC financials: net debt/EBITDA, CHIPS Act cash flow timeline, process node milestones
+- Deep-dive ORCL: cloud revenue mix, remaining performance obligations trend, FCF trajectory
+- Consider whether QQQ/SOXX fit the undervalue-reinvestment thesis or should be exited for individual stock picks
