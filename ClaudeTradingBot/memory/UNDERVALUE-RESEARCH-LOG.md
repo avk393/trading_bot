@@ -380,3 +380,39 @@ TRADE or HOLD (default HOLD if no edge)
 - Deep-dive INTC financials: net debt/EBITDA, CHIPS Act cash flow timeline, process node milestones
 - Deep-dive ORCL: cloud revenue mix, remaining performance obligations trend, FCF trajectory
 - Consider whether QQQ/SOXX fit the undervalue-reinvestment thesis or should be exited for individual stock picks
+
+## 2026-06-28
+**Account:** equity $99,491 / cash $91,988 / buying power $388,960 / DT count 0
+
+**Holdings:**
+- META — EXIT-CANDIDATE — Down -12.5% from entry ($629.12 → $550.25), past -10% manual cut and -7% immediate close rule. Potential equity offering causing dilution fears (stock dropped 6% on FT report). Capex raised to $125-145B. AI model rollout delayed. No trailing stop placed (still). Reinvestment thesis intact but position must be closed per strategy rules. — Stop distance: N/A (no stop order)
+- QQQ — OK — ETF, not a thesis play. Down -4.3% ($738.52 → $706.52). Not aligned with undervalue-reinvestment thesis.
+- SOXX — OK — ETF, not a thesis play. Up +2.5% ($575.59 → $589.94). Not aligned with undervalue-reinvestment thesis.
+
+**News flags:**
+- META exploring massive equity offering to raise tens of billions for AI (FT report), stock dropped 6%. Capex guidance raised to $125-145B. $14B invested in Scale AI. AI model rollout delayed (NYT). Workplace by Meta shutting down June 2026.
+- Markets closed (Sunday) — no intraday action possible.
+
+**Top candidates (ranked):**
+1. ORCL — AI cloud infrastructure — capex 37% of rev FY25, guided ~75% FY26 ($50-56B capex vs $67B rev) — FCF turned negative (-$394M FY25) — forward P/E 20.1x vs industry 26.7x (compressed) — RPO $138B up 41% YoY, guided to $275-280B — differs from AWS/Azure by targeting enterprise AI inference + autonomous DB — Stock down 26.3% in 6 months — Score: 23/25
+   pros: massive RPO backlog ($138B), cloud IaaS guided >70% growth FY26, Stargate JV partner, valuation compressed below sector
+   cons: negative FCF until potentially 2029 per Mizuho, $124.7B debt load, raising $40B more debt+equity in 2027
+2. INTC — reshoring/foundry buildout — R&D+capex ~57% of rev FY25 — adj FCF -$2B Q1 2026 — Q1 2026 rev $13.6B up 7% YoY, DCAI up 22% — only US company building leading-edge domestic fabs — Score: 21/25
+   pros: CHIPS Act subsidies, Panther Lake progress, DCAI margins recovering to 23.4%, non-GAAP gross margin improving to 41%
+   cons: foundry still losing $2.5B/qtr at -50% margin, stock already rallied 84% in 2025 + 26% in Jan 2026, execution risk on process nodes
+3. AMZN — AI cloud + logistics automation — largest AI spender ~$200B capex 2026 — AWS AI + Trainium chips + warehouse robotics — unique dual-axis reinvestment (tech + physical) — Score: 19/25
+   pros: AWS AI growth, Trainium custom silicon reduces Nvidia dependency, massive scale
+   cons: mega-cap already well-covered, reinvestment largely priced in, capex/rev ratio mid-teens (lower intensity vs ORCL/INTC)
+4. GEV — energy transition / AI grid power — picks-and-shovels for AI data center power demand — gas turbine order backlog, grid modernization — Score: 17/25
+   pros: secular demand from AI data centers, positioned as enabler not consumer of AI
+   cons: limited R&D data available, industrial margins, cyclical risk
+5. TSLA — automation / robotics / AI — ~$20B AI/xAI capex 2026, Colossus supercomputer, FSD, Optimus — no auto peer invests comparably in AI — Score: 16/25
+   pros: optionality on autonomy and robotics, manufacturing scale
+   cons: auto margins compressing, valuation already extreme, FSD timeline uncertain
+
+**Action items for next session:**
+- **URGENT:** Close META position on Monday market open — down -12.5%, past -7% immediate close and -10% manual cut rules
+- ORCL is the top candidate: deep-dive Q4 FY2026 earnings (reported June 10), check actual capex vs $50B guide, debt covenants
+- Decide on QQQ/SOXX — neither fits the undervalue-reinvestment thesis, consider exiting for concentrated thesis plays
+- INTC: monitor Q2 2026 results (guided $13.8-14.8B rev, $0.20 non-GAAP EPS) — already rallied significantly, may be late
+- Place trailing stops on all positions Monday AM
