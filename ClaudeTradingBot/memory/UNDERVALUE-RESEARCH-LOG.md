@@ -416,3 +416,44 @@ TRADE or HOLD (default HOLD if no edge)
 - Decide on QQQ/SOXX — neither fits the undervalue-reinvestment thesis, consider exiting for concentrated thesis plays
 - INTC: monitor Q2 2026 results (guided $13.8-14.8B rev, $0.20 non-GAAP EPS) — already rallied significantly, may be late
 - Place trailing stops on all positions Monday AM
+
+## 2026-07-05
+**Account:** Equity $99,581.20 | Cash $91,987.64 | BP $389,212.53 | DT count 0
+
+**Holdings:**
+- META — EXIT-CANDIDATE — Down -7.3% from entry ($629.12 → $582.90). Recovered from $550 low on 6/28 but still past -7% immediate close rule. No trailing stop placed (still!). AI thesis intact (capex $125-145B, Meta Compute spin-off launching on Nasdaq this month). Equity offering fears subsided. Forward P/E 20.5x is cheap. But rules say close at -7%. — Stop distance: N/A (no stop order)
+- QQQ — OK — ETF, -3.5% ($738.52 → $712.60). Strong 3-month performance +22%. Not a thesis play. 90% historical July win rate. P/E 32.3x.
+- SOXX — OK — ETF, -1.6% ($575.59 → $566.32). Semis remain strong on AI chip demand. YTD +88%. Not a thesis play.
+
+**News flags:**
+- META launching Meta Compute as separate Nasdaq-listed entity this month — could unlock value from AI infra assets
+- ORCL stock down 57% from Sept 2025 ATH ($326 → $141), now trading at P/E 24x with $141 price. AI Act repeal concerns causing additional selling
+- INTC rallied 537% from 52wk low ($19 → $121). Market cap now $605B. Analyst consensus Hold at $82 target — stock trading 47% above consensus
+- Markets closed Monday July 6 (Independence Day observed) — no action possible until Tuesday July 7
+
+**⚠️ CRITICAL: No trailing stops on ANY position. Must place stops Tuesday AM.**
+
+**Top candidates (ranked):**
+1. ORCL — AI cloud infrastructure — capex ~75% of rev FY26 ($50B+ vs $67B rev) — P/E 24x, down 57% from ATH — RPO $138B+, guided $90B rev FY27 — only hyperscaler with autonomous DB + enterprise AI inference focus vs AWS/Azure commodity cloud — avg analyst target $261 (85% upside) — Score: 23/25
+   pros: massive RPO backlog, cloud IaaS >70% growth, Stargate JV, valuation deeply compressed, FCF sacrifice is explicit and strategic
+   cons: negative FCF until ~2029, $125B+ debt, AI Act regulatory headwind, TikTok political risk
+2. INTC — reshoring/foundry — R&D+capex ~57% of rev — 18A node progress, CHIPS Act subsidies — only US leading-edge foundry — Score: 19/25
+   pros: foundry thesis gaining traction, analyst hiking targets 100%, domestic fab moat, government backing
+   cons: stock already rallied 537% from low, trading 47% above $82 consensus target, P/E deeply negative, foundry still losing $2.5B/qtr
+3. AMZN — AI cloud + logistics automation — $200B capex 2026 (~28% of rev) — AWS RPO $364B, Trainium custom silicon — dual-axis reinvestment unique among peers — Score: 19/25
+   pros: AWS AI growth 28%, custom silicon reducing Nvidia dependency, Leo satellite constellation optionality
+   cons: mega-cap well-covered, reinvestment somewhat priced in, less "underappreciated"
+4. GEV — energy transition / AI grid power — gas turbine order backlog, grid modernization — picks-and-shovels for AI data center power — Score: 17/25
+   pros: secular demand from AI data centers, positioned as enabler not consumer
+   cons: limited R&D intensity data, industrial margins, cyclical risk
+5. VRT — AI data center power/cooling — stock up 97% in 12 months on AI demand — liquid cooling + power management — Score: 16/25
+   pros: direct beneficiary of AI data center buildout, strong revenue growth
+   cons: already heavily appreciated, may be fully priced, industrial margins
+
+**Action items for next session (Tuesday July 7):**
+- **URGENT:** META at -7.3% — must close per -7% immediate close rule. Execute market sell Tuesday AM
+- **URGENT:** Place 15% trailing stops on QQQ and SOXX immediately
+- Decide on QQQ/SOXX — neither fits thesis, consider exiting for ORCL position
+- ORCL is top candidate: at $141 with $261 avg target. Deep-dive Q4 FY2026 actual results, FCF trajectory, debt covenants before entry
+- INTC too hot — skip for now, revisit if it pulls back toward $80-90
+- Monday is a market holiday — no trading possible
